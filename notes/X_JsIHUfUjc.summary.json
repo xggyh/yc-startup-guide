@@ -1,0 +1,17 @@
+{
+  "id": "X_JsIHUfUjc",
+  "zh_title": "如何用 AI 打造一家自我改进的公司",
+  "en_title": "How to Build a Self-Improving Company with AI",
+  "one_liner_zh": "不要把 AI 当副驾贴在旧组织上,而是把公司重构成一组感知→决策→工具→质量闸→学习的递归自改进循环——对 AI Agent 创始人是从做工具升级到设计会自我进化的公司大脑的架构蓝图。",
+  "themes": ["ai_agent", "mindset", "team", "growth"],
+  "top_takeaways_zh": [
+    "Copilot 是错误心智模型:给工程师加 20% 效率只是在旧工作方式上装更强引擎,天花板很低。",
+    "真正杠杆是递归自改进循环:sensor→policy→tools→quality gate→learning 闭环跑起来,公司在你睡觉时也在变好。",
+    "在核心 agent 之上加一个监控 agent:观察每次查询的成败、自动发起代码/skills/索引改动的 MR 并合并部署,把提效升级为自改进。",
+    "烧 token 不是烧人头:YC 看到公司 Demo Day 人均营收比 18 个月前高约 5 倍,瓶颈正从人头转向 token 用量。",
+    "中层管理结束:协调交给 AI,只保留 IC(建设者)和每事一名具名负责人(DRI),不要委员会。",
+    "让公司对 AI 可读:记录一切邮件/Slack/DM/录音,没被记录=对智能而言没发生;再做 diarization 给 AI 面包屑。",
+    "软件是一次性的、上下文才值钱:用 Codex 一次性生成内部工具随模型变强即丢弃,极度珍惜地保存原始数据与 skills。"
+  ],
+  "note_path": "notes/X_JsIHUfUjc.md"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "3rWSvrFahIY",
+  "zh_title": "LLM 自博弈、AI×生物、形式化验证与「用 Agent 写代码=打即时战略」",
+  "en_title": "Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club",
+  "one_liner_zh": "YC Paper Club 的 5 篇论文速览(蛋白质世界模型 / LLM 自博弈 / 语音 Agent 流式 RAG / Lean 形式化验证 / 用 Agent 写代码像打 RTS);对 AI Agent 创始人最硬核的是最后一段把 agentic coding 当即时战略来并行化的一整套工程方法论,以及贯穿全场的生成器+验证器、奖励设计陷阱、语音延迟即产品等落地心法。",
+  "themes": ["ai_agent", "mindset", "pitfalls", "growth"],
+  "top_takeaways_zh": [
+    "把 agentic coding 当 RTS 游戏打:orchestrator + 多 worker 并行(worktree/tmux/任务管理),永远别让 token/agent 闲着,靠高可见性(音频提示、tool-calls/分钟当 APM)快速纠偏。",
+    "对 worker「低估其时间、高估你的时间」:让每个 agent 尽量冲到 PR、允许做假设,能开就开 --dangerously-skip-permissions;权限确认会拖垮吞吐。",
+    "文档 > 代码作为 agent 的事实来源:代码是昂贵上下文来源,主动写互链 wiki 式知识库(含业务知识),把 agent 已知坏习惯(如极不会估工时)固化进 CLAUDE.md。",
+    "自博弈不是免费午餐:只奖励「难倒 solver」会生成人为复杂的垃圾题、并和普通 RL 一样 plateau;修复靠 grounding + 一个 guide 裁判角色——生产做 RL/合成数据要严防 reward hacking。",
+    "语音 Agent 延迟就是产品:RAG 治幻觉但加延迟,Stream RAG 在用户还在说话时并行跑检索,学一个触发策略只在关键新信息出现时才发查询。",
+    "需要保证的代码从 vibe coding 转向 verified coding:用 Lean 等骗不了内核的证明器,把「生成器 + 形式化验证器」配对用于高风险输出。",
+    "Bitter Lesson 跨领域复现:蛋白质语言模型照搬 LLM 配方就跑出干净 scaling law,单序列模型无需手工 MSA 即逼近/超越 AlphaFold3,解药是加数据而非加归纳偏置。",
+    "量化并团队化方法论:Channel AI 靠 LLM 把人均 PR 提到 3.5×,把这套 RTS 打法全团队铺开后又涨 60%。"
+  ],
+  "note_path": "notes/3rWSvrFahIY.md"
+}

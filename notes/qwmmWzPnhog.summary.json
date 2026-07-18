@@ -1,0 +1,16 @@
+{
+  "id": "qwmmWzPnhog",
+  "zh_title": "我们都对 Claude Code 上瘾了:coding agent 时代的创业启示",
+  "en_title": "We're All Addicted To Claude Code",
+  "one_liner_zh": "从造 Codex 的人视角拆解 coding agent 为何突然变强(上下文工程 + CLI 分发),给准备做 AI Agent 创业的工程师提供选架构、抢分发、避坑的实操参考。",
+  "themes": ["mindset", "ai_agent", "mvp_pmf", "growth", "pitfalls"],
+  "top_takeaways_zh": [
+    "CLI 干掉了 IDE:Claude Code/Codex 通过把你和代码拉开距离,让你像管理者一样飞速推进,反而胜过被寄予厚望的 IDE。",
+    "coding agent 的第一核心是上下文工程:派生 Explorer 子 agent 切分上下文,代码上下文密度高使 grep/ripgrep 胜过语义向量检索。",
+    "做 agent 产品要走自下而上分发(下载即用、零权限门槛),并投入 GEO——好文档、社会证明、开源让 LLM 主动推荐你。",
+    "主动管理上下文:token 到约 50% 就清空以防上下文中毒/变笨区,可用 canary 探针检测遗忘;Codex 用每轮 compaction 支持长任务。",
+    "越资深越受益,稀缺的是判断架构好坏的品味;给模型可自检手段(tests/lint/CI + code review bot)能大幅提质,测试就是 evals。",
+    "重建 Segment 的启示:写集成等底层管道价值归零,机会上移到用小 LLM agent 做个性化的更抽象层;安全场景相关,prompt injection 极易得手,核心心法是不停 tinker。"
+  ],
+  "note_path": "notes/qwmmWzPnhog.md"
+}

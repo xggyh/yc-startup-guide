@@ -1,0 +1,710 @@
+{
+ "chapters": [
+  {
+   "num": 1,
+   "key": "mindset",
+   "zh": "创始人心态与素质",
+   "en": "Founder Mindset & Traits",
+   "scope": "创业动机、韧性、信念、创始人特质、决策心态与自我管理",
+   "ids": [
+    "4EsUaur0nsQ",
+    "nGLmpKi-jRU",
+    "-7Qz7tSTfUU",
+    "2Ap1dnv-GXA",
+    "2hgjgycOU_0",
+    "49L8lVe_PVo",
+    "5WN8bfG06Hk",
+    "8SVocWnDHwE",
+    "DJjZzzPANBY",
+    "PCypBUVhff8",
+    "PQU9o_5rHC4",
+    "TrXi3naD6Og",
+    "X5bABLCuIHA",
+    "pHuXCzM2ntU",
+    "5gspRJVp9dI",
+    "8OOuCnZB-4o"
+   ]
+  },
+  {
+   "num": 2,
+   "key": "idea",
+   "zh": "找方向与选 idea",
+   "en": "Finding & Choosing Ideas",
+   "scope": "如何寻找/评估创业点子、Request for Startups、AI-native 机会、市场与赛道选择",
+   "ids": [
+    "4EsUaur0nsQ",
+    "nGLmpKi-jRU",
+    "2Ap1dnv-GXA",
+    "2hgjgycOU_0",
+    "49L8lVe_PVo",
+    "5WN8bfG06Hk",
+    "8SVocWnDHwE",
+    "DJjZzzPANBY",
+    "PCypBUVhff8",
+    "PQU9o_5rHC4",
+    "TrXi3naD6Og",
+    "gSNFJbgoaHI",
+    "l0h3nAW13ao",
+    "oHwUD9b9_pg",
+    "5gspRJVp9dI",
+    "8OOuCnZB-4o"
+   ]
+  },
+  {
+   "num": 3,
+   "key": "validation",
+   "zh": "验证需求与和用户对话",
+   "en": "Validation & Talking to Users",
+   "scope": "需求验证、用户访谈、validation vs committing、早期信号判断",
+   "ids": [
+    "-7Qz7tSTfUU",
+    "4EsUaur0nsQ",
+    "X5bABLCuIHA",
+    "nGLmpKi-jRU",
+    "pHuXCzM2ntU",
+    "2Ap1dnv-GXA",
+    "2hgjgycOU_0",
+    "49L8lVe_PVo",
+    "5WN8bfG06Hk",
+    "DJjZzzPANBY",
+    "ObBAxL2dFzw",
+    "PCypBUVhff8",
+    "PQU9o_5rHC4",
+    "TrXi3naD6Og",
+    "YKZCU0ynEbs",
+    "0kARDVL2nZg"
+   ]
+  },
+  {
+   "num": 4,
+   "key": "mvp_pmf",
+   "zh": "做 MVP 与找到 PMF",
+   "en": "MVP & Product-Market Fit",
+   "scope": "构建 MVP、快速迭代、找到并度量 product-market fit",
+   "ids": [
+    "Zyw-YA0k3xo",
+    "-7Qz7tSTfUU",
+    "4EsUaur0nsQ",
+    "8SVocWnDHwE",
+    "X5bABLCuIHA",
+    "gSNFJbgoaHI",
+    "kkv5rZhrLkc",
+    "l0h3nAW13ao",
+    "leQ89XSHILw",
+    "mjmswQurIU4",
+    "nGLmpKi-jRU",
+    "pHuXCzM2ntU",
+    "2Ap1dnv-GXA",
+    "2hgjgycOU_0",
+    "49L8lVe_PVo",
+    "5gspRJVp9dI"
+   ]
+  },
+  {
+   "num": 5,
+   "key": "growth",
+   "zh": "增长与获客",
+   "en": "Growth & Distribution",
+   "scope": "获客、分发渠道、do things that don't scale、销售与增长策略",
+   "ids": [
+    "Zyw-YA0k3xo",
+    "kMYeTRqzAfc",
+    "4EsUaur0nsQ",
+    "8SVocWnDHwE",
+    "DH7REvnQ1y4",
+    "DULfEcPR0Gc",
+    "K5JoLAauzq4",
+    "KTmxaMdUbHA",
+    "Q8wVMdwhlh4",
+    "RynySryqM_0",
+    "X5bABLCuIHA",
+    "_FBivfgOvuE",
+    "gSNFJbgoaHI",
+    "kkv5rZhrLkc",
+    "leQ89XSHILw",
+    "mjmswQurIU4"
+   ]
+  },
+  {
+   "num": 6,
+   "key": "fundraising",
+   "zh": "融资与申请 YC",
+   "en": "Fundraising & Applying to YC",
+   "scope": "融资、pitch、估值与条款、如何申请并通过 YC",
+   "ids": [
+    "5WN8bfG06Hk",
+    "7VKliOQXQ9M",
+    "kMYeTRqzAfc",
+    "2hgjgycOU_0",
+    "KTmxaMdUbHA",
+    "X5bABLCuIHA",
+    "mjmswQurIU4",
+    "PCypBUVhff8",
+    "cqrJzG03ENE",
+    "oHwUD9b9_pg",
+    "ENG_DQF5E60",
+    "Ju8LVdvuxGM",
+    "QHJkUw31YX8",
+    "hKw6cRKcqzY",
+    "wE1ZgJdt4uM"
+   ]
+  },
+  {
+   "num": 7,
+   "key": "team",
+   "zh": "联合创始人与团队",
+   "en": "Co-founders & Team",
+   "scope": "寻找联合创始人、招聘、团队协作与公司文化",
+   "ids": [
+    "i_PjjXKNpA4",
+    "Zyw-YA0k3xo",
+    "-7Qz7tSTfUU",
+    "4EsUaur0nsQ",
+    "5gspRJVp9dI",
+    "7VKliOQXQ9M",
+    "8SVocWnDHwE",
+    "B246K_G7mHU",
+    "DJjZzzPANBY",
+    "ENG_DQF5E60",
+    "JF6XIixstmQ",
+    "Ju8LVdvuxGM",
+    "PQU9o_5rHC4",
+    "YFeb3yAxtjE",
+    "cqrJzG03ENE",
+    "gSNFJbgoaHI"
+   ]
+  },
+  {
+   "num": 8,
+   "key": "ai_agent",
+   "zh": "AI / Agent 时代专题",
+   "en": "The AI / Agent Era",
+   "scope": "agent-first 产品、YC 对 AI/agent 的判断、护城河与切入点、AI 时代的创业机会与打法",
+   "ids": [
+    "Zyw-YA0k3xo",
+    "kMYeTRqzAfc",
+    "JF6XIixstmQ",
+    "KTmxaMdUbHA",
+    "lWmDiDGsLK4",
+    "4uzGDAoNOZc",
+    "B246K_G7mHU",
+    "k2ZLQC8P7dc",
+    "mPAHvz8kW24",
+    "oHwUD9b9_pg",
+    "xpeRVyFFy_Q",
+    "ypzNhwpmOD4",
+    "-7Qz7tSTfUU",
+    "3rWSvrFahIY",
+    "57lDpTwiW6g",
+    "DGtUUMNYLcc"
+   ]
+  },
+  {
+   "num": 9,
+   "key": "pitfalls",
+   "zh": "常见陷阱与反模式",
+   "en": "Common Pitfalls & Anti-patterns",
+   "scope": "创始人常犯的错误、反模式、失败教训与如何规避",
+   "ids": [
+    "l0h3nAW13ao",
+    "DNSXlBmukck",
+    "DULfEcPR0Gc",
+    "Hm-ZIiwiN1o",
+    "JNyuX1zoOgU",
+    "RynySryqM_0",
+    "UPGB-hsAoVY",
+    "Zyw-YA0k3xo",
+    "ypzNhwpmOD4",
+    "-7Qz7tSTfUU",
+    "3rWSvrFahIY",
+    "49L8lVe_PVo",
+    "7VKliOQXQ9M",
+    "JF6XIixstmQ",
+    "KTmxaMdUbHA",
+    "bxBzsSsqQAM"
+   ]
+  }
+ ],
+ "allVideos": [
+  {
+   "id": "-7Qz7tSTfUU",
+   "en_title": "Dylan Field: Scaling Figma and the Future of Design",
+   "zh_title": "Dylan Field 谈 Figma 的规模化与设计的未来",
+   "url": "https://www.youtube.com/watch?v=-7Qz7tSTfUU"
+  },
+  {
+   "id": "0kARDVL2nZg",
+   "en_title": "How To Get Your First Users",
+   "zh_title": "最小可进化产品:如何拿到你的第一批用户",
+   "url": "https://www.youtube.com/watch?v=0kARDVL2nZg"
+  },
+  {
+   "id": "2Ap1dnv-GXA",
+   "en_title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
+   "zh_title": "两个 IIT 工程师为何拒绝 55 万美元工作去创业",
+   "url": "https://www.youtube.com/watch?v=2Ap1dnv-GXA"
+  },
+  {
+   "id": "2hgjgycOU_0",
+   "en_title": "Inside The Startup Building Reusable Rockets",
+   "zh_title": "打造可复用火箭的创业内幕:从车库到轨道的硬科技创业课",
+   "url": "https://www.youtube.com/watch?v=2hgjgycOU_0"
+  },
+  {
+   "id": "3rWSvrFahIY",
+   "en_title": "Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club",
+   "zh_title": "LLM 自博弈、AI×生物、形式化验证与「用 Agent 写代码=打即时战略」",
+   "url": "https://www.youtube.com/watch?v=3rWSvrFahIY"
+  },
+  {
+   "id": "49L8lVe_PVo",
+   "en_title": "How Meesho Became India's Biggest Shopping App",
+   "zh_title": "Meesho 如何成为印度第一购物 App:问题不变、方案随时可换",
+   "url": "https://www.youtube.com/watch?v=49L8lVe_PVo"
+  },
+  {
+   "id": "4EsUaur0nsQ",
+   "en_title": "The GPT Moment for Robotics Is Here",
+   "zh_title": "机器人的 GPT 时刻已到:一份垂直机器人创业 playbook",
+   "url": "https://www.youtube.com/watch?v=4EsUaur0nsQ"
+  },
+  {
+   "id": "4uzGDAoNOZc",
+   "en_title": "OpenClaw Creator: Why 80% Of Apps Will Disappear",
+   "zh_title": "OpenClaw 之父:为什么 80% 的 App 都会消失",
+   "url": "https://www.youtube.com/watch?v=4uzGDAoNOZc"
+  },
+  {
+   "id": "57lDpTwiW6g",
+   "en_title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+   "zh_title": "Tokenmaxxing:顶尖构建者如何用 AI 干 400 个工程师的活",
+   "url": "https://www.youtube.com/watch?v=57lDpTwiW6g"
+  },
+  {
+   "id": "5WN8bfG06Hk",
+   "en_title": "From Pivot Hell To $1.4 Billion Unicorn",
+   "zh_title": "从\"转型地狱\"到 14 亿美元独角兽",
+   "url": "https://www.youtube.com/watch?v=5WN8bfG06Hk"
+  },
+  {
+   "id": "5gspRJVp9dI",
+   "en_title": "The Future Of Brain-Computer Interfaces",
+   "zh_title": "脑机接口的未来",
+   "url": "https://www.youtube.com/watch?v=5gspRJVp9dI"
+  },
+  {
+   "id": "7VKliOQXQ9M",
+   "en_title": "How The Best Companies Defend Against Mediocrity And Rot",
+   "zh_title": "如何让好公司不腐坏:创始人必须懂的公司治理与使命控制",
+   "url": "https://www.youtube.com/watch?v=7VKliOQXQ9M"
+  },
+  {
+   "id": "8OOuCnZB-4o",
+   "en_title": "The Age Of The 40-Year-Old Solo Founder Is Here",
+   "zh_title": "40 岁单人创始人的时代来了:经验 × AI 的护城河",
+   "url": "https://www.youtube.com/watch?v=8OOuCnZB-4o"
+  },
+  {
+   "id": "8SVocWnDHwE",
+   "en_title": "AI Is Unlocking Millions Of New Builders",
+   "zh_title": "AI 正在解锁数百万新一代\"建造者\"",
+   "url": "https://www.youtube.com/watch?v=8SVocWnDHwE"
+  },
+  {
+   "id": "B246K_G7mHU",
+   "en_title": "Inside YC's AI Playbook",
+   "zh_title": "YC 内部 AI 手册:把公司变成\"超级智能组织\"",
+   "url": "https://www.youtube.com/watch?v=B246K_G7mHU"
+  },
+  {
+   "id": "DGtUUMNYLcc",
+   "en_title": "Recursion Is The Next Scaling Law In AI",
+   "zh_title": "递归:AI 的下一条 Scaling Law",
+   "url": "https://www.youtube.com/watch?v=DGtUUMNYLcc"
+  },
+  {
+   "id": "DH7REvnQ1y4",
+   "en_title": "The Sales Playbook For Founders",
+   "zh_title": "创始人 B2B 销售手册:如何签下第一批经常性收入合同",
+   "url": "https://www.youtube.com/watch?v=DH7REvnQ1y4"
+  },
+  {
+   "id": "DJjZzzPANBY",
+   "en_title": "Ask These Questions Before Starting An AI Startup",
+   "zh_title": "创业前该问自己的问题:在 AGI 逼近时如何做 AI 创业",
+   "url": "https://www.youtube.com/watch?v=DJjZzzPANBY"
+  },
+  {
+   "id": "DNSXlBmukck",
+   "en_title": "Common Mistakes With Vibe Coded Websites",
+   "zh_title": "Vibe Coding 落地页的常见翻车点",
+   "url": "https://www.youtube.com/watch?v=DNSXlBmukck"
+  },
+  {
+   "id": "DULfEcPR0Gc",
+   "en_title": "Good News For Startups: Enterprise Is Bad At AI",
+   "zh_title": "好消息:大厂做不好 AI —— 创业公司的机会窗",
+   "url": "https://www.youtube.com/watch?v=DULfEcPR0Gc"
+  },
+  {
+   "id": "EN7frwQIbKc",
+   "en_title": "How To Build A Company With AI From The Ground Up",
+   "zh_title": "从零开始用 AI 搭建一家公司",
+   "url": "https://www.youtube.com/watch?v=EN7frwQIbKc"
+  },
+  {
+   "id": "ENG_DQF5E60",
+   "en_title": "This Startup Is Trying To Delete 29% Of All CO2 Emissions",
+   "zh_title": "用碳捕集删掉全美 29% 碳排放:一个门外汉如何啃下硬科技创业",
+   "url": "https://www.youtube.com/watch?v=ENG_DQF5E60"
+  },
+  {
+   "id": "Hm-ZIiwiN1o",
+   "en_title": "Billion-Dollar Unpopular Startup Ideas",
+   "zh_title": "十亿美元级的冷门点子:如何做\"反共识且正确\"的押注",
+   "url": "https://www.youtube.com/watch?v=Hm-ZIiwiN1o"
+  },
+  {
+   "id": "IqwSb2hO1jE",
+   "en_title": "What Everyone Is Getting Wrong About AI And Jobs",
+   "zh_title": "关于 AI 与就业,所有人都想错了",
+   "url": "https://www.youtube.com/watch?v=IqwSb2hO1jE"
+  },
+  {
+   "id": "JF6XIixstmQ",
+   "en_title": "This Startup Catches Fraud at Scale",
+   "zh_title": "用 AI Agent 在规模上抓欺诈:Variance 的隐身创业实录",
+   "url": "https://www.youtube.com/watch?v=JF6XIixstmQ"
+  },
+  {
+   "id": "JNyuX1zoOgU",
+   "en_title": "Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough",
+   "zh_title": "通往 AGI 还缺什么:Demis Hassabis 谈 Agent、深科技创业与下一场科学突破",
+   "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU"
+  },
+  {
+   "id": "JZLZQVmfGn8",
+   "en_title": "Transformers Explained: The Discovery That Changed AI Forever",
+   "zh_title": "Transformer 简史:改变 AI 的那次发现",
+   "url": "https://www.youtube.com/watch?v=JZLZQVmfGn8"
+  },
+  {
+   "id": "JdT78t1Offo",
+   "en_title": "Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design",
+   "zh_title": "Anthropic 联创谈 Claude Code、GPT-3 与 AI 系统设计",
+   "url": "https://www.youtube.com/watch?v=JdT78t1Offo"
+  },
+  {
+   "id": "Ju8LVdvuxGM",
+   "en_title": "India Can Create The Largest AI Companies",
+   "zh_title": "印度能诞生全球最大的 AI 公司:YC 合伙人 × 印度创业者的收官圆桌",
+   "url": "https://www.youtube.com/watch?v=Ju8LVdvuxGM"
+  },
+  {
+   "id": "K5JoLAauzq4",
+   "en_title": "How We Redesigned Our Website",
+   "zh_title": "我们如何重做官网:用“讲故事”代替“卖产品”,用 AI 直接做交互原型",
+   "url": "https://www.youtube.com/watch?v=K5JoLAauzq4"
+  },
+  {
+   "id": "KTmxaMdUbHA",
+   "en_title": "AI Is Eating Logistics",
+   "zh_title": "AI 正在吞噬物流:Flexport 的自动化实战",
+   "url": "https://www.youtube.com/watch?v=KTmxaMdUbHA"
+  },
+  {
+   "id": "ObBAxL2dFzw",
+   "en_title": "Groww: If Your Customers Don't Love It or Hate It, You've Already Lost",
+   "zh_title": "让客户「爱到不行或恨到咬牙」:Groww 创始人的消费级金融科技心法",
+   "url": "https://www.youtube.com/watch?v=ObBAxL2dFzw"
+  },
+  {
+   "id": "PCypBUVhff8",
+   "en_title": "Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry",
+   "zh_title": "用 7000 美元的 PVC 反应器,撬动 6 万亿美元的化工行业:Solugen 的从 0 到 10 亿",
+   "url": "https://www.youtube.com/watch?v=PCypBUVhff8"
+  },
+  {
+   "id": "PQU9o_5rHC4",
+   "en_title": "Inside Claude Code With Its Creator Boris Cherny",
+   "zh_title": "对话 Claude Code 之父 Boris Cherny:如何为「六个月后的模型」而造",
+   "url": "https://www.youtube.com/watch?v=PQU9o_5rHC4"
+  },
+  {
+   "id": "Pdne9xaRLUc",
+   "en_title": "Why Now Is The Best Time To Build In Crypto",
+   "zh_title": "为什么现在是加密建设的黄金时代",
+   "url": "https://www.youtube.com/watch?v=Pdne9xaRLUc"
+  },
+  {
+   "id": "Q8wVMdwhlh4",
+   "en_title": "The AI Agent Economy Is Here",
+   "zh_title": "AI Agent 经济已经到来:为\"会挑工具的智能体\"做产品",
+   "url": "https://www.youtube.com/watch?v=Q8wVMdwhlh4"
+  },
+  {
+   "id": "QHJkUw31YX8",
+   "en_title": "Paul Graham on Going to Silicon Valley",
+   "zh_title": "该不该去硅谷:大中心、机缘相遇与 YC 的复利",
+   "url": "https://www.youtube.com/watch?v=QHJkUw31YX8"
+  },
+  {
+   "id": "R56RJFZBasQ",
+   "en_title": "Pick One Idea and Go Deep",
+   "zh_title": "选一个想法,把它做深",
+   "url": "https://www.youtube.com/watch?v=R56RJFZBasQ"
+  },
+  {
+   "id": "RynySryqM_0",
+   "en_title": "Cursor Head of Design Roasts Startup Websites",
+   "zh_title": "Cursor 设计负责人吐槽创业公司官网:让用户 5 秒看懂你的产品",
+   "url": "https://www.youtube.com/watch?v=RynySryqM_0"
+  },
+  {
+   "id": "TrXi3naD6Og",
+   "en_title": "Michael Truell: Building Cursor At 23, Taking On GitHub Copilot & Advice To Engineering Students",
+   "zh_title": "24 岁做出 Cursor:在 GitHub Copilot 阴影下,靠\"信念一致性\"押注编程的未来",
+   "url": "https://www.youtube.com/watch?v=TrXi3naD6Og"
+  },
+  {
+   "id": "UPGB-hsAoVY",
+   "en_title": "The Powerful Alternative To Fine-Tuning",
+   "zh_title": "微调的强力替代方案:给 LLM 装上\"高跷\"的递归自我改进",
+   "url": "https://www.youtube.com/watch?v=UPGB-hsAoVY"
+  },
+  {
+   "id": "VbqaL_eHhKY",
+   "en_title": "YC's Head of Design Shows You How To Design With AI",
+   "zh_title": "YC 设计负责人:如何用 AI(编码 Agent)做设计",
+   "url": "https://www.youtube.com/watch?v=VbqaL_eHhKY"
+  },
+  {
+   "id": "X5bABLCuIHA",
+   "en_title": "Harshil Mathur: AI Is Compressing Every Moat",
+   "zh_title": "AI 正在压缩每一条护城河:Razorpay 创始人的十年创业课",
+   "url": "https://www.youtube.com/watch?v=X5bABLCuIHA"
+  },
+  {
+   "id": "X_JsIHUfUjc",
+   "en_title": "How to Build a Self-Improving Company with AI",
+   "zh_title": "如何用 AI 打造一家自我改进的公司",
+   "url": "https://www.youtube.com/watch?v=X_JsIHUfUjc"
+  },
+  {
+   "id": "YFeb3yAxtjE",
+   "en_title": "Anthropic Head of Pretraining on Scaling Laws, Compute, and the Future of AI",
+   "zh_title": "前沿模型是怎么练出来的:Anthropic 预训练负责人谈扩展定律、算力与 AI 的未来",
+   "url": "https://www.youtube.com/watch?v=YFeb3yAxtjE"
+  },
+  {
+   "id": "YKZCU0ynEbs",
+   "en_title": "Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables",
+   "zh_title": "Zepto:两个 17 岁少年如何做成印度最大生鲜卖家",
+   "url": "https://www.youtube.com/watch?v=YKZCU0ynEbs"
+  },
+  {
+   "id": "Z4L4ZqL1xqQ",
+   "en_title": "The Best Consumer Startup Ideas Were Impossible Until Now",
+   "zh_title": "最好的消费级创业点子,过去做不了、现在能做了",
+   "url": "https://www.youtube.com/watch?v=Z4L4ZqL1xqQ"
+  },
+  {
+   "id": "Zyw-YA0k3xo",
+   "en_title": "The FDE Playbook for AI Startups with Bob McGrew",
+   "zh_title": "AI 创业公司的 FDE(前置部署工程师)实战手册",
+   "url": "https://www.youtube.com/watch?v=Zyw-YA0k3xo"
+  },
+  {
+   "id": "_FBivfgOvuE",
+   "en_title": "How to Get Your First 10 Customers",
+   "zh_title": "如何拿下你的前 10 个客户",
+   "url": "https://www.youtube.com/watch?v=_FBivfgOvuE"
+  },
+  {
+   "id": "bxBzsSsqQAM",
+   "en_title": "The 7 Most Powerful Moats For AI Startups",
+   "zh_title": "AI 创业最强的 7 条护城河",
+   "url": "https://www.youtube.com/watch?v=bxBzsSsqQAM"
+  },
+  {
+   "id": "cqrJzG03ENE",
+   "en_title": "The Truth About The AI Bubble",
+   "zh_title": "AI 泡沫的真相:2025 年 YC 眼中最意外的事",
+   "url": "https://www.youtube.com/watch?v=cqrJzG03ENE"
+  },
+  {
+   "id": "dC_3ys349bU",
+   "en_title": "The ML Technique Every Founder Should Know",
+   "zh_title": "每个创始人都该懂的机器学习技术:扩散模型",
+   "url": "https://www.youtube.com/watch?v=dC_3ys349bU"
+  },
+  {
+   "id": "e5-6rEwzxLs",
+   "en_title": "Dot Plots: How to Actually See What Your Users Are Doing",
+   "zh_title": "点阵图:真正看清用户在做什么",
+   "url": "https://www.youtube.com/watch?v=e5-6rEwzxLs"
+  },
+  {
+   "id": "fQmlML9Lay4",
+   "en_title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
+   "zh_title": "像指挥家一样管理一群编程 Agent:Conductor CEO 的 AI 编码工作流",
+   "url": "https://www.youtube.com/watch?v=fQmlML9Lay4"
+  },
+  {
+   "id": "gSNFJbgoaHI",
+   "en_title": "How to Build an AI-Native Services Company",
+   "zh_title": "如何从零打造 AI 原生服务公司",
+   "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI"
+  },
+  {
+   "id": "hKw6cRKcqzY",
+   "en_title": "Inside The Startup Launching AI Data Centers Into Space",
+   "zh_title": "把数据中心送上太空:一家硬科技创业公司的诞生逻辑",
+   "url": "https://www.youtube.com/watch?v=hKw6cRKcqzY"
+  },
+  {
+   "id": "i_PjjXKNpA4",
+   "en_title": "The Startup Playbook for Hiring Your First Engineers and AEs",
+   "zh_title": "招聘你的第一批工程师和销售(AE)的创业实操手册",
+   "url": "https://www.youtube.com/watch?v=i_PjjXKNpA4"
+  },
+  {
+   "id": "k2ZLQC8P7dc",
+   "en_title": "François Chollet: Why Scaling Alone Isn't Enough for AGI",
+   "zh_title": "为什么只靠 Scaling 造不出 AGI:François Chollet 谈符号程序合成、可验证奖励与创业机会",
+   "url": "https://www.youtube.com/watch?v=k2ZLQC8P7dc"
+  },
+  {
+   "id": "kMYeTRqzAfc",
+   "en_title": "Replit's CEO On The Only Two Jobs Left In The Company Of The Future",
+   "zh_title": "未来公司只剩两种岗位:Replit CEO 谈 AI 原生建造者时代",
+   "url": "https://www.youtube.com/watch?v=kMYeTRqzAfc"
+  },
+  {
+   "id": "kkv5rZhrLkc",
+   "en_title": "BillionToOne Is Solving One of Biotech's Hardest Problems",
+   "zh_title": "十亿分之一:用「分步走」战略把硬科技做成 40 亿美元公司",
+   "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc"
+  },
+  {
+   "id": "l0h3nAW13ao",
+   "en_title": "From Idea to $650M Exit: Lessons in Building AI Startups",
+   "zh_title": "从想法到 6.5 亿美元退出:AI 创业的实战心法",
+   "url": "https://www.youtube.com/watch?v=l0h3nAW13ao"
+  },
+  {
+   "id": "lWmDiDGsLK4",
+   "en_title": "The Future of Software Creation with Replit CEO Amjad Masad",
+   "zh_title": "软件创造的未来:Replit CEO 谈应用软件价值归零与 Agent 栖息地",
+   "url": "https://www.youtube.com/watch?v=lWmDiDGsLK4"
+  },
+  {
+   "id": "leQ89XSHILw",
+   "en_title": "Why Your Startup Website Isn't Converting",
+   "zh_title": "为什么你的创业官网不转化:Framer CEO 拆解 5 个 AI 创业站",
+   "url": "https://www.youtube.com/watch?v=leQ89XSHILw"
+  },
+  {
+   "id": "mPAHvz8kW24",
+   "en_title": "The Most AI-Pilled CEO We Know",
+   "zh_title": "我们认识的最\"AI 上头\"的 CEO",
+   "url": "https://www.youtube.com/watch?v=mPAHvz8kW24"
+  },
+  {
+   "id": "mjmswQurIU4",
+   "en_title": "How Legora Went From YC to $100M ARR in 18 Months",
+   "zh_title": "Legora 如何在 18 个月内从 YC 干到 1 亿美金 ARR",
+   "url": "https://www.youtube.com/watch?v=mjmswQurIU4"
+  },
+  {
+   "id": "nGLmpKi-jRU",
+   "en_title": "Startup Advice: AI GTM, Pivoting & How To Hire",
+   "zh_title": "YC 办公室答疑:AI 产品的进入市场、Pivot 与招人",
+   "url": "https://www.youtube.com/watch?v=nGLmpKi-jRU"
+  },
+  {
+   "id": "oHwUD9b9_pg",
+   "en_title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
+   "zh_title": "消费级现在\"不可投\",正因如此你才该做它",
+   "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg"
+  },
+  {
+   "id": "pBlIgs6w7Ss",
+   "en_title": "How Intelligent Is AI, Really?",
+   "zh_title": "AI 到底有多聪明?用 ARC-AGI 重新定义\"智能\"",
+   "url": "https://www.youtube.com/watch?v=pBlIgs6w7Ss"
+  },
+  {
+   "id": "pHuXCzM2ntU",
+   "en_title": "How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)",
+   "zh_title": "25 岁、零法律背景,如何做成 6.75 亿美元法律 AI 公司(Legora 复盘)",
+   "url": "https://www.youtube.com/watch?v=pHuXCzM2ntU"
+  },
+  {
+   "id": "qwmmWzPnhog",
+   "en_title": "We're All Addicted To Claude Code",
+   "zh_title": "我们都对 Claude Code 上瘾了:coding agent 时代的创业启示",
+   "url": "https://www.youtube.com/watch?v=qwmmWzPnhog"
+  },
+  {
+   "id": "qz4GQ0zUFRw",
+   "en_title": "The Key Thing Human Brains Have That AI Is Trying To Learn",
+   "zh_title": "人脑真正独有、AI 正拼命追赶的那个东西:世界模型",
+   "url": "https://www.youtube.com/watch?v=qz4GQ0zUFRw"
+  },
+  {
+   "id": "rWUWfj_PqmM",
+   "en_title": "The New Way To Build A Startup",
+   "zh_title": "20X 公司:用内部自动化打赢体量大你 20 倍的对手",
+   "url": "https://www.youtube.com/watch?v=rWUWfj_PqmM"
+  },
+  {
+   "id": "raTbhtKZTZA",
+   "en_title": "OpenAI vs. Deepseek vs. Qwen: Comparing Open Source LLM Architectures",
+   "zh_title": "开源大模型架构横评:GPT-OSS vs Qwen-3 vs DeepSeek",
+   "url": "https://www.youtube.com/watch?v=raTbhtKZTZA"
+  },
+  {
+   "id": "t8co94HS6tY",
+   "en_title": "How Amplitude Went From Skeptics to \"All In\" on AI",
+   "zh_title": "Amplitude 从 AI 怀疑者到「全押 AI」:老牌 SaaS 的自我重造",
+   "url": "https://www.youtube.com/watch?v=t8co94HS6tY"
+  },
+  {
+   "id": "uqc_vt95GJg",
+   "en_title": "Aaron Levie: Why Startups Win In The AI Era",
+   "zh_title": "AI 时代创业者为何能赢:Box CEO Aaron Levie 的窗口期论",
+   "url": "https://www.youtube.com/watch?v=uqc_vt95GJg"
+  },
+  {
+   "id": "wE1ZgJdt4uM",
+   "en_title": "Inference, Diffusion, World Models, and More | YC Paper Club",
+   "zh_title": "前沿论文速览:推理、扩散、世界模型与无限算力",
+   "url": "https://www.youtube.com/watch?v=wE1ZgJdt4uM"
+  },
+  {
+   "id": "wkv2ifxPpF8",
+   "en_title": "How to Make Claude Code Your AI Engineering Team",
+   "zh_title": "把 Claude Code 变成你的 AI 工程团队",
+   "url": "https://www.youtube.com/watch?v=wkv2ifxPpF8"
+  },
+  {
+   "id": "xpeRVyFFy_Q",
+   "en_title": "Solving the Blank Canvas Problem: Gusto's AI Co-Founder",
+   "zh_title": "破解“空白画布”难题:Gusto 的 AI 联合创始人",
+   "url": "https://www.youtube.com/watch?v=xpeRVyFFy_Q"
+  },
+  {
+   "id": "ypzNhwpmOD4",
+   "en_title": "How Stripe Built Their New Website",
+   "zh_title": "Stripe 如何重做官网:AI 时代的设计品味与质量底线",
+   "url": "https://www.youtube.com/watch?v=ypzNhwpmOD4"
+  },
+  {
+   "id": "yyXCQHX55N4",
+   "en_title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
+   "zh_title": "六个月折腾折出一家 $100M ARR 公司:Emergent 的打法",
+   "url": "https://www.youtube.com/watch?v=yyXCQHX55N4"
+  }
+ ]
+}

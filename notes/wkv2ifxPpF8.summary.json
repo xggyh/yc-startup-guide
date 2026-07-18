@@ -1,0 +1,16 @@
+{
+  "id": "wkv2ifxPpF8",
+  "zh_title": "把 Claude Code 变成你的 AI 工程团队",
+  "en_title": "How to Make Claude Code Your AI Engineering Team",
+  "one_liner_zh": "用『薄骨架 + 厚技能』把编码 Agent 组织成有角色、有流程、有评审的工程团队,并把 YC 的 Office Hours 逼问法前置进 planning,帮 AI Agent 创始人在写第一行代码前就把点子想大、想清、想到可落地。",
+  "themes": ["mindset", "idea", "validation", "mvp_pmf", "ai_agent", "pitfalls"],
+  "top_takeaways_zh": [
+    "让 Agent 干活的方式和让人一样:分角色、走流程、做评审;单个聪明模型不是瓶颈,组织成团队的脚手架才是。",
+    "瓶颈不是模型智能而是 harness:骨架要薄到几乎没有,能力全塞进可复用的 skills(thin-harness, fat-skills)。",
+    "开箱模型会乱走靠猜,规模化的猜就是『看似合理却悄悄崩坏』的代码;要用 Office Hours + 对抗式评审等结构约束它。",
+    "写码前先跑逼问式提问,最狠一问:你有什么最强证据证明真有人想要?再用『钩子+楔子』把商业模式想大一层。",
+    "真正的 10x 来自并行:同时跑 10-15 个会话、几百个待审 PR;把最无聊的 QA 用自建 Playwright CLI 自动化才解锁并行。",
+    "能力过剩时代,稀缺的是判断力和点子——造东西的门槛塌了,唯一剩下的问题是你要造什么。"
+  ],
+  "note_path": "notes/wkv2ifxPpF8.md"
+}

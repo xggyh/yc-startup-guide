@@ -1,0 +1,17 @@
+{
+  "id": "cqrJzG03ENE",
+  "zh_title": "AI 泡沫的真相:2025 年 YC 眼中最意外的事",
+  "en_title": "The Truth About The AI Bubble",
+  "one_liner_zh": "从 YC 一线数据看 2025 年 AI 创业格局如何稳定成型——模型层商品化、价值回流应用层、泡沫其实是创业者的机会窗口,给想做 AI Agent 创业的人一份现在该怎么打的地图。",
+  "themes": ["mindset", "idea", "ai_agent", "team", "fundraising", "pitfalls"],
+  "top_takeaways_zh": [
+    "模型换旗:Winter 26 批次 Anthropic 首次超过 OpenAI 成第一 API(曾 90%+),Gemini 升到约 23%;Claude 编码口碑通过个人 vibe coding 渗透到产品选型。",
+    "别锁死单一模型:成熟公司把模型抽象成可热插拔的编排层,不同任务用不同模型;真护城河是私有 evals + 垂直专有数据集。",
+    "是不是泡沫问错了人:创业者不是 Comcast/Nvidia,而是 YouTube——算力过剩=更便宜的原料=你的机会;Carlota Perez 框架下现处安装期向部署期过渡,未来的 Facebook/Google 还没被创立。",
+    "自建模型从稀有变常见:开源基座 + RL 微调,8B 参数垂直模型能在医疗等领域打赢大模型;但需持续 post-training,大模型一升级微调优势就被抹平。",
+    "微调常是烧钱陷阱:第一波 AI+行业公司(Harvey)烧双位数百分比资本却买不到优势,第二波(Legora、Giga)逼近;唯一赢家是持股更多的投资人。",
+    "AI 没让团队变小:公司更快到千万 ARR,但 Series A 后照样按老剧本扩张;瓶颈不是 idea 而是能执行的人,客户期待水涨船高反而要招更多人。",
+    "别信 fast takeoff 恐慌:scaling law 是 log-linear(每进一档 ~10x 算力),加上组织抗拒变化、企业落地慢,社会有时间消化——对创业者是好消息。"
+  ],
+  "note_path": "notes/cqrJzG03ENE.md"
+}

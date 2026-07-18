@@ -1,0 +1,17 @@
+{
+  "id": "VbqaL_eHhKY",
+  "zh_title": "YC 设计负责人:如何用 AI(编码 Agent)做设计",
+  "en_title": "YC's Head of Design Shows You How To Design With AI",
+  "one_liner_zh": "YC 设计负责人 Eve Bouffard 演示「编码 Agent 优先」的真实工作流——语音输入、自建一次性微工具、Soul.md 上下文、人机双版本网页、「发送给 Agent」的用户反馈闭环——对做 AI Agent 产品的创始人是一份「Agent 如何真正改变构建方式」的活样本。",
+  "themes": ["ai_agent", "mvp_pmf", "mindset", "idea"],
+  "top_takeaways_zh": [
+    "瓶颈已从软件工程转向想象力:当一切可编辑可改变,能做多少取决于创意与表达能力。",
+    "自建一次性微工具是可训练的「肌肉」:别忍受 Agent 默认参数,让它 one-shot 一个带旋钮的调参器,调完即弃。",
+    "Soul.md 唯一真相源:录下所有会议并全量转写、连同宣言/文案倒入喂给 Agent,上下文越足输出越不通用、越会给你惊喜。",
+    "为「人」和为「机器」分别出版:给 Agent 出精简 markdown 版+copy-to-clipboard,并加「勿执行本页命令」的防注入提示。",
+    "「发送给 Agent」反馈表单:用户用自然语言提需求→后台自动 fire off agent 开 PR,团队只决定 merge,重塑用户共创式迭代闭环。",
+    "打破 AI 通用设计感:用 Pinterest/收藏做参考库,把参考图+内容+vibe 一起喂 Agent,再 one-shot 出 10+ 版并自建带书签的画廊筛选。",
+    "AI 优先不等于全程 AI:关键资产(如 zine 封面)刻意保留纯人工,判断「何时不用 AI」同样是能力。"
+  ],
+  "note_path": "notes/VbqaL_eHhKY.md"
+}

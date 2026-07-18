@@ -1,0 +1,18 @@
+{
+  "id": "8OOuCnZB-4o",
+  "zh_title": "40 岁单人创始人的时代来了:经验 × AI 的护城河",
+  "en_title": "The Age Of The 40-Year-Old Solo Founder Is Here",
+  "one_liner_zh": "当模型把'能力'变成大宗商品,稀缺的是'知道拿这份无边界智能去做什么'的领域判断力——用 Ploy(AI 建站+营销大脑)的实战,讲清有经验的创始人如何用一层薄薄的 harness 把通用模型变成 purpose-built 产品并建立护城河,对 AI Agent 创始人既是方法论也是竞品拆解。",
+  "themes": ["mindset", "idea", "mvp_pmf", "growth", "ai_agent", "pitfalls"],
+  "top_takeaways_zh": [
+    "模型是'无边界智能'但需要专家指挥:壁垒不再是会写代码/做设计,而是知道该聚焦什么、拿智能做什么,这正是深耕十年以上的老兵重新占优的原因。",
+    "产品别停在建站,要做'营销大脑':接管流量/数据/CRM/Search Console,在客户睡觉时优化营销、被 ChatGPT/Perplexity 收录;起点是首页,终点是公司营销中枢。",
+    "护城河 = purpose-built 而非更大的模型:通用模型什么都会,但企业要的是帮它达成具体结果的专用产品;别卖给会一夜换工具的工程师,去找痛点真真真实的小企业。",
+    "Agent 就是新客户:把产品做成 agent 能自助注册、自助调用的形态(Ploy 选 CLI+skills 而非 MCP,内置 AEO/FAQ/schema markup)——agent 选了你就赢了。",
+    "反 AI slop 靠策展 + harness:约 75 万美元 token 的确定性 Slurper 抽取品牌设计系统,加 3,500 条人工策展设计 prompt,让输出有'你的 vibes'而非千篇一律的 AI 味。",
+    "'克隆自己'是最大杠杆:把 20 年经验灌进产品与 AI-native 运营(通话自动转录进 CRM、提案自动起草、跟进邮件自动排期),用几百上千个带你品味的'自己'去跑。",
+    "经验的正反面都要管理:红利是能直奔 idea maze 里正确的岔口,但'我当年被坑过'会让你过度回避——要刻意补一点年轻人的 bravado 和风险偏好。",
+    "40 岁单人创始人的时代:不必真 40 岁,你只需要有品味(taste)——品味 × AI 杠杆,让一个人就能干过去一整支团队一年的活。"
+  ],
+  "note_path": "notes/8OOuCnZB-4o.md"
+}

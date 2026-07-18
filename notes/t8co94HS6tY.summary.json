@@ -1,0 +1,17 @@
+{
+  "id": "t8co94HS6tY",
+  "zh_title": "Amplitude 从 AI 怀疑者到「全押 AI」:老牌 SaaS 的自我重造",
+  "en_title": "How Amplitude Went From Skeptics to \"All In\" on AI",
+  "one_liner_zh": "做了十年分析、原本深度怀疑 AI 的 SaaS 公司,如何靠「自下而上让全员先信先用工具」完成 AI 重造;并讲清 AI 原生产品与传统 SaaS 的方法论根本差别、incumbent 的软肋,以及创始人该有的心态。",
+  "themes": ["mindset", "ai_agent", "team", "idea", "pitfalls"],
+  "top_takeaways_zh": [
+    "AI 产品与 SaaS 的根本差别:SaaS 是「问客户要什么」,AI 是「技术优先」——因为模型能力参差(jagged),客户描述不出可能性,必须先吃透模型能力再反向映射到产品。",
+    "转型第一步不是定义要造什么 AI 产品,而是让现有团队先用起来、先相信;Amplitude 用「AI Week」(培训+当众 vibe code+黑客松)自下而上长出所有 AI 产品。",
+    "「AI 杀死 SaaS」被高估:高确定性工作流是护城河;别做 agent 端到端全包,让用户能编辑/重做的设计才是 AI×B2B 的胜负手。",
+    "别做会飞速商品化的薄壳功能(如 AI visibility);真生意在下游;并聚焦「一个具体问题×一个具体买家」,而非又一个通用 agent builder。",
+    "攻 incumbent 反应最慢的地盘(如凡是 Google 想做的),太慢太保守的在位者 GTM 与产品化是软肋。",
+    "心态是第一过滤器:成功者都熬过了「理性上该放弃」的那一两年;把「为什么创业」的顶层节点想到极清晰,内在动机 > 外部认可/赚钱。",
+    "创始人→大公司高管是最难的一跃:创始人身先士卒冲最难的问题,高管必须克制时间、承认层级、大量说不,变成自己曾嘲笑的人。"
+  ],
+  "note_path": "notes/t8co94HS6tY.md"
+}

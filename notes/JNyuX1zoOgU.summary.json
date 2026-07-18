@@ -1,0 +1,18 @@
+{
+  "id": "JNyuX1zoOgU",
+  "zh_title": "通往 AGI 还缺什么:Demis Hassabis 谈 Agent、深科技创业与下一场科学突破",
+  "en_title": "Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough",
+  "one_liner_zh": "DeepMind CEO Demis Hassabis 从一线视角讲清 AGI 还差哪一两块拼图、Agent 真实进度到哪,以及在 2030 AGI 时间线下深科技创业该如何选护城河与架构——对 AI Agent 创始人是一份'时机与防御位'的实战地图。",
+  "themes": ["mindset", "idea", "ai_agent", "pitfalls", "mvp_pmf", "team"],
+  "top_takeaways_zh": [
+    "AGI 只差'一两块拼图':持续学习、长期推理、部分记忆与跨场景一致性仍未解;能否靠现有方法 scale 出来是 50-50。",
+    "缺少持续学习正是 Agent 只能做'任务局部'、无法 fire-and-forget 的根因;应用层的记忆/上下文工程是当前最大机会。",
+    "护城河 = AI × 另一门深科技(尤其涉及原子世界的材料/医药/生物);纯套壳 API 会被下一次基础模型更新冲垮。",
+    "未来不是'一个巨脑装下一切',而是强通用工具调用模型 + 把 AlphaFold 这类专用系统当独立工具编排——直接指导 Agent 架构设计。",
+    "Agent'刚刚开始',别被'40 小时跑几十个 agent'的 demo 迷惑;真正价值过去几个月才出现,还没有 vibe coding 做出的 App Store 榜首作品。",
+    "小模型是核心红利:约 90-95% 前沿能力、约 1/10 价格,交互式 Agent 用速度赚回损失的能力;蒸馏暂无理论上限。",
+    "可被 AI 攻克的问题有固定模式(AlphaFold 三要素):巨大组合搜索空间 + 清晰可爬山目标函数 + 足够数据或能造 in-distribution 合成数据的模拟器。",
+    "深科技通常是 10 年旅程,而 AGI 约 2030 到来——今天就要设计'AGI 中途出现能被它放大而非替代'的产品与资产。"
+  ],
+  "note_path": "notes/JNyuX1zoOgU.md"
+}

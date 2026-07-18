@@ -1,0 +1,17 @@
+{
+  "id": "DJjZzzPANBY",
+  "zh_title": "创业前该问自己的问题:在 AGI 逼近时如何做 AI 创业",
+  "en_title": "Ask These Questions Before Starting An AI Startup",
+  "one_liner_zh": "在“AGI 可能两三年内到来”的假设下,用一连串尖锐问题逼你重估产品、团队、护城河与信任,帮 AI Agent 创始人避免做出六个月后就成为四舍五入误差的东西。",
+  "themes": ["mindset", "idea", "validation", "mvp_pmf", "team", "ai_agent", "pitfalls"],
+  "top_takeaways_zh": [
+    "按“两年后/AGI 到来”而非“下一代模型”来规划战略、招聘与 GTM,但别锁死成僵化的两年计划。",
+    "AI 不只武装卖方也武装买方:企业会自己用下一代 LLM 决策、让 Claude Code 造内部软件,SaaS 护城河两头受压。",
+    "信任是贯穿一切的主线:按需代码、统一 agent、把数据库层交给模型,能否落地取决于你能否被信任。",
+    "半自动小团队瓦解传统信任机制——单人即可决定产品走向;AI 审计(可无偏见、可无记忆、审后自删)是重建信任的新护栏。",
+    "护城河在 AGI 也难替代处:隐性知识(材料科学、TSMC/ASML)、基础设施/能源/制造/芯片这类硬问题;警惕会更快商品化的“智能天花板”任务。",
+    "别用观点代替验证,去找能证伪假设的因果机制;创业前先为多样性探索够,再进入利用。",
+    "热爱不如防御性重要;这可能是你改变世界的最后一班车——build something people need,而非只想赚钱。"
+  ],
+  "note_path": "notes/DJjZzzPANBY.md"
+}

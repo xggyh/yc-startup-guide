@@ -1,0 +1,17 @@
+{
+  "id": "TrXi3naD6Og",
+  "zh_title": "24 岁做出 Cursor:在 GitHub Copilot 阴影下,靠\"信念一致性\"押注编程的未来",
+  "en_title": "Michael Truell: Building Cursor At 23, Taking On GitHub Copilot & Advice To Engineering Students",
+  "one_liner_zh": "Cursor 联创 Michael Truell 复盘:如何在巨头先行、自己数次失败后,靠\"若对信念保持一致,五年内所有编程都会经由模型流动\"的判断,一年从 $1M 做到 $100M ARR——对 AI Agent 创始人是选赛道、砍旧想法、务实自研、口碑增长的实战样本。",
+  "themes": ["mindset", "idea", "validation", "mvp_pmf", "growth", "team", "pitfalls"],
+  "top_takeaways_zh": [
+    "别因\"太卷\"回避你真正相信的赛道:他们刻意避开已年入 $1 亿+ 的 AI 编程,结果这才是最有信念的方向,回避理由事后看很荒谬。",
+    "选赛道靠\"信念一致性推演\"而非当下产品差距:若真信编程会被自动化,现有玩家只是小修小补、无人为终局做产品,机会正在这里。",
+    "失败想法要果断砍:CAD copilot 与加密通讯做了半年基本零用户;选 CAD 靠\"觉得它无聊冷门\"的扶手椅式推理,团队却无人是机械工程师。",
+    "MVP 极度务实、不重造轮子:放弃从零自建编辑器,像浏览器基于 Chromium 一样转向基于 VS Code 分叉,把时间全押在 AI 上。",
+    "自研模型是\"务实第二步\":先用现成 API 跑通产品,规模上来后再自研 tab/下一步预测,并用产品数据反哺。",
+    "选\"产品变好即刻反映在数字\"的市场,把产品做好让口碑野火式传播;2023 像苦行僧只打磨产品,抵住\"去搞增长工程\"的诱惑。",
+    "对未来:AI 是几十年产业级变革而非 1-2 年 AGI 一步到位;中段人与 AI 长期协作,AI 像同事也像高级编译器,编程仍是好的通识教育。"
+  ],
+  "note_path": "notes/TrXi3naD6Og.md"
+}

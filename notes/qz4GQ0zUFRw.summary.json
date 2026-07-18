@@ -1,0 +1,18 @@
+{
+  "id": "qz4GQ0zUFRw",
+  "zh_title": "人脑真正独有、AI 正拼命追赶的那个东西:世界模型",
+  "en_title": "The Key Thing Human Brains Have That AI Is Trying To Learn",
+  "one_liner_zh": "把'样本效率'这个通向 AGI 的核心难题,用 状态-动作-奖励-转移函数 的 RL 框架讲透,并说清 model-free vs model-based、合成数据护城河、世界模型怎么落地——帮做具身/Agent 的创始人判断该做哪种模型、护城河在哪、机会窗口何时到。",
+  "themes": ["ai_agent", "idea", "mindset", "pitfalls"],
+  "top_takeaways_zh": [
+    "AI 两大瓶颈:每瓦智能 与 每样本智能(样本效率);后者是世界模型要解决的核心——人几次就学会,模型要几万样本。",
+    "世界模型不是新词:牛顿力学是完美世界模型(0 样本算出 NASA/SpaceX 轨迹);创始人的'品味'=预测别人会不会喜欢,也是十几年试错训练出的世界模型。",
+    "拆解任何 RL/Agent 问题看四件事 S/A/R/转移函数,能不能解主要看动作空间大小与是否可微;可微才能凸优化/SGD,不可微只能上暴力 RL。",
+    "AlphaGo/MCTS 不可扩展:动作空间一大(围棋 361→自驾约 36 万→机器人 10^16),测试时规划调用量指数爆炸;'60 秒才转一次方向盘,车毁人亡'。",
+    "真正护城河是带动作标注的轨迹数据:观察视频遍地都是,'当时采取了什么动作'极稀缺,只有 Tesla 有车队级动作数据。",
+    "破解数据稀缺(Dreamer/视频扩散/JEPA):先用海量观察数据训世界模型,再用极少量数据做 action conditioning 后训练,在'想象 rollout'里训策略;Dreamer 全靠合成数据挖到钻石,Wave 的 Gaia 融了 15 亿美金。",
+    "model-free(VLA/行为克隆,像下一 token 预测,快但弱)vs model-based(带世界模型,强但推理慢、要测试时规划),创业前先想清做哪种。",
+    "开放问题=创业切口:实时规划、测试时自适应(OOD)、高保真物理(PINs 还不行)、跨本体泛化、触觉/摩擦感知;2026 是 demo'开始像那么回事'的第一年。"
+  ],
+  "note_path": "notes/qz4GQ0zUFRw.md"
+}

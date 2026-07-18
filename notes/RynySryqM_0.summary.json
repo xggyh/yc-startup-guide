@@ -1,0 +1,17 @@
+{
+  "id": "RynySryqM_0",
+  "zh_title": "Cursor 设计负责人吐槽创业公司官网:让用户 5 秒看懂你的产品",
+  "en_title": "Cursor Head of Design Roasts Startup Websites",
+  "one_liner_zh": "Cursor 设计负责人 Ryo Lu 与 YC 的 Aaron Epstein 现场点评 8 个用 Cursor vibe-code 出来的创业官网,提炼出 landing page 必须几秒内回答的四个问题——这是什么、和我有关吗、能用吗、可信吗,对靠官网和 demo 转化用户的 AI Agent 创始人极具落地价值。",
+  "themes": ["growth", "pitfalls", "ai_agent", "mvp_pmf"],
+  "top_takeaways_zh": [
+    "用户打开网站本能地问四件事:这是什么(what is this)→ 和我有关吗 → 能用吗 → 可信吗;首屏必须让人不费力就答上来。",
+    "别用营销大词当主标题;若用了,必配一句字面直白的副标题说清产品做什么。Velvet 整页只有六个词描述产品,其余全在催注册,是反面教材。",
+    "用用户的真实痛点语言写文案,禁用团队自造、只有你懂的行话(如 progressive discovery);Agent/MCP 类产品尤其容易踩坑。",
+    "避开 AI slop(紫色渐变、巨大阴影、烂排版),打好设计 token 与组件基础,让 AI 只负责组合;细节决定'vibe-coded 感'。",
+    "让 demo 一上来就能用、免登录能玩(Freya 直接通话是全场最佳),CTA 单一明确(book a demo),别在用户搞懂前撞注册墙或催付款。",
+    "为 LLM/Agent 的长等待做进度可视化:展示每个 state 和 tool call,但引导注意力(运行中/需确认/我的输入),别堆文字墙、别用无意义 spinner。",
+    "页面优先级:1)这是什么 2)是否适合我 3)才轮到社会认同;别把 Backed by YC 当主角。"
+  ],
+  "note_path": "notes/RynySryqM_0.md"
+}

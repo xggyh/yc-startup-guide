@@ -1,0 +1,17 @@
+{
+  "id": "JZLZQVmfGn8",
+  "zh_title": "Transformer 简史:改变 AI 的那次发现",
+  "en_title": "Transformers Explained: The Discovery That Changed AI Forever",
+  "one_liner_zh": "用 10 分钟串起 LSTM→注意力→Transformer 的技术演进,让 AI Agent 创始人真正理解自己每天调用的模型从哪来,并提炼出'重大突破从来是累积、根本约束即机会'的创业规律。",
+  "themes": ["mindset", "ai_agent", "idea"],
+  "top_takeaways_zh": [
+    "Transformer 是当今几乎所有前沿 AI 的共同底座,核心是自注意力:为每个 token 保留独立表示,并用对全序列的加权点积更新它。",
+    "2017 的'一夜爆红'是三级跳:LSTM(1990s)→ 带注意力的 Seq2Seq(2014)→ Transformer(2017),每步都在解决上一步暴露的具体瓶颈。",
+    "LSTM 用门控缓解梯度消失、能学长距离依赖,但 90 年代训练太贵而停滞;是 2010 年代的 GPU+优化+大数据让它复活——好想法也要等时机成熟。",
+    "Seq2Seq 的致命伤是固定长度瓶颈,2014 年的注意力让解码器回看编码器全部隐状态、学会'对齐+翻译',神经模型首次打平统计系统。",
+    "Transformer 的关键一招是彻底抛弃递归、只靠注意力,使整段可并行处理,又快又准——可并行=可规模化,这是它赢的前提。",
+    "分化出 BERT(只用 encoder)与 GPT(只用 decoder),都是原始 Transformer 的子集;是自回归+更大数据集让模型看起来像通用智能。",
+    "'一个模型统治一切'在当时并不显然,早期是每个任务训一个模型、没有 chat 与 prompting;创业启示是押注可泛化底座、找绕不过的根本约束作切入点。"
+  ],
+  "note_path": "notes/JZLZQVmfGn8.md"
+}

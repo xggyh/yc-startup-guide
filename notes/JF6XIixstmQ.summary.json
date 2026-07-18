@@ -1,0 +1,18 @@
+{
+  "id": "JF6XIixstmQ",
+  "zh_title": "用 AI Agent 在规模上抓欺诈:Variance 的隐身创业实录",
+  "en_title": "This Startup Catches Fraud at Scale",
+  "one_liner_zh": "把合规/反欺诈这类原本靠人工审核的高价值枯燥流程,用 AI Agent 彻底自动化的真实案例——示范了垂直 Agent 的产品架构、why now、以及冷启动第一个企业客户的完整路径。",
+  "themes": ["ai_agent", "idea", "mvp_pmf", "team", "pitfalls", "mindset"],
+  "top_takeaways_zh": [
+    "垂直 Agent 的最小构件只有三个:合规文档/SOP、自建工具、内外部数据;别一开始就造复杂的端到端决策层。",
+    "Agent 取代'规则引擎+分类器+人工'的三段式补丁系统,形成能在对抗环境自愈的闭环;分类器和人工推理都大幅省去。",
+    "不要追求 100% 自动化:Agent triage 掉 99% 简单案子,剩 1% 最复杂的留给人,因此必须配一个高质量的人工调查面板。",
+    "最难的技术活是数据接入(散在 5-10 系统、无 schema、petabyte、甚至藏在人用的老 UI 后),而非模型;要备好 API/reverse-ETL/浏览器爬取多种方式。",
+    "给 Agent 开放网络访问是让长期难自动化的问题跑通的最后一块拼图,因为人工分析师本质是'Google 一下再判断'。",
+    "Why now 要讲清:公司 pre-ChatGPT 成立,GPT-4 在 batch 期间发布,一次模型更新降本 10 倍、性能大涨,把半不可能变可解。",
+    "企业冷启动:第一个客户先信创始人而非产品,问题空间必须'on fire';首单 IAC 花了 8 个月。",
+    "12 人/5 工程师靠 AI coding maximalism 放大产出,每人是'一队 AI 的经理';并要尽早消除创始人单点故障(bus factor=1)。"
+  ],
+  "note_path": "notes/JF6XIixstmQ.md"
+}

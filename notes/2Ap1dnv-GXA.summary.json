@@ -1,0 +1,18 @@
+{
+  "id": "2Ap1dnv-GXA",
+  "zh_title": "两个 IIT 工程师为何拒绝 55 万美元工作去创业",
+  "en_title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
+  "one_liner_zh": "Giga 联创 Varun 复盘从 EdTech 到微调再到客服 Agent 的多次 pivot,核心是:别纠结点子和市场,盯住客户是否愿为价值付真钱,并把 Agent 产品化为可迭代的 markdown 策略 + KPI。",
+  "themes": ["mindset", "idea", "validation", "mvp_pmf", "ai_agent", "team", "pitfalls"],
+  "top_takeaways_zh": [
+    "点子和市场都不重要,唯一准绳是有人愿为你解决的问题付真钱;做新产品先拿到付费承诺再动手建。",
+    "真正的方向从现有客户里长出来:他们做微调时发现只有客服和编程两类客户增长最快,顺势掉头做客服。",
+    "AI Agent 的本质是 markdown:把 Agent 抽象成可迭代的 policy/markdown 文件,通过改它撬动 KPI(客服里是解决率/CSAT),从 30-40% 迭代到 90%。",
+    "微调是个烂市场,只能降本提速或卖给重合规大客户,而后者是销售流程非工程流程,工程师团队难打——这是昂贵教训。",
+    "产品 > 销售:成功的 AI 公司都靠产品,没人因销售团队好而用 Anthropic;把最强资源压在产品交付价值上,其余自然跟上。",
+    "用编码 Agent(Cloud Code)把团队做小:8 人干掉 400 人对手拿下 DoorDash,若无编码 Agent 工程团队要 6-7 倍;端到端一人拥有胜过多人协作+上下文切换。",
+    "企业 AI 落地最大瓶颈是 Forward Deploy Engineer,他们正做 AI FDE 来吃掉这个瓶颈——可能是比模型能力更大的护城河。",
+    "Burn the boats:断掉退路会逼你把东西真正做出来;而 AI 时代建东西成本极低,退路其实一直在,就该去建、为一小批客户交付价值看他们是否付费。"
+  ],
+  "note_path": "notes/2Ap1dnv-GXA.md"
+}

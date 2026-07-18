@@ -1,0 +1,16 @@
+{
+  "id": "leQ89XSHILw",
+  "zh_title": "为什么你的创业官网不转化:Framer CEO 拆解 5 个 AI 创业站",
+  "en_title": "Why Your Startup Website Isn't Converting",
+  "one_liner_zh": "Framer 联合创始人 Jorn van Dijk 与 YC 的 Aaron Epstein 逐帧点评 5 个真实 AI 创业公司的落地页(Lumari/Alai/Juicebox/LeapingAI/The Hog),把\"官网为什么留不住人、不转化\"讲成一套可复用清单——对靠一个落地页把陌生访客转成 Agent 试用者的 AI 创始人极其对症。",
+  "themes": ["mvp_pmf", "growth", "validation", "ai_agent", "pitfalls"],
+  "top_takeaways_zh": [
+    "首屏必须露出真实产品(截图/≤2 分钟录屏),别用抽象图标动画;没人会为看不见的东西 book demo。",
+    "5–10 秒定生死:标题下补一句字面解释\"这是什么、给谁\";别让用户看三四遍动画去拼图。",
+    "冲向 aha moment、拆掉过早的注册墙:让人先试到价值,把登录挪到导出/分享那一步;首屏放 prompt bar 或内嵌 demo 捕获意图、当场生成结果。",
+    "\"Book a demo\"对首访者是高门槛 CTA(交时间+被拉去 20 分钟通话),价值没讲清前别当主 CTA。",
+    "质量主张要有证据背书:真实客户 logo、融资新闻、带日期的更新博客;证言必须带真名真公司,全大写/无公司名的假证言会毁掉整页可信度。",
+    "美学要匹配定位(企业级 vs 消费、\"关于人\" vs 冷硬工业);动画只用于引导注意、克制使用;做减法——新建一页只放\"帮人理解这是什么\"的内容,拿给 20 个不懂它的人测。"
+  ],
+  "note_path": "notes/leQ89XSHILw.md"
+}

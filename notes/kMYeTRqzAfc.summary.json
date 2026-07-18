@@ -1,0 +1,18 @@
+{
+  "id": "kMYeTRqzAfc",
+  "zh_title": "未来公司只剩两种岗位:Replit CEO 谈 AI 原生建造者时代",
+  "en_title": "Replit's CEO On The Only Two Jobs Left In The Company Of The Future",
+  "one_liner_zh": "Replit 联合创始人 Amjad Masad 复盘如何把'写代码'整层抽象掉、服务离问题最近的非工程师,教 AI Agent 创始人怎样重定义 ICP、做 PLG+布道式 GTM、把路线图对齐 AI 能力跃迁,并对 PMF 保持诚实。",
+  "themes": ["ai_agent", "mindset", "growth", "fundraising", "mvp_pmf", "team", "pitfalls"],
+  "top_takeaways_zh": [
+    "最有价值的用户不是传统开发者,而是'技术相邻'的人(PM、设计师、领域专家、创业者)——把 ICP 重定义为'离问题最近 + 有创始人心态 + resourceful'的 champion。",
+    "GTM 双引擎:自下而上 PLG(极致好用+推荐机制)+ 自上而下'销售即布道/教育'(办 hackathon、教领导层用 AI、造内部 champion)。",
+    "给非开发者做工具,内容是护城河:文档更简单、DevRel 更像教育者、批量产视频,并在产品里内置'展示可能性'的按钮/canvas。",
+    "按 AI 能力节奏排产品路线图:判断能力约每半年一次台阶跃迁,每 6 个月发新 Agent,提前为下一次跃迁改架构(长时自主、并行执行)。",
+    "并行 agent = 团队协作:解决 merge 冲突后即等价于解决多人实时协作;再加异步设计 canvas 让人在等 agent 时进入心流。",
+    "对 PMF 极度诚实:有用户/有收入都值得庆祝但不是 PMF,真 PMF 是'爆炸式'的,别自欺、该早点转向。",
+    "未来公司只剩建造者 + 销售者两类岗位;销售转型为帮客户转型的布道/教育者(更有防御性),而'人人都是创始人',每天想怎么让公司更成功、再调度 agent 去解决问题。",
+    "YC 的领悟:三个月能做成惊人多的事(高强度专注冲刺);7% 周环比增长是启动新产品线的锚;进 YC 前 VC 不愿见、只融 50 万美元,YC 后网络打开、A16Z 领投种子轮。"
+  ],
+  "note_path": "notes/kMYeTRqzAfc.md"
+}

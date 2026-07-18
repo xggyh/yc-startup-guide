@@ -1,0 +1,17 @@
+{
+  "id": "pHuXCzM2ntU",
+  "zh_title": "25 岁、零法律背景,如何做成 6.75 亿美元法律 AI 公司(Legora 复盘)",
+  "en_title": "How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)",
+  "one_liner_zh": "以 Legora 为样本,拆解一个 AI Agent 团队如何在最保守的法律行业、零行业背景下切入、向 AI 怀疑者销售、把 agent 做成可交付的生产力,并在模型飞速迭代中建立护城河——一份可照抄的垂直 AI Agent 创业实战手册。",
+  "themes": ["mindset", "validation", "mvp_pmf", "growth", "team", "ai_agent", "pitfalls"],
+  "top_takeaways_zh": [
+    "零行业背景可行:先做 100 场用户访谈(约午餐+提议按小时费付钱),把外行的天真发问变成产品洞察,极度谦逊+高频反馈。",
+    "产品形态是把 agent 塞进用户已有工作流:Web 端 chat→能调工具的 agent→tabular review 网格,加 Word 插件(律师版 Cursor),而不是造新 App。",
+    "真正的技术难点是规模化而非 prompt:并行跑 10 万 query 不出错、每条带正确引用,靠 chunking/RAG/处理法律文档交叉引用;第一次使用体验是唯一机会,达标前甚至暂停销售。",
+    "向保守行业销售走自上而下:bottom-up 走不通(要过采购/IT/安全审查),先把一个团队做成样板明星再横向扩;话术核心是'你赢我们才赢'与'变化速率'。",
+    "模型策略:多云多模型热插拔+分类路由,简单 query 走小模型、复杂走大模型控毛利('不需要火箭筒就用水枪')。",
+    "团队打法:头几号员工优先招前创始人(哪怕失败过),要 agency 与主人翁精神;公司本质是'公司里套着多个公司',扩 hub 派最好的老员工带文化。",
+    "给垂直 AI 创始人的两条铁律:别被单一供应商锁死、别和 AI 实验室正面竞争;要么找模型够不到的窄品类,要么创造性地用模型,把产品造成'随潮水上涨的船'。"
+  ],
+  "note_path": "notes/pHuXCzM2ntU.md"
+}

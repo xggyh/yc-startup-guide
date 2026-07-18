@@ -1,0 +1,18 @@
+{
+  "id": "Hm-ZIiwiN1o",
+  "zh_title": "十亿美元级的冷门点子:如何做\"反共识且正确\"的押注",
+  "en_title": "Billion-Dollar Unpopular Startup Ideas",
+  "one_liner_zh": "当 AI 垂直赛道从遍地绿地变成处处红海,YC The Light Cone 四人从 Uber/Coinbase/DoorDash/Flock Safety 拆解如何用第一性原理而非热点做反共识押注,教 AI Agent 创始人找到别人不信、你却相信的秘密。",
+  "themes": ["idea", "mindset", "pitfalls", "ai_agent", "growth"],
+  "top_takeaways_zh": [
+    "AI 的两年淘金窗口正在关闭:模型久无 step-function 跃进、每个垂直都挤了多家公司,靠随便挑垂直做 workflow 自动化已不够,必须有独特洞见。",
+    "非共识不是智力上说不清,而是体感上危险吓人;这种恐惧本身就是别人不敢进、因而没有竞争的信号。",
+    "很多伟大点子藏在法律灰色地带(Uber/Coinbase/OpenAI);别做违法事,而要找写在技术剧变之前、已不符现实的旧法律,再有胆量去试。",
+    "该反的往往是已成默认的 playbook:DoorDash 反 full-stack 教条;如今最该反的可能是 forward-deployed engineer,连发明者都认为它被滥用。",
+    "codegen 把企业切换成本压到接近零,把复杂企业级替换的 time-to-value 从一年压到不足一个月,是当下最实的 AI 创业红利。",
+    "别用 VC 三条军规(硬件/市场小/地点)否掉自己:Flock Safety 集齐三宗不投,如今 75 亿美元、解决全美 10% 报案犯罪;TAM 只是参考指标。",
+    "只做热的东西=主动选择做衍生、明显、一堆竞争对手的点子;把注意力放回人类迫切需求,商业模式与增长能后补。",
+    "校准信息源:相信付费客户、亲身经历、直接对话的人,而非 X/TechCrunch/朋友聚会上的共识——那些都只是 N=1。"
+  ],
+  "note_path": "notes/Hm-ZIiwiN1o.md"
+}

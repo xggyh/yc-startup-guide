@@ -1,0 +1,17 @@
+{
+  "id": "raTbhtKZTZA",
+  "zh_title": "开源大模型架构横评:GPT-OSS vs Qwen-3 vs DeepSeek",
+  "en_title": "OpenAI vs. Deepseek vs. Qwen: Comparing Open Source LLM Architectures",
+  "one_liner_zh": "拆解 GPT-OSS、Qwen-3、DeepSeek V3 三大开源权重模型的架构与训练差异,帮 AI Agent 创始人搞清选哪个底座、看什么指标、护城河在哪,避免只盯 benchmark 选型。",
+  "themes": ["ai_agent", "mindset", "pitfalls"],
+  "top_takeaways_zh": [
+    "三家旗舰开源模型都是 MoE,真正决定推理成本的是激活参数量而非总参数:GPT-OSS 激活 5.1B/3.6B、DeepSeek V3 激活 37B、Qwen-3 MoE 用五分之一激活量追平 dense。",
+    "它们用的零件高度趋同(GQA、SwiGLU、RoPE、RMSNorm)却用很不同的做法得到相近跑分,所以选型不能只看 benchmark 和上下文长度这类 top-line 数字,要看具体方法。",
+    "长上下文三条路线:GPT-OSS 预训练即用 YARN 天生支持 131K;DeepSeek 分阶段微调 32K→128K;Qwen-3 推理时 YARN 把 RoPE 基频×4 冲到 128K。需按业务实测外推质量。",
+    "RL 可极度省数据:Qwen-3 推理 RL 只用约 4000 对 query-verifier 就出好结果,垂直 agent 微调应先做高质量小数据而非堆量。",
+    "DeepSeek V3 用 MLA 把 KV 压到低维潜空间再缓存,长上下文下比 GQA 更省显存;超长上下文 agent 选型时注意力机制直接决定 KV cache 成本。",
+    "真正的护城河是数据工程(dataset engineering)而非公开架构,各家数据集差异极不透明,这正是它们敢开源权重的底气。",
+    "GPT-OSS 默认量化发布可跑消费级 GPU、但无非量化版并做了大量安全对齐后训练;把能否在便宜硬件跑通 agent 主循环当作硬指标。"
+  ],
+  "note_path": "notes/raTbhtKZTZA.md"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yyXCQHX55N4",
+  "zh_title": "六个月折腾折出一家 $100M ARR 公司:Emergent 的打法",
+  "en_title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
+  "one_liner_zh": "连续创业者 Mukund Jha(Dunzo → Emergent)手把手讲他如何靠“押注 AI 指数级进步、把最后一公里做到能用、用 benchmark 锚定团队”在九个月做到 8.5M 用户 / $100M ARR;对做 AI coding/agent、又是“第 N 个入场者”的创始人极对症。",
+  "themes": ["mindset", "idea", "mvp_pmf", "growth", "ai_agent", "pitfalls"],
+  "top_takeaways_zh": [
+    "护城河是“最后一公里”而非能跑 demo:市面 AI 建站工具都停在前端 demoware(上手容易、收尾差),交付不出真后端/真数据库/能跑的软件;从“自动化整个软件工程”角度整体重造,靠交付可用软件后来居上——第二入场者照样能赢。",
+    "永远朝 AI 的方向建,并主动跳过“模型很快会解决”的问题:早期 20–30 家 YC 公司死磕 JSON 解析,Emergent 判断下一代模型会解决直接跳过,把工程力全压在 agent 本身——给 AI Agent 创始人最值钱的一条。",
+    "每出一类新模型(如 Opus)就把已学的全删掉、按新模型重新想象世界:九个月系统重写 3 次;别把架构焊死在当前模型缺陷上。",
+    "“活在边缘”:最好的点子来自现在还差一点点、把模型能力向前投影 6 个月才能做到的事;当年“自动化软件工程”被 10–12 家 VC 拒,只因模型还没到。",
+    "用一个能显示进度的数字/benchmark 锚定团队:没想清做什么时先去打 SWE-bench(最难基准),三个月世界第一,顺带练出并行 test-time compute、记忆、agent 通信等核心能力。",
+    "从个人痛点起步、信直觉、聚焦、从 day0 做全球:Dunzo 因同时做十件事没 double down 而没能规模化;做本地和做全球一样难,不如把目标 10x/100x、攻天花板而非地板。"
+  ],
+  "note_path": "notes/yyXCQHX55N4.md"
+}

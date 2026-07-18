@@ -1,0 +1,18 @@
+{
+  "id": "7VKliOQXQ9M",
+  "zh_title": "如何让好公司不腐坏:创始人必须懂的公司治理与使命控制",
+  "en_title": "How The Best Companies Defend Against Mediocrity And Rot",
+  "one_liner_zh": "Eric Ries 讲的不是产品或增长,而是股权与治理结构:如何在 seed 阶段就用 PBC、使命控制、工业基金会/永续目的信托等结构,防止你亲手创造的公司日后被投资人或董事会夺走、被'股东至上'腐化;对做高价值、有安全争议的 AI Agent 创始人尤其致命重要。",
+  "themes": ["mindset", "fundraising", "team", "pitfalls", "ai_agent"],
+  "top_takeaways_zh": [
+    "成功不是护身符而是靶子:公司越成功越值钱,被夺取和被强制出售给出价最高者的动机就越大。",
+    "股东至上不是自然法则也不是真正的法律,而是1980年代靠一小群学者/法官约定俗成的规范共识,从未经立法或公投,你可以选择不加入。",
+    "最容易、性价比最高的一步:趁只有SAFE、还没股权投资人时,day-one把公司变成PBC(两页Delaware文件,律师明天可办,无需任何人同意)。",
+    "去逐字读你自己的公司章程,把madlib式的'any lawful act or activity'换成你AI Agent公司的具体使命/公益目的。",
+    "护城河公式:ethos(更高原则)+ integrity(结构完整)= incorruptible;Costco的治理堡垒、Novo Nordisk的工业基金会都是实例。",
+    "双重股权/超级投票权不等于无敌,经常被击穿(股价暴跌、投资人断供、创始人去世);真正长久的是使命控制,用外部受托人任命董事。",
+    "工业基金会结构的公司活到50年的概率是60% vs 普通结构10%(高6倍)——用经济学论证而非道德说教。",
+    "对AI创始人:治理即招聘与信任护城河。Anthropic靠'最好的人相信自己是好人一方'+长期利益信托,能顶住外部施压,反获Claude冲上第一等反直觉红利。"
+  ],
+  "note_path": "notes/7VKliOQXQ9M.md"
+}

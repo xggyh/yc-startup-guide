@@ -1,0 +1,18 @@
+{
+  "id": "xpeRVyFFy_Q",
+  "zh_title": "破解“空白画布”难题:Gusto 的 AI 联合创始人",
+  "en_title": "Solving the Blank Canvas Problem: Gusto's AI Co-Founder",
+  "one_liner_zh": "Gusto 联合创始人 Eddie Kim 讲他如何绕过“空白画布”陷阱、用已有数据+聊天界面把 agentic AI 真正落地到 50 万小企业,以及五人十周、无文档无 Jira 造出新产品的打法——对做垂直 AI Agent 的创始人是一份落地手册。",
+  "themes": ["ai_agent", "mvp_pmf", "idea", "team", "mindset"],
+  "top_takeaways_zh": [
+    "别给用户空白画布:99.9% 的人只把 AI 当“美化版搜索引擎”,应从用户已在做的重复任务反向引导自动化,而非开放式对话框。",
+    "聊天即最佳界面:用短信/Slack/Telegram 触发、无需登录后台,是被严重低估的体验;该让 agent 更聪明,而不是堆 UI。",
+    "护城河是你已有的记录系统数据:agent 必须真正调用行业聚合数据+单用户历史行为,没用上专有数据的 agent 谁都能抄。",
+    "区分确定性与概率性任务:每 30 分钟跑一次 LLM 的“心跳”不确定又贵,工资单等确定性任务应走普通 cron。",
+    "找“工作前的工作”做切入点:每周重复、明知浪费时间、要手动搬数据的环节最好卖、价值最易感知。",
+    "AI 时代团队打法:5 人 10 周、无会议无文档无 Jira,只留常开 Zoom(permazoom)+海量 Claude Code token;先开 PR 再讨论,50% 命中率也比先写 PRD/Figma 快。",
+    "代码变便宜后更要有纪律、更要会说“不”;拿可运行的实现而非文档去做产品决策。",
+    "让 agent 从执行走向主动:主动发现用户不知道该做但该做的事(合规、可申领的税收抵免),才配叫 co-founder。"
+  ],
+  "note_path": "notes/xpeRVyFFy_Q.md"
+}

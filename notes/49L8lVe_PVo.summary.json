@@ -1,0 +1,16 @@
+{
+  "id": "49L8lVe_PVo",
+  "zh_title": "Meesho 如何成为印度第一购物 App:问题不变、方案随时可换",
+  "en_title": "How Meesho Became India's Biggest Shopping App",
+  "one_liner_zh": "一个连续五次 pivot、最终靠“极度贴近消费者 + 死磕问题、灵活换方案”跑成印度最大购物 App 的实战复盘;对 AI Agent 创始人最大的价值,是示范如何用新技术把“原本用不了产品的人”变成用户。",
+  "themes": ["mindset", "idea", "validation", "mvp_pmf", "growth", "pitfalls", "ai_agent"],
+  "top_takeaways_zh": [
+    "只跟供给侧聊、从不跟需求侧聊是最典型的早期致命错误:第一版 Fashion Nearby 只访谈卖家、从没访谈消费者,做出“比商场差、比电商也差”的两头不讨好产品,3 个月关停。",
+    "快速证伪比快速验证更重要:idea 不行就 3 个月砍掉,别在一个 idea 上耗一两年;别信用户嘴里说的问题,去现场蹲点观察真实行为(由此发现 WhatsApp 群就是店主的网店)。",
+    "有几十万用户 ≠ PMF:真正的 PMF 藏在一小撮“每天用 15–20 次、一边骂缺功能一边离不开”的 power users(在线原生 drop shippers)身上;真 PMF 的样子是连续 10 个月零营销、每月翻倍、极高留存。",
+    "公司能活过 10 年靠熬过底层范式突变:Jio 让流量费归零 + 疫情把人推上网,摧毁了靠 WhatsApp 省流量的核心前提;敢在 1000 万卖家巅峰期自杀式转型直连消费者,靠的是长期贴近消费者带来的信念。",
+    "公司铁律:对问题极度刚性、对方案极度弹性(be problem first),11 年做到“版本五”,使命没变、方案全换。",
+    "AI 是他们的“又一个 2021 时刻”:上线语音 Agent Vani,目标是“不用读、不用打字、不用点按钮、软件隐形”,用 AI 把用不了 App 的下沉人群从 2.5 亿扩展到 10 亿——这正是 AI Agent 相对旧 App 的结构性优势。"
+  ],
+  "note_path": "notes/49L8lVe_PVo.md"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Zyw-YA0k3xo",
+  "zh_title": "AI 创业公司的 FDE(前置部署工程师)实战手册",
+  "en_title": "The FDE Playbook for AI Startups with Bob McGrew",
+  "one_liner_zh": "用 Palantir 发明的前置部署工程师(FDE)打法,系统讲清 AI Agent 创业为何要把不可规模化的事规模化地做——如何选问题、组 Echo/Delta 团队、按结果定价、把单客户方案泛化成产品,并识别当下最大机会。",
+  "themes": ["ai_agent", "mvp_pmf", "growth", "team", "pitfalls", "validation", "mindset"],
+  "top_takeaways_zh": [
+    "FDE 的本质是 doing things that don't scale at scale:市场高度异质、无既有产品可替代时唯一可行的打法,避无可避时才成为护城河。",
+    "卖的是结果(outcome/已解决的问题),不是软件安装或席位/用量;定价按交付价值走,合同随时间越做越大(land & expand)。",
+    "只做客户 CEO 的前五大优先级、带来 3x–10x 阶跃改变的问题,否则不如卖个简单软件。",
+    "团队分 Echo(懂行业、敢当异端的嵌入式分析师)与 Delta(极快出原型、能吃苦的部署工程师);产品团队把单客户砂石路抽象成服务多客户的高速路。",
+    "抽象层要上提一级(如 Palantir ontology),别把单客户方案直接塞进产品造成过度特化;把 FDE 也当成产品的关键客户,持续提升其杠杆。",
+    "Demo 驱动开发:好 demo 会在客户心中制造渴望(creating desire),把焦点从我能造什么切到客户到底要什么。",
+    "早期敢承担全部风险(做成才付费),用能执行的不对称优势拿下大企业,但要争取高层授权绕过 IT/安全阻力。",
+    "为什么 AI Agent 都在抄这套:没有 incumbent product、市场碎片、产品发现量巨大,而能力跑得远快于采用——填补能力与采用之间的鸿沟就是最大机会。"
+  ],
+  "note_path": "notes/Zyw-YA0k3xo.md"
+}

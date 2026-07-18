@@ -1,0 +1,17 @@
+{
+  "id": "YKZCU0ynEbs",
+  "zh_title": "Zepto:两个 17 岁少年如何做成印度最大生鲜卖家",
+  "en_title": "Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables",
+  "one_liner_zh": "从 WhatsApp 群聊迭代到十亿美金即时零售巨头的实操样本:先跑出 PMF 再 all in、从极致客户体验反推商业模式、用小团队+AI 把成本压到近零——对做 AI Agent 创业的人极具参照价值。",
+  "themes": ["mindset", "validation", "mvp_pmf", "growth", "ai_agent", "team"],
+  "top_takeaways_zh": [
+    "先有 PMF 再跳船:用一年跑到约 1 万单/天、60–70 crore GMV run rate、拿到 term sheet 才 all in,别在没有'能跑通的证据'前冒险退学。",
+    "从最极致的客户体验反推,而非从供应链/财务模型正推;移除一切约束想'最极致体验是什么',逼出了 10 分钟送达。",
+    "死磕最初 30–100 个用户,唯一目标是让这批人真正爱上产品,屏蔽 VC/博客/行业噪音,客户不满意就无处可藏。",
+    "敢进拥挤市场:conviction 来自 bottoms-up 地和门口客户对话,发现 speed/quality/selection/price 都没被满足,而非研究竞品差异化。",
+    "本质是物流/供应链公司(atta dal chawal),不是 App 公司;供应链每省一卢比 = 还给客户或再投入体验。",
+    "AI 已在两端兑现价值:无人干预的 ML 预测让供应链敏捷;Gen AI 广告搜索栈带来数亿 ARR;内部 SaaS 支出砍到近零、小团队做更多事。",
+    "持续升级 = 招比你强的人 + 无耻地提问:围绕有数十年经验却仍饥渴的资深团队,连最基础的问题都问。"
+  ],
+  "note_path": "notes/YKZCU0ynEbs.md"
+}

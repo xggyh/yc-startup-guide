@@ -1,0 +1,16 @@
+{
+  "id": "EN7frwQIbKc",
+  "zh_title": "从零开始用 AI 搭建一家公司",
+  "en_title": "How To Build A Company With AI From The Ground Up",
+  "one_liner_zh": "不是用 AI 提效,而是把 AI 当成公司运行的操作系统——教 AI Agent 创始人从第一天起把整家公司搭成可被 AI 查询、自我改进的闭环,用最小团队跑出 10-1000 倍速度。",
+  "themes": ["mindset", "ai_agent", "team", "growth"],
+  "top_takeaways_zh": [
+    "把 AI 当成公司运行的操作系统,而非插进现有流程的 copilot——每个 workflow、决策、流程都流经这层持续学习的智能。",
+    "旧公司是开环(做完不测量、天然有损),AI 时代要把每个关键流程做成闭环:采集信息→喂回智能系统→持续自我改进。",
+    "让整家公司可查询、对 AI 可读:AI 记会议、少用 DM/邮件、渠道嵌 agent、建统一 dashboard,每个动作都产出 artifact;给模型的上下文要像给员工一样多。",
+    "AI 软件工厂是 TDD 的下一步:人写 spec+测试,agent 写实现并迭代到测试通过,极致形态是代码库无手写代码(如 StrongDM),实现 Steve Yegge 说的千倍工程师。",
+    "中层管理消失:公司速度只取决于信息流速度,可查询/artifact 丰富的公司几乎不需要人肉中间层;未来只有 IC、DRI、AI-founder 三种原型。",
+    "关键指标从堆人头变成 token maxing,要愿意背不舒服的高 API 账单;创始人必须亲自用 coding agent 建立信念,早期公司无历史包袱是打赢巨头的最大优势。"
+  ],
+  "note_path": "notes/EN7frwQIbKc.md"
+}

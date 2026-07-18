@@ -1,0 +1,18 @@
+{
+  "id": "i_PjjXKNpA4",
+  "zh_title": "招聘你的第一批工程师和销售(AE)的创业实操手册",
+  "en_title": "The Startup Playbook for Hiring Your First Engineers and AEs",
+  "one_liner_zh": "Juicebox 联创兼 CEO David Paffenholz 把'招前几名工程师/销售'拆解为一套 outbound sales 流程:判断候选人属于大厂/成长期/创业哪一类并对症去卖、主动 sourcing、写高回复率的个性化外联、面试先卖后评、七天闪电 close;对技术出身、要组建第一支团队的 AI Agent 创始人尤其对症。",
+  "themes": ["team", "mindset", "growth", "pitfalls", "ai_agent"],
+  "top_takeaways_zh": [
+    "前 10 个人定义公司文化、前 50 人定型,后来者以你的创始工程师为标杆;早期别只顾速度而忽视'具体招了谁'。",
+    "招人本质就是 outbound sales:sourcing=prospecting、cold email/DM=外联、面试转化=funnel;创始人头号错误是第一通电话只面人不卖公司,顺序要反过来:先卖公司再评估人。",
+    "先判断候选人倾向大厂(稳定慢)/成长期公司(OpenAI/Anthropic,可预期上行)/你的创业公司(高影响高方差、风险接近创始人),再对症去卖;'为什么选你'要具体到使命/股权/技术难题/文化四选一二。",
+    "顶尖候选人不投简历、已在别处上班,所以主动 sourcing 是最可控的杠杆;referral(10-20k 奖金)+分发 JD+sourcing 三管齐下,技术 co-founder 亲自发工程师外联。",
+    "高回复率靠创意 sourcing+逐条个性化(每封约 5 分钟:同高中/同前司/GitHub/Discord/Twitter DM),而非群发;40%+ 回复率的公司都这么做。email 可自动化多步,LinkedIn 手动做第三步。",
+    "看 interested rate 而非 raw reply rate:10-20% 回复算良好但含'别再发了';给自己排 schedule(每周~100 封、聊满 10 个候选人),两位创始人都参与,不够就加到 150-200 封。",
+    "唯一结构性优势是速度:7-10 天最多两周走完流程并当场排下一步,趁大厂/成长期公司协调慢时抢人;offer 针对候选人在乎的卖点定制,拉另一创始人或天使补刀。",
+    "招人是重复博弈——这次没成一年后可能就来了,顶级创始人从 day one 起 always recruiting;同时招不超过 2 个岗位(各扛一个),要招更多再考虑 contract/contingency/in-house recruiter。"
+  ],
+  "note_path": "notes/i_PjjXKNpA4.md"
+}

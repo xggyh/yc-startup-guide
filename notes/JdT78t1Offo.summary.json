@@ -1,0 +1,18 @@
+{
+  "id": "JdT78t1Offo",
+  "zh_title": "Anthropic 联创谈 Claude Code、GPT-3 与 AI 系统设计",
+  "en_title": "Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design",
+  "one_liner_zh": "Anthropic 联创 Tom Brown 复盘从自学转型到共建 Anthropic 的历程,讲透规模定律、使命驱动文化，以及'把 Claude 当用户'造 Claude Code 的产品直觉与 AI Agent 创业者的巨大空白市场。",
+  "themes": ["mindset", "mvp_pmf", "ai_agent", "team", "pitfalls"],
+  "top_takeaways_zh": [
+    "做'狼'不做'狗':创业环境逼你自己找食,是做更大事情最有价值的底层心态转变。",
+    "规模定律('花钱可靠换来更多智能')是 all-in 的决定性证据；Anthropic 信条是'做那个能 work 的蠢办法'。",
+    "使命驱动招聘=可扩展文化护城河:前 100 人全为使命而来,2000 人规模政治仍未渗入。",
+    "犹豫的代价:在'该不该发布 Claude'上拖太久没建 serving 基础设施,ChatGPT 引爆时反应不及。",
+    "编码 PMF 是刻意投入 + 意外反响的叠加;不刷公开榜,只盯内部私有 eval 并疯狂 dogfooding。",
+    "Claude Code 的秘诀不是技术壁垒,而是'把 Claude 当用户'、对它更有同理心 —— 这条路 startup 也能走。",
+    "最大蓝海是让模型胜任'编码之外的绝大多数商业工作';硬约束是算力每年约 3 倍增长、电力是最大瓶颈。",
+    "给年轻人:多冒险,做朋友会为你兴奋的事;重内在动机,轻学位/FANG 等外部标签。"
+  ],
+  "note_path": "notes/JdT78t1Offo.md"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "IqwSb2hO1jE",
+  "zh_title": "关于 AI 与就业,所有人都想错了",
+  "en_title": "What Everyone Is Getting Wrong About AI And Jobs",
+  "one_liner_zh": "用杰文斯悖论重构 AI 与就业的关系:当 AI 把某项工作成本压到极低,需求往往暴涨而非归零——告诉 AI Agent 创始人去哪些被压抑的需求里找机会,以及为什么现在就该动手。",
+  "themes": ["mindset", "idea", "ai_agent", "pitfalls"],
+  "top_takeaways_zh": [
+    "两派都错:AI 会重塑经济但不会摧毁它;历史、产业与常识都指向中间态。",
+    "放射科反例:Hinton 断言五年内淘汰放射科医生,十年后其需求反创新高——AI 加速一环却拉爆整体需求。",
+    "核心机制是杰文斯悖论:压低某资源成本会释放潜在需求,总消耗不降反升并催生新工种(集装箱、云计算、GPU 皆如此)。",
+    "Aaron Levy 定律:成本下降则需求上升,且被压抑的需求远超预期——这是创始人该盯的红利池。",
+    "岗位被重构而非消失:Karpathy 认为 AI 先吃重复、少上下文、容错高的任务,人转型为指挥 AI Agent 军队的监督者(Avoca、Tenor 已验证)。",
+    "两条底线:别低估 AI(别做把互联网比作传真机的克鲁格曼),也别躺平等 UBI——未来正被看见别人看不见之事的人此刻建造。"
+  ],
+  "note_path": "notes/IqwSb2hO1jE.md"
+}

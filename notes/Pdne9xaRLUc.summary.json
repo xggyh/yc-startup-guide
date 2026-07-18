@@ -1,0 +1,18 @@
+{
+  "id": "Pdne9xaRLUc",
+  "zh_title": "为什么现在是加密建设的黄金时代",
+  "en_title": "Why Now Is The Best Time To Build In Crypto",
+  "one_liner_zh": "YC × Coinbase 对谈:链成熟、成本骤降、监管清晰后的 crypto 建设时机判断;对 AI Agent 创始人最大的价值是——money as software 是 agent 天然的交易底座,agent 直接调用智能合约结算,而非绕行浏览器与信用卡遗留系统。",
+  "themes": ["mindset", "idea", "ai_agent", "team", "pitfalls"],
+  "top_takeaways_zh": [
+    "黄金时代由四根支柱同时成熟撑起:链扩容(成本从 5 美元降到 0.5 分甚至 0.05 分)、监管清晰(GENIUS/Clarity Act)、稳定币成熟、钱包变简单;基础设施活干完了,缺的是把它拼成病毒式增长体验的创业者。",
+    "crypto 还没迎来自己的 ChatGPT 时刻——普通人仍陌生甚至恐惧,这正是入场最佳理由。",
+    "稳定币是唯一验证过的杀手级用例:让全球用户第一次能持有并用美元编程(Dollar App、Aspora);下一波机会在本地货币稳定币(雷亚尔、奈拉、卢比)。",
+    "统一心智模型:把跑在几十年老 COBOL 系统里的百万行金融逻辑,重写成几百行智能合约;Coinbase×Shopify 用 9 个月把商业支付压成约 1000 行合约。",
+    "AI×Crypto 天然契合:crypto 提供可验证性对抗 AI 内容真伪问题;agent 是读写软件的程序,最该用的钱是 software 形态的钱——直接 call 智能合约结算。",
+    "别让 crypto 方案先于问题(hammer searching for nail);最好的稳定币产品用户甚至不知道自己在用稳定币,把技术藏在体验后面。",
+    "Coinbase/YC 只投 builder:会写代码/建社区/做内容、天天在里面、真懂技术、且 based(肯干、做对的事、把团队置于个人之上)。",
+    "收官方法论:先立一条'什么是坏的'的 thesis,然后每天出现、找客户去证明或证伪它。"
+  ],
+  "note_path": "notes/Pdne9xaRLUc.md"
+}

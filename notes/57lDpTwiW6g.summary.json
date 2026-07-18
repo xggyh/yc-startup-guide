@@ -1,0 +1,18 @@
+{
+  "id": "57lDpTwiW6g",
+  "zh_title": "Tokenmaxxing:顶尖构建者如何用 AI 干 400 个工程师的活",
+  "en_title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+  "one_liner_zh": "一个 13 年没写代码的 CEO 用 Claude Code / OpenClaw 单人 shipped 数十万行代码,把 token maxing、boil the ocean、thin harness fat skills 这套 AI 工程范式讲透——教 AI Agent 创始人把 vibe coding 出的 slop 升级为可交付产品。",
+  "themes": ["ai_agent", "mindset", "mvp_pmf", "pitfalls"],
+  "top_takeaways_zh": [
+    "Token maxing 是核心心法:别省 token,该花就花(甚至一天 $500),类比旧金山房租——越有品味懂技术的人越该在模型/算力上多花,回报最大。",
+    "Markdown 就是代码,只是编译方式不同;核心手艺是划分边界:能力与判断放进 skill 的 markdown(LLM latent space),确定性真实动作(API、Twilio 类)放代码。当今 agentic engineering 的失败大多是把本该放 markdown 的东西硬写成脆弱代码。",
+    "测试是护城河:不测就把用户丢进去 = slop,比人写的代码烂 10x;目标 80–90% 覆盖 + 集成测试,让机器去补(boil the ocean)。",
+    "让 agent 先画 ASCII 数据流/状态机/依赖图/决策树再动手,能把上下文一次装满,显著提升完成度。",
+    "工作流 = plan mode + 可复用 skills(office-hours/CEO、design、eng review)+ 交叉调用 codex 的 200 IQ CTO 找 bug + Playwright 浏览器 QA + Conductor 并行队列,自己只做最后人工验收并靠 ask_user_question 供给意图。",
+    "可行性证据:Gary's List 博客平台第一次做要 $400 万/6-7 人/一年半,今年第三次重写只花 $200/5 天,还多出全套 RAG + agentic 深度检索。",
+    "人不出局但角色变了:agency、品味、产品判断、真实客户理解仍必须人供给;机器做你不想做的脏活(尤其 QA)。",
+    "personal AI 之争:要么自己写 prompt 掌控数据与工具,要么活在别人 API line 之下被支配——这一代的个人计算革命。"
+  ],
+  "note_path": "notes/57lDpTwiW6g.md"
+}

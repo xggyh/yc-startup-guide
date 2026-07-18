@@ -1,0 +1,87 @@
+# 待处理 YC 视频清单
+
+- 共 **80** 个视频,合计约 **43.8 小时**音频
+- 下载前可手动删改本文件对应的 `video_list.txt`(每行一个 URL)
+
+| # | 时长 | 标题 | 来源 | 链接 |
+|---|------|------|------|------|
+| 1 | 74:27 | The Key Thing Human Brains Have That AI Is Trying To Learn | main | https://www.youtube.com/watch?v=qz4GQ0zUFRw |
+| 2 | 30:55 | YC's Head of Design Shows You How To Design With AI | main | https://www.youtube.com/watch?v=VbqaL_eHhKY |
+| 3 | 13:50 | Dot Plots: How to Actually See What Your Users Are Doing | main | https://www.youtube.com/watch?v=e5-6rEwzxLs |
+| 4 | 32:27 | Solving the Blank Canvas Problem: Gusto's AI Co-Founder | main | https://www.youtube.com/watch?v=xpeRVyFFy_Q |
+| 5 | 32:10 | India Can Create The Largest AI Companies | main | https://www.youtube.com/watch?v=Ju8LVdvuxGM |
+| 6 | 40:43 | Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It | main | https://www.youtube.com/watch?v=oHwUD9b9_pg |
+| 7 | 13:47 | How to Get Your First 10 Customers | main | https://www.youtube.com/watch?v=_FBivfgOvuE |
+| 8 | 42:43 | The Age Of The 40-Year-Old Solo Founder Is Here | main | https://www.youtube.com/watch?v=8OOuCnZB-4o |
+| 9 | 11:31 | Pick One Idea and Go Deep | main | https://www.youtube.com/watch?v=R56RJFZBasQ |
+| 10 | 30:11 | Groww: If Your Customers Don't Love It or Hate It, You've Already Lost | main | https://www.youtube.com/watch?v=ObBAxL2dFzw |
+| 11 | 76:55 | Self-Play for LLMs, AI for Biology, Formal Verification, and More \| YC Paper Club | main | https://www.youtube.com/watch?v=3rWSvrFahIY |
+| 12 | 30:21 | How Meesho Became India’s Biggest Shopping App | main | https://www.youtube.com/watch?v=49L8lVe_PVo |
+| 13 | 54:07 | The Most AI-Pilled CEO We Know | main | https://www.youtube.com/watch?v=mPAHvz8kW24 |
+| 14 | 29:05 | Emergent: How Six Months of Tinkering Led To A $100M ARR Company | main | https://www.youtube.com/watch?v=yyXCQHX55N4 |
+| 15 | 22:47 | How Legora Went From YC to $100M ARR in 18 Months | main | https://www.youtube.com/watch?v=mjmswQurIU4 |
+| 16 | 16:35 | Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup | main | https://www.youtube.com/watch?v=fQmlML9Lay4 |
+| 17 | 11:22 | How to Build an AI-Native Services Company | main | https://www.youtube.com/watch?v=gSNFJbgoaHI |
+| 18 | 24:30 | Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup | main | https://www.youtube.com/watch?v=2Ap1dnv-GXA |
+| 19 | 67:19 | Inference, Diffusion, World Models, and More \| YC Paper Club | main | https://www.youtube.com/watch?v=wE1ZgJdt4uM |
+| 20 | 46:30 | Inside YC's AI Playbook | main | https://www.youtube.com/watch?v=B246K_G7mHU |
+| 21 | 50:05 | How The Best Companies Defend Against Mediocrity And Rot | main | https://www.youtube.com/watch?v=7VKliOQXQ9M |
+| 22 | 13:29 | How to Build a Self-Improving Company with AI | main | https://www.youtube.com/watch?v=X_JsIHUfUjc |
+| 23 | 28:58 | Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables | main | https://www.youtube.com/watch?v=YKZCU0ynEbs |
+| 24 | 21:58 | Paul Graham, Founder of Y Combinator, Live from Stockholm | main | https://www.youtube.com/watch?v=QHJkUw31YX8 |
+| 25 | 41:30 | Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers | main | https://www.youtube.com/watch?v=57lDpTwiW6g |
+| 26 | 31:35 | Harshil Mathur: AI Is Compressing Every Moat | main | https://www.youtube.com/watch?v=X5bABLCuIHA |
+| 27 | 37:53 | Recursion Is The Next Scaling Law In AI | main | https://www.youtube.com/watch?v=DGtUUMNYLcc |
+| 28 | 40:57 | Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough | main | https://www.youtube.com/watch?v=JNyuX1zoOgU |
+| 29 | 39:12 | Replit's CEO On The Only Two Jobs Left In The Company Of The Future | main | https://www.youtube.com/watch?v=kMYeTRqzAfc |
+| 30 | 10:28 | How To Build A Company With AI From The Ground Up | main | https://www.youtube.com/watch?v=EN7frwQIbKc |
+| 31 | 21:50 | How to Make Claude Code Your AI Engineering Team | main | https://www.youtube.com/watch?v=wkv2ifxPpF8 |
+| 32 | 43:37 | How Stripe Built Their New Website | main | https://www.youtube.com/watch?v=ypzNhwpmOD4 |
+| 33 | 49:27 | The GPT Moment for Robotics Is Here | main | https://www.youtube.com/watch?v=4EsUaur0nsQ |
+| 34 | 20:50 | BillionToOne Is Solving One of Biotech’s Hardest Problems | main | https://www.youtube.com/watch?v=kkv5rZhrLkc |
+| 35 | 31:24 | This Startup Catches Fraud at Scale | main | https://www.youtube.com/watch?v=JF6XIixstmQ |
+| 36 | 57:24 | François Chollet: Why Scaling Alone Isn’t Enough for AGI | main | https://www.youtube.com/watch?v=k2ZLQC8P7dc |
+| 37 | 13:08 | Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry | main | https://www.youtube.com/watch?v=PCypBUVhff8 |
+| 38 | 39:33 | AI Is Unlocking Millions Of New Builders | main | https://www.youtube.com/watch?v=8SVocWnDHwE |
+| 39 | 53:21 | The Future Of Brain-Computer Interfaces | main | https://www.youtube.com/watch?v=5gspRJVp9dI |
+| 40 | 37:27 | Common Mistakes With Vibe Coded Websites | main | https://www.youtube.com/watch?v=DNSXlBmukck |
+| 41 | 19:46 | The Powerful Alternative To Fine-Tuning | main | https://www.youtube.com/watch?v=UPGB-hsAoVY |
+| 42 | 23:22 | The AI Agent Economy Is Here | main | https://www.youtube.com/watch?v=Q8wVMdwhlh4 |
+| 43 | 50:11 | Inside Claude Code With Its Creator Boris Cherny | main | https://www.youtube.com/watch?v=PQU9o_5rHC4 |
+| 44 | 7:51 | The New Way To Build A Startup | main | https://www.youtube.com/watch?v=rWUWfj_PqmM |
+| 45 | 22:36 | OpenClaw Creator: Why 80% Of Apps Will Disappear | main | https://www.youtube.com/watch?v=4uzGDAoNOZc |
+| 46 | 46:00 | We're All Addicted To Claude Code | main | https://www.youtube.com/watch?v=qwmmWzPnhog |
+| 47 | 18:40 | How We Redesigned Our Website | main | https://www.youtube.com/watch?v=K5JoLAauzq4 |
+| 48 | 40:27 | Why Your Startup Website Isn't Converting | main | https://www.youtube.com/watch?v=leQ89XSHILw |
+| 49 | 27:11 | The ML Technique Every Founder Should Know | main | https://www.youtube.com/watch?v=dC_3ys349bU |
+| 50 | 5:42 | How To Get Your First Users | main | https://www.youtube.com/watch?v=0kARDVL2nZg |
+| 51 | 15:44 | Inside The Startup Building Reusable Rockets | main | https://www.youtube.com/watch?v=2hgjgycOU_0 |
+| 52 | 30:23 | The Truth About The AI Bubble | main | https://www.youtube.com/watch?v=cqrJzG03ENE |
+| 53 | 12:00 | How Intelligent Is AI, Really? | main | https://www.youtube.com/watch?v=pBlIgs6w7Ss |
+| 54 | 38:47 | From Pivot Hell To $1.4 Billion Unicorn | main | https://www.youtube.com/watch?v=5WN8bfG06Hk |
+| 55 | 44:22 | How Amplitude Went From Skeptics to “All In” on AI | main | https://www.youtube.com/watch?v=t8co94HS6tY |
+| 56 | 39:36 | The Best Consumer Startup Ideas Were Impossible Until Now | main | https://www.youtube.com/watch?v=Z4L4ZqL1xqQ |
+| 57 | 35:35 | Cursor Head of Design Roasts Startup Websites | main | https://www.youtube.com/watch?v=RynySryqM_0 |
+| 58 | 33:41 | AI Is Eating Logistics | main | https://www.youtube.com/watch?v=KTmxaMdUbHA |
+| 59 | 12:56 | Inside The Startup Launching AI Data Centers Into Space | main | https://www.youtube.com/watch?v=hKw6cRKcqzY |
+| 60 | 43:21 | The Startup Playbook for Hiring Your First Engineers and AEs | main | https://www.youtube.com/watch?v=i_PjjXKNpA4 |
+| 61 | 21:44 | Good News For Startups: Enterprise Is Bad At AI | main | https://www.youtube.com/watch?v=DULfEcPR0Gc |
+| 62 | 39:25 | From Idea to $650M Exit: Lessons in Building AI Startups | main | https://www.youtube.com/watch?v=l0h3nAW13ao |
+| 63 | 9:19 | Transformers Explained: The Discovery That Changed AI Forever | main | https://www.youtube.com/watch?v=JZLZQVmfGn8 |
+| 64 | 38:33 | Startup Advice: AI GTM, Pivoting & How To Hire | main | https://www.youtube.com/watch?v=nGLmpKi-jRU |
+| 65 | 37:43 | Billion-Dollar Unpopular Startup Ideas | main | https://www.youtube.com/watch?v=Hm-ZIiwiN1o |
+| 66 | 8:01 | What Everyone Is Getting Wrong About AI And Jobs | main | https://www.youtube.com/watch?v=IqwSb2hO1jE |
+| 67 | 12:47 | This Startup Is Trying To Delete 29% Of All CO2 Emissions | main | https://www.youtube.com/watch?v=ENG_DQF5E60 |
+| 68 | 40:36 | Ask These Questions Before Starting An AI Startup | main | https://www.youtube.com/watch?v=DJjZzzPANBY |
+| 69 | 45:06 | The 7 Most Powerful Moats For AI Startups | main | https://www.youtube.com/watch?v=bxBzsSsqQAM |
+| 70 | 64:05 | Anthropic Head of Pretraining on Scaling Laws, Compute, and the Future of AI | main | https://www.youtube.com/watch?v=YFeb3yAxtjE |
+| 71 | 42:01 | Why Now Is The Best Time To Build In Crypto | main | https://www.youtube.com/watch?v=Pdne9xaRLUc |
+| 72 | 40:28 | Aaron Levie: Why Startups Win In The AI Era | main | https://www.youtube.com/watch?v=uqc_vt95GJg |
+| 73 | 42:02 | The Future of Software Creation with Replit CEO Amjad Masad | main | https://www.youtube.com/watch?v=lWmDiDGsLK4 |
+| 74 | 50:43 | The FDE Playbook for AI Startups with Bob McGrew | main | https://www.youtube.com/watch?v=Zyw-YA0k3xo |
+| 75 | 27:56 | Michael Truell: Building Cursor At 23, Taking On GitHub Copilot & Advice To Engineering Students | main | https://www.youtube.com/watch?v=TrXi3naD6Og |
+| 76 | 12:32 | OpenAI vs. Deepseek vs. Qwen: Comparing Open Source LLM Architectures | main | https://www.youtube.com/watch?v=raTbhtKZTZA |
+| 77 | 45:26 | How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience) | main | https://www.youtube.com/watch?v=pHuXCzM2ntU |
+| 78 | 35:57 | Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design | main | https://www.youtube.com/watch?v=JdT78t1Offo |
+| 79 | 18:49 | The Sales Playbook For Founders \| Startup School | main | https://www.youtube.com/watch?v=DH7REvnQ1y4 |
+| 80 | 40:37 | Dylan Field: Scaling Figma and the Future of Design | main | https://www.youtube.com/watch?v=-7Qz7tSTfUU |

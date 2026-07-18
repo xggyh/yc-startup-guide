@@ -1,0 +1,18 @@
+{
+  "id": "PQU9o_5rHC4",
+  "zh_title": "对话 Claude Code 之父 Boris Cherny:如何为「六个月后的模型」而造",
+  "en_title": "Inside Claude Code With Its Creator Boris Cherny",
+  "one_liner_zh": "从 Claude Code 创造者的第一手经验,提炼 AI Agent 创始人最该内化的产品与心态原则——永远为下一代模型而造、押注「潜在需求」、把脚手架当技术债。",
+  "themes": ["mindset", "idea", "validation", "mvp_pmf", "team", "ai_agent", "pitfalls"],
+  "top_takeaways_zh": [
+    "核心建造哲学:不为今天的模型而造,为 6 个月后的模型而造——找到当前模型做不好、但注定会做好的能力边界押注,否则会被为下一代模型建造的人蛙跳超越。",
+    "用「潜在需求 latent demand」筛想法:只把用户已经在做的事变得更省力,不要逼他们做全新动作;这是 Boris 眼中产品唯一最大的原则。",
+    "把 scaffolding(提示工程/胶水代码)当技术债:它只带 10-20% 提升且被下一代模型抹平,能等就等模型免费给你,永远不要赌模型不行(Bitter Lesson)。",
+    "CLAUDE.md/系统提示越短越好:从空白开始,模型跑偏才逐条加回,每次模型升级都删减;Boris 自己的只有两行,太长就直接删掉重来。",
+    "一切靠 dogfooding + 用户反馈逐帧迭代:plan mode 是看 GitHub issue 30 分钟写出连夜上线的,几小时做 20 个原型的速度本身就是红利。",
+    "多智能体是新前沿:用互不污染的上下文窗口 + 合理拓扑并行,把上下文当 test-time compute,难任务派 3-10 个子智能体并行;子智能体本质是递归的 Claude Code。",
+    "招聘看初学者心态与第一性原理:强观点/资深经验反成包袱,能承认错误、快速迭代的人更适配这个模型天天变的时代。",
+    "生产力已被重写:Claude Code 上线后 Anthropic 人均生产力涨 150%,Boris 已 100% 不手写代码、每天约 20 个 PR,预测 software engineer 头衔会消失。"
+  ],
+  "note_path": "notes/PQU9o_5rHC4.md"
+}

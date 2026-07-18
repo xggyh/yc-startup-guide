@@ -1,0 +1,17 @@
+{
+  "id": "4uzGDAoNOZc",
+  "zh_title": "OpenClaw 之父:为什么 80% 的 App 都会消失",
+  "en_title": "OpenClaw Creator: Why 80% Of Apps Will Disappear",
+  "one_liner_zh": "一个开源、本地优先的个人 AI agent 一夜爆红背后的产品直觉与构建哲学——本地跑、当朋友聊、给灵魂、用人类爱用的 CLI 工具而非为 bot 发明协议;对做个人/本地 AI Agent 创业的工程师是一份极高信号的思路样本。",
+  "themes": ["ai_agent", "mindset", "idea", "mvp_pmf", "validation"],
+  "top_takeaways_zh": [
+    "差异点是'跑在你自己电脑上':本地 agent 能碰你所有文件、设备与数据,能做的事比云端 agent 多一个数量级,这是 OpenClaw 起飞的根因,也是最可复用的差异化策略。",
+    "把交互从'命令行/表单'重构为'像跟朋友聊天',对普通用户隐藏 compaction、session、文件夹、模型切换等底层概念。",
+    "最脏的可用原型只要 1 小时(消息平台 × 编码模型的一段 glue code);真正的 aha 时刻来自模型自主用 FFmpeg+curl 解决从未预设的语音转写任务——编码即现实世界的创造性解题。",
+    "80% 的 App 会消失:凡是'只管理数据'的 App(记账、待办、健身)都会被 agent 用更自然的方式接管,只有真正带传感器的可能幸存。",
+    "护城河之辩:大厂靠 token 与数据孤岛,本地 agent 靠'用户拥有记忆(本地 markdown 文件)';每次新模型都会经历'惊艳→变标准→被嫌弃'的循环。",
+    "验证与传播靠活体 demo:解释不清就把 bot 丢进公开 Discord,锁定只听 owner、回应所有人,让人亲自体验、围观、甚至攻击。",
+    "反主流构建哲学:给 agent 写 soul.md 定义人格;不用 git worktree 而用多份 repo 拷贝都停在可发布的 main;不做 MCP,只给人类爱用且擅长的 CLI(需要时用 mcporter 转)。"
+  ],
+  "note_path": "notes/4uzGDAoNOZc.md"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "oHwUD9b9_pg",
+  "zh_title": "消费级现在\"不可投\",正因如此你才该做它",
+  "en_title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
+  "one_liner_zh": "Zynga 创始人 Mark Pincus 与 Garry Tan 对谈:当投资人集体逃离消费级去追 enterprise 时,恰是造下一个\"离不开的服务\"的最佳窗口,并给出 Proven/Better/New、Founder Mode、\"智能如自来水\"等对消费级/prosumer AI-Agent 创始人可直接落地的产品与心法。",
+  "themes": ["idea", "ai_agent", "mindset", "mvp_pmf", "fundraising", "team"],
+  "top_takeaways_zh": [
+    "\"消费级现在不可投=正是该做它\":投资人扎堆逃向 enterprise/prosumer,窗口反而留给敢做消费级的人;AI+agents 让重造一个已被认为过时/平庸的\"互联网珍宝\"(Google/GPT 那种离不开的服务)第一次成为可能。",
+    "Proven/Better/New 框架:成熟对手做对的一切合法照抄不质疑=Proven;10/10 老用户都认可的改进(更快/更便宜/免费)=Better;一个吸引来试的新奇点=New,但要一开始就假设 New 大概率错、只测它不迷恋它。",
+    "New 是\"包装盒背面\":带来试用却未必带来留存;别把 New 失败当挫败,人类价值恰在造 New(AI 做 Proven 给 A-、Better B-、New 只有 D)。",
+    "\"鱼群在游\"(fish are running)= PMF 真信号:对了你自会知道,每个反馈都是 fuck yes,不需指标不用催人;要慢就是快,先到真信念再全员狂奔。伟大产品人是\"收割战利品而非下注\"。",
+    "Founder Mode 属于每个创始人(不只 Bezos):管理工具唯一目的是\"你不在房间时别人也做对的事\",第一课是待在房间里;别在自己公司当\"专家证人\";日常用不同\"海拔\"沟通、建谦逊好奇诚实的文化。",
+    "智能如自来水 + tokenmaxxing + 免费:现在花百万/年做千人之工是挥霍 token 做 R&D,范式是\"别写调用 LLM 的代码,写教 LLM 写代码的 markdown\";消费级革命约在 2029(成本还差三个数量级),现在用\"当推理无限免费时会怎样\"倒推做原语。"
+  ],
+  "note_path": "notes/oHwUD9b9_pg.md"
+}

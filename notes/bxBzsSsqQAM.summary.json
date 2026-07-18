@@ -1,0 +1,18 @@
+{
+  "id": "bxBzsSsqQAM",
+  "zh_title": "AI 创业最强的 7 条护城河",
+  "en_title": "The 7 Most Powerful Moats For AI Startups",
+  "one_liner_zh": "YC《The Light Cone》用 Hamilton Helmer《七种力量》框架逐条拆解 AI Agent 公司的护城河,回答'ChatGPT 套壳会不会被大模型厂碾死':护城河真实存在但来得晚,早期唯一的护城河是速度,先去解决一个存亡级真痛点。",
+  "themes": ["mindset", "ai_agent", "growth", "pitfalls", "mvp_pmf"],
+  "top_takeaways_zh": [
+    "护城河是防御性的、来得晚:没有值得守的东西前别焦虑,更别用'看不清五年后护城河'去否掉点子或做护城河预测——这是最蠢的错误。",
+    "早期唯一的护城河是速度(不在书里的七种力量之内):Cursor 靠'一天一冲刺'的无情执行赢过必须走 PRD/PM/运营的大公司。",
+    "流程力护城河藏在最后 10% 的苦活里:黑客松版对谁都没用,把 KYC 等做到每天数万次请求下 99% 可靠是别人不愿干的 painstaking 苦工。",
+    "独占资源最佳形态是自研模型但非唯一:别因没自研模型自我判死,context engineering 拿到 80-90% 就够撑两年;更现实的是 FDE 拿到的真实数据与工作流。",
+    "转换成本有 AI 新形态:长 onboarding 深度定制 Agent 的逻辑(而非只数据),pilot 转七位数合同;消费端 memory/个性化正变成新转换成本。",
+    "反向定位打在位者软肋:SaaS 的 per seat 定价越成功越自我减收,founder-controlled 才敢自我革命;第二种打法是'做第二名'(Stripe/DoorDash/Legora)。",
+    "垂直 AI SaaS 会比 SaaS 大 10 倍:吃'原本花在人力工作流上的钱'而非有限软件预算,钱包份额可从 1% 提到 4%-10%(Avoca)。",
+    "最终建议:先聚焦速度、锁定一个存亡级真痛点从 0 到 1;网络护城河靠 evals + 数据飞轮,规模经济主要在模型层(DeepSeek 只是公开了更便宜的 RL)。"
+  ],
+  "note_path": "notes/bxBzsSsqQAM.md"
+}

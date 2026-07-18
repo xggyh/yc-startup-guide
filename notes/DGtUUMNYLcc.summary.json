@@ -1,0 +1,17 @@
+{
+  "id": "DGtUUMNYLcc",
+  "zh_title": "递归:AI 的下一条 Scaling Law",
+  "en_title": "Recursion Is The Next Scaling Law In AI",
+  "one_liner_zh": "用 HRM / TRM 两篇论文拆解“推理时递归”如何让 700 万参数小模型在特定推理任务上碾压万亿参数 LLM,给 AI Agent 创始人指明 LLM 单次前向传播的硬性能力天花板,以及“递归 / 潜空间推理”作为效率与能力护城河的技术机会与选型判断。",
+  "themes": ["ai_agent", "idea", "mindset", "pitfalls"],
+  "top_takeaways_zh": [
+    "LLM 在“不可压缩问题”(精确排序、数独、迷宫)上有可证明的硬天花板:单次前向传播步数不够,比较排序理论下界 n log n,层数用完就没步数可算——别指望一次 forward pass 解决真需多步计算的任务。",
+    "CoT 和 tool use 只是绕过限制的 hack,天花板是人类已有知识;要“发现人类知识集合之外的新解法”,纯链式思维/工具链做不到。",
+    "递归带来“计算深度”而非“参数深度”:HRM(27M 参数、零预训练、仅 1000 任务)在 ARC Prize 上约 70%,同期 O3 得 0 分。",
+    "两个真正管用的机制:外层精修循环(deep supervision)是性能主因且可扩展;截断式时间反向传播 T=1 就足够,反直觉却有效地绕开 BPTT 梯度问题。",
+    "更小反而更好:TRM 把 28M 砍到 7M 参数(权重共享合并网络、1 层 Transformer、更多递归),ARC Prize 1 从 70% 提到 87%;“变大”是充分非必要条件。",
+    "HRM/TRM 是任务专用而非通用模型,但能无需 CoT 教师强制自主发现解法;最大机会是把巨型 LLM 的潜空间表示能力与小型递归模型的潜空间推理“缝合”起来。",
+    "对高频窄域推理子任务,自研 7M 级递归模型可能又快又便宜又更准,值得对最烧钱/最卡准确率的子任务做一次“自研小模型 vs 调 API”的账。"
+  ],
+  "note_path": "notes/DGtUUMNYLcc.md"
+}

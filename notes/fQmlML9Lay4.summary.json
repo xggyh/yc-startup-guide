@@ -1,0 +1,17 @@
+{
+  "id": "fQmlML9Lay4",
+  "zh_title": "像指挥家一样管理一群编程 Agent:Conductor CEO 的 AI 编码工作流",
+  "en_title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
+  "one_liner_zh": "一位已经几乎不再手写代码的 YC 创始人,逐屏演示如何用语音同时指挥多个编程 Agent、把哪些决策留给人、哪些放手给 AI,给 AI Agent 创始人一套可直接照抄的'人在环上'工作流与产品哲学。",
+  "themes": ["ai_agent", "mindset", "mvp_pmf", "pitfalls"],
+  "top_takeaways_zh": [
+    "把自己当成'小公司 CEO'而非程序员:不停 Cmd+N 开新任务、语音下指令,一个 Agent 在跑就切到下一个,人只做 review、指方向、合并,不写代码。",
+    "默认全速全权限跑(Fast Mode + dangerously accept all permissions),要 token max 就舍得花——单月最高烧过 22,000 美元 token;但代码行数刻意求少,防止代码库失控膨胀。",
+    "把团队工程规范写进 skills 文件和 CLAUDE.md(几百行,'我们是 startup 不写企业级代码'),把约束前置给 agent,胜过零散调参。",
+    "划出 slop-free 区:代码/文档里标注'人类专属、AI 勿动',因为 AI 会陷入'看到烂代码→写更多烂代码'的恶性循环;核心 API、抽象、UI 决策必须人来定——别让 AI 当架构师。",
+    "信念靠'逼自己天天吃狗粮'和 gut feel 建立,不靠 A/B 与埋点;并刻意领先 frontier 半步、逼用户跳出舒适区。",
+    "强制工作流本身就是产品:Conductor 故意不让直接改文件,每个 workspace 必须是 work tree、必须建 PR、必须合并,用约束固化好习惯。",
+    "代码正变成'锯末',真正的资产是 prompt——下一代模型出来重跑 prompt 就能生成新代码;软件正走向可 mod、可塑(像给游戏做 mod 一样定制工作流)。"
+  ],
+  "note_path": "notes/fQmlML9Lay4.md"
+}

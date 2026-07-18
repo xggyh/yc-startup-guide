@@ -1,0 +1,18 @@
+{
+  "id": "mPAHvz8kW24",
+  "zh_title": "我们认识的最\"AI 上头\"的 CEO",
+  "en_title": "The Most AI-Pilled CEO We Know",
+  "one_liner_zh": "Brex CEO Pedro Franceschi 示范如何以 LLM 为地基从 day 0 重造公司:好的 AI 产品就是 agent loop + tools,安全做在网络层(开源 CrabTrap),CEO 必须是首席 AI 官,并把公司做成让每次人工介入都变成 eval 的自学习系统。",
+  "themes": ["mindset", "ai_agent", "mvp_pmf", "validation", "team", "pitfalls"],
+  "top_takeaways_zh": [
+    "好的 AI 产品本质只有一个形态:agent loop + tools;别把 LLM 当昂贵易碎品锁进\"富士康工厂\"式的 if 判断,给它 token、放开爪子(free the claw)。",
+    "企业级 Agent 安全要做在网络层而非工具层:Brex 开源 CrabTrap 用 HTTP 代理整个 Agent 网络边界,录一天流量生成策略,98% 自动放行、2% 交 LLM-as-judge。",
+    "从 day 0 起把\"为什么不能只有我一个人\"当公司前提,主动度量并逼近 token 消耗上限;当接口从人对人变成 Agent 对 Agent,公司肌理会完全不同。",
+    "执行力已外包给模型,稀缺的是\"选择的智慧\":创始人的 alpha 在于捕捉模型训练数据里没有的信号——客户没说出口的需求。",
+    "别把 AI 贴在旧流程上,要重新定义问题:Brex 端到端重做 KYC 后,KYC 变免费,可把风控前移给 lead 做资格判定,改变了该瞄准谁。",
+    "CEO 必须是 Chief AI Officer:只有掌握全局 context 的人能重构系统本身,且打破旧流程 CEO 成本比高管低 10 倍、高管比员工低 10 倍。",
+    "把公司做成自学习系统:让每一次人工介入都变成一个 eval case;多数公司只让 Agent 能跑,却从不想如何让它每天变好。",
+    "现在极早——站在\"电力问世六个月\"的时点(Opus 4.5 即电力);别用蜡烛视角和短期 ROI 评判 AI。"
+  ],
+  "note_path": "notes/mPAHvz8kW24.md"
+}

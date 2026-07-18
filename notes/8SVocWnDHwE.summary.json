@@ -1,0 +1,18 @@
+{
+  "id": "8SVocWnDHwE",
+  "zh_title": "AI 正在解锁数百万新一代\"建造者\"",
+  "en_title": "AI Is Unlocking Millions Of New Builders",
+  "one_liner_zh": "Emergent 双胞胎创始人讲透 AI Agent 创业实战:把\"验证\"做成壁垒、为生产而非原型而建、后发第二名如何赢、以及用极小团队从印度做全球产品——对做 Agent 工具/平台的创始人极具参考价值。",
+  "themes": ["mindset", "idea", "mvp_pmf", "growth", "team", "ai_agent", "pitfalls"],
+  "top_takeaways_zh": [
+    "把\"验证(verification)\"当核心壁垒:能自动判断任务是否完成的验证回路,才是让 Agent 长时间自主运行、且最难被模型公司直接吃掉的护城河。",
+    "从工程满配倒推产品:先做出 SWE-bench 世界第一的强编码 Agent,再\"藏起来\"打包给非技术用户;方向与 Lovable/Bolt 相反,因为覆盖完整软件生命周期的架构选择很难逆转。",
+    "为生产而建:自建 K8s/容器沙箱,让 Agent 在构建期与部署期共用同一套 infra,大幅减少最后一公里问题——\"你的 Agent 只和你给它的反馈一样好\"。",
+    "多 Agent + 跨会话记忆:把成功轨迹经 CI/CD 沉淀为可复用技能与长期记忆,让 Agent 跨用户/跨会话持续学习,而非每次从零。",
+    "第二名也能赢:每代新模型都是\"重新想象世界\"的窗口;后发者从对手失败中学习,但必须用碾压式强产品 + 快速分发(影响者网络)进场。",
+    "不与模型正面竞争:利用不同模型尖峰(Opus 主力/Codex 后端/Gemini 前端),用自定义微调 + harness 在模型之上再榨 20–30%,重心放在最懂用户。",
+    "精简团队靠难题 + ownership:招聘只看问题解决与 ownership,1–2 人做别人整家公司的事;全员每周和客户对话、轮值客服,第 0 天建立客户同理心。",
+    "SaaS 两大逆风:工作流被 Agent 吞掉(不转型 Agent-first 难存活)+ 用户要越来越定制化的自建软件;软件本身正\"Agent 化\"。"
+  ],
+  "note_path": "notes/8SVocWnDHwE.md"
+}

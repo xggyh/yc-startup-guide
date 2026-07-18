@@ -1,0 +1,5 @@
+# YC 教程流水线依赖(装进当前 conda base 环境)
+yt-dlp>=2024.1.1
+faster-whisper>=1.0.0
+# 备用转写实现(faster-whisper 的 CUDA/cuDNN 库冲突时回退):
+# openai-whisper>=20231117

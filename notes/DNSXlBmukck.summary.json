@@ -1,0 +1,17 @@
+{
+  "id": "DNSXlBmukck",
+  "zh_title": "Vibe Coding 落地页的常见翻车点",
+  "en_title": "Common Mistakes With Vibe Coded Websites",
+  "one_liner_zh": "一期 YC Design Review,现场拆解 6 个用 AI 一把梭出来的创业公司落地页,总结 vibe coding 最常见的设计翻车点,教 AI Agent 创始人把 AI 设计工具的算力用在获客转化上,而不是变成一眼可辨的 AI slop。",
+  "themes": ["pitfalls", "mindset", "growth"],
+  "top_takeaways_zh": [
+    "落地页是获客渠道,不是产品也不是炫技作品;每个动效只问一件事——它帮我把访客转化成客户了吗,没有就砍。",
+    "紫色渐变、fade-in、追光标按钮、滚动劫持、鼠标跟随线是 LLM 训练数据里的高频套路,会让创业网站集体撞脸、稀释品牌与原创性。",
+    "'能做'不等于'该做':AI 免费给你的动效,人类从头写根本不划算,顺手 accept 恰恰是要警惕的;人要当有主见的编辑而非无脑 accept all。",
+    "一把梭生成后必须当真实用户走一遍并 QA:hover 消失、假点击热区、选中态 bug、fade-in 藏内容,这些小 bug 不查就直接上线,损害产品可信度。",
+    "首屏按 H1 公式写清'是什么/给谁/什么价值'+明确 CTA;去掉系统 emoji、通用图标、假 dashboard 这些明显的 AI 味 tell。",
+    "hover 只用于提示可点击或让界面活起来,绝不藏关键功能(移动端没有 hover);别用滚动劫持,保留原生滚动加清晰进度指示。",
+    "把一把梭省下的时间再投入到 messaging 和一处真正原创的设计上,刻意走到与别人不同的地方。"
+  ],
+  "note_path": "notes/DNSXlBmukck.md"
+}

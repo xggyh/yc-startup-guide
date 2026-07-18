@@ -1,0 +1,17 @@
+{
+  "id": "Q8wVMdwhlh4",
+  "zh_title": "AI Agent 经济已经到来:为\"会挑工具的智能体\"做产品",
+  "en_title": "The AI Agent Economy Is Here",
+  "one_liner_zh": "当 agent 本身成为选择、购买、使用开发者工具的新用户,创业者必须把 GTM、文档和基础设施全部改造成\"面向 agent\"——这决定了 AI Agent 创业公司能否被 agent 选中。",
+  "themes": ["idea", "growth", "ai_agent", "mindset", "pitfalls"],
+  "top_takeaways_zh": [
+    "口号从 Make something people want 变成 Build something agents choose:开发者从 2000 万暴涨到数亿人,再加上每人背后半自主的 agent,是它们在替人挑工具,agent 已是软件市场的买家。",
+    "文档是 agent 的\"前门\":agent 通过读文档决定用哪个工具,文档要为 agent 优化(结构化、代码片段、llms.txt)。Resend 因此成为 LLM 回答\"如何发邮件\"的默认答案。",
+    "谁文档最好谁就成默认栈:agent 把 Supabase 当默认 Postgres,只因\"它文档最好、推断它最好用\";文档质量≈市场份额。未来 agent 决策数量指数级碾压人类,文档 5% 的改进也可能带来巨大业务影响(Mintlify 抓的就是这红利)。",
+    "\"给 agent 用的 X\"是整片空地:给 agent 的邮箱(Agent Mail)、电话号码(Twilio for agents)等构成一个\"agent 原生技术栈\",是明确的 Request for Startup。",
+    "先长出对模型的手感直觉:亲手重度用 agent,搞清它在哪卡住;做工具要站在 agent 视角、像 Boris 那样共情模型、顺着模型天性支持它而非对抗。",
+    "agent 想要开源+API、讨厌网页:把一切做成 open、open-source、API-first,凡是只能点网页/走人工客服的环节都是劝退点。",
+    "人仍是责任兜底器(liability sink):agent 不是能签字的法律主体,短期内每个 agent 背后仍需一个人承担责任与法律地位。"
+  ],
+  "note_path": "notes/Q8wVMdwhlh4.md"
+}

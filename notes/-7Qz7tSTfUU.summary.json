@@ -1,0 +1,18 @@
+{
+  "id": "-7Qz7tSTfUU",
+  "zh_title": "Dylan Field 谈 Figma 的规模化与设计的未来",
+  "en_title": "Dylan Field: Scaling Figma and the Future of Design",
+  "one_liner_zh": "Figma 联合创始人 Dylan Field 用 13 年经验讲透尽早发布/收费、识别 product-market pull、把约束当创造力,并给出 AI 时代最反直觉的判断——当写代码变廉价,设计、品味与 eval 才是护城河,对做 AI Agent 的创始人尤其关键。",
+  "themes": ["mindset", "validation", "mvp_pmf", "ai_agent", "team", "pitfalls", "idea"],
+  "top_takeaways_zh": [
+    "尽早发布、尽早收费:Figma 拖了 5 年才收费,直到微软反过来提醒才醒悟——别学他,用真实付费验证价值。",
+    "盯 product-market pull 而非只盯 fit:用户主动把产品从你手里拽出来、执念般给反馈,就是该 all-in 的信号,别错读成'等我全做完才有 fit'。",
+    "反馈是唯一常量:第一批用户靠冷邮件+人脉一个个约来,把'你不够好'当数据而非打击——seek rejection。",
+    "把 roadmap 砍到 1–3 个月:任何 9–12 个月甚至两年的计划都是错的;约束催生创造力。",
+    "AI 时代差异化是设计/品味/观点:开发变廉价后,一次性生成不会赢,把生成物打磨成'好'才赢。",
+    "模型擅长 0→1 不擅长 1→100:当前模型在原型/早期开发远强于成熟代码库,创业选题应吃这个甜区。",
+    "我们仍在 AI 的 MS-DOS 时代:聊天框只是过渡,'如何向用户暴露模型全部能力'是尚未解决的核心设计难题与机会。",
+    "Eval 不该只由工程师/研究员写:让最懂终端用户的设计师、产品同学参与写 eval,是把模型做好的关键。"
+  ],
+  "note_path": "notes/-7Qz7tSTfUU.md"
+}

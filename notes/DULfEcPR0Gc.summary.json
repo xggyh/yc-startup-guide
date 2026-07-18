@@ -1,0 +1,16 @@
+{
+  "id": "DULfEcPR0Gc",
+  "zh_title": "好消息:大厂做不好 AI —— 创业公司的机会窗",
+  "en_title": "Good News For Startups: Enterprise Is Bad At AI",
+  "one_liner_zh": "用 MIT「95% 企业 AI 项目失败」报告的真相,论证大厂根本建不出能用的 AI —— 这正是 AI Agent 创业者切入企业市场、拿下大合同的历史性机会窗。",
+  "themes": ["mindset", "growth", "pitfalls", "ai_agent", "idea"],
+  "top_takeaways_zh": [
+    "MIT 报告真相:企业自建/咨询代建 AI 大多失败(样本 2/3),向外部创业公司外购(1/3)的成功率远高 —— 大厂不是不想买,是根本建不出来。",
+    "大厂建不出好软件是常态:连 Apple 都做不好日历 app;难点不是技术,而是政治、部门利益和老旧割裂的 systems of record。",
+    "能赢的是稀有多面手:既有最前沿 AI + 产品品味,又懂人懂业务流程;打法是深度嵌入流程、深度集成 systems of record,慢但护城河大。",
+    "进大厂实操:找『想创业但不敢』的内部 champion 做朋友(do things that don't scale),并借『被大厂收购过的创始人』引荐、走采购与内部政治。",
+    "Karpathy 说 agent 被高估其实是机会:你得补数据、context、evals、tooling —— 这些正是可卖的价值;切换成本(训练/配置沉淀)就是护城河。",
+    "别被 AI Doomer 带偏:AI 极难落地(约 5% 成功),但顶尖 YC 创始人(录取率 <1%)恰恰能成为那 5% 里能跑的实现。"
+  ],
+  "note_path": "notes/DULfEcPR0Gc.md"
+}

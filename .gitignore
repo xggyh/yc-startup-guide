@@ -1,0 +1,13 @@
+# 机密:HF token 绝不入库
+scripts/.hf_token
+
+# 原始大文件 / 可由脚本重建的中间产物
+yc_video/
+transcripts/
+site/
+*.wav
+__pycache__/
+*.pyc
+
+# 入库的是:docs/(站点内容)、handbook/、notes/、scripts/、mkdocs.yml、
+#           .github/、README.md、video_list.md、notes/*.summary.json

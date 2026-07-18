@@ -1,0 +1,16 @@
+{
+  "id": "UPGB-hsAoVY",
+  "zh_title": "微调的强力替代方案:给 LLM 装上\"高跷\"的递归自我改进",
+  "en_title": "The Powerful Alternative To Fine-Tuning",
+  "one_liner_zh": "与其花几百万到几亿美元微调、每出新前沿模型就被清零,不如在模型之上构建可自动优化、模型无关的 agent harness,让 agent 永远站在最新模型的肩膀上——对做垂直 AI Agent 的创始人是更省钱、更抗淘汰的路线。",
+  "themes": ["ai_agent", "pitfalls", "mindset", "idea"],
+  "top_takeaways_zh": [
+    "微调是陷阱:花几百万到几亿美元,下个前沿模型一发布就被清零、永远追不上;别把钱押在会迅速贬值的资产上。",
+    "正确姿势是\"高跷(stilts)\":把前沿模型当地基,在其上构建 harness(code+prompts+data),让 agent 超过底座模型,新模型出来同一 harness 直接兼容、零改动再吃提升。",
+    "前沿模型不是对手而是你踩的高跷;好架构让你对 the bitter lesson\"免疫\",模型越强你越强。",
+    "harness 可手搓(甚至用 Claude Code)但很难搓好,难点在 insight;Poetiq 用递归自我改进的元系统把这步自动化,并把\"理解数据、找 failure modes\"外包给 AI。",
+    "真正的杠杆是用代码写的 reasoning strategies,而非仅更好的 prompt:某极难任务从 5% 拉到 95%;7 人团队以 <$100k 优化成本在 HLE 达 55%,超过 Claude Opus 4.6 的 53.1%。",
+    "创始人心态:世界变化极快,每天用 AI 做点东西、探它能力边界,Don't limit yourself。"
+  ],
+  "note_path": "notes/UPGB-hsAoVY.md"
+}

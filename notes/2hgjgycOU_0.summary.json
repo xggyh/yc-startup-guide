@@ -1,0 +1,17 @@
+{
+  "id": "2hgjgycOU_0",
+  "zh_title": "打造可复用火箭的创业内幕:从车库到轨道的硬科技创业课",
+  "en_title": "Inside The Startup Building Reusable Rockets",
+  "one_liner_zh": "Stoke Space 做完全可复用火箭:用复用优先架构、极速迭代、自建工具与最小可信 Demo 融资的方法论,几乎逐条可迁移到 AI Agent 创业。",
+  "themes": ["mindset", "idea", "validation", "mvp_pmf", "fundraising", "team", "pitfalls"],
+  "top_takeaways_zh": [
+    "从复用优先倒推架构:day 1 就把可评测、可迭代、可回滚设进系统,而非产品跑通后再补。",
+    "用最小可信 Demo 撬动第一张支票:先做一个看得见成果的窄场景成品(喷火小推力器),再谈融资。",
+    "给创业决策设时间盒:约定明确里程碑与期限(如 6 个月实质 traction)框住下行风险后再 all-in。",
+    "迭代速度即护城河:把一个月一轮压到一两天;靠垂直整合自造关键件,避免被外部供应商卡节奏。",
+    "尽早自建内部工具链(你的 Bolt Line),并把运营围绕它组织,而非临时脚本硬撑到规模化。",
+    "融资核心技能是学会听 no:在连续拒绝中守住 conviction,尤其当模型不符合主流 VC 模板时。",
+    "别死磕分析要上测试台:硬事无法分析到完美,尽快真实测试、从失败中快速学习。"
+  ],
+  "note_path": "notes/2hgjgycOU_0.md"
+}

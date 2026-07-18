@@ -1,0 +1,18 @@
+{
+  "id": "lWmDiDGsLK4",
+  "zh_title": "软件创造的未来:Replit CEO 谈应用软件价值归零与 Agent 栖息地",
+  "en_title": "The Future of Software Creation with Replit CEO Amjad Masad",
+  "one_liner_zh": "Replit CEO Amjad Masad:写代码的 Agent 是易事,难的是 Agent 的栖息地(基础设施);应用软件价值终将归零,而做 Agent 创业最重要的护城河是领域知识。",
+  "themes": ["ai_agent", "mindset", "idea", "mvp_pmf", "team", "pitfalls"],
+  "top_takeaways_zh": [
+    "写代码是 Agent 最容易的部分,真正难的是它的'栖息地':沙箱云 VM、开放包/语言环境、内置 auth、部署、密钥、存储、支付等,把软件工程师用的一切开放给 Agent。",
+    "'先做烂产品'是策略:模型每两个月就变强,今天跑不通两个月后可能突然可用;把产品做在'当前能力的边缘',押注曲线会来接你。",
+    "应用软件价值将归零,可替代性从约 15% 走向 100%(HR 同事三天做出可卖数万美元/年的 org chart);他限定的是应用软件而非所有软件。",
+    "用自主性等级 L1-L5 给 Agent 定位;v3 靠三支柱:端到端自测、基于可回滚文件系统的采样与模拟(并行试解合并最优)、为每个功能自动生成测试。",
+    "可靠性上限更多来自'环境反馈+快速试错',而非只靠训练更强的模型。",
+    "组织从层级变网络:通才员工(设计/工程/PM 集于一人)成为常态,人人像创业者,领域专精变得'指数级不那么重要'。",
+    "做 Agent 创业选赛道:软件工程 Agent、SDR 已拥挤;从你有热情+领域知识处切入,'领域知识是做 Agent 公司最重要的东西'。",
+    "MCP 本质是传统 RPC,解决不了 agent-to-agent 协作;这块协议/市场仍是空白,'也许就是某人要做的创业'。"
+  ],
+  "note_path": "notes/lWmDiDGsLK4.md"
+}

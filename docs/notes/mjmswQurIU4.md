@@ -1,5 +1,7 @@
 # Legora 如何在 18 个月内从 YC 干到 1 亿美金 ARR / How Legora Went From YC to $100M ARR in 18 Months
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/mjmswQurIU4.md)**
+
 > **来源**: [How Legora Went From YC to $100M ARR in 18 Months](https://www.youtube.com/watch?v=mjmswQurIU4) · Y Combinator · 2026-06-05 · 时长 22:47
 > **讲者**: Max Junestrand(Legora 联合创始人兼 CEO,YC W24,SPEAKER_01)· 主持:Gustaf Alströmer(YC General Partner,SPEAKER_00);录制于斯德哥尔摩 YC 活动
 > **一句话定位**: 一个瑞典法律 AI 团队用"极速做大 + 创始人亲自扫楼卖 + 长期主义产品宣言 + 在基础模型不断变强时找护城河"的打法,18 个月冲到 1 亿美金 ARR——对做垂直行业 AI Agent、要在大厂和基础模型阴影下建立防御性的创始人极有参考价值。

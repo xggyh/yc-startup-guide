@@ -1,5 +1,7 @@
 # 创始人 B2B 销售手册:如何签下第一批经常性收入合同 / The Sales Playbook For Founders
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/DH7REvnQ1y4.md)**
+
 > **来源**: [The Sales Playbook For Founders | Startup School](https://www.youtube.com/watch?v=DH7REvnQ1y4) · Y Combinator · 2025-08-15 · 时长 18:49
 > **讲者**: Tom Blomfield(YC 合伙人,Monzo 与 GoCardless 创始人)— 单人讲解(SPEAKER_00)
 > **一句话定位**: 一套把 B2B 早期销售从"漫长免费设计合作"推进到"带退出期的经常性收入合同"的分级打法,帮 AI Agent 创始人少踩坑、更快签下第一批付费 ARR。

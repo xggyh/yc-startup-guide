@@ -1,5 +1,7 @@
 # AI Agent 经济已经到来:为"会挑工具的智能体"做产品 / The AI Agent Economy Is Here
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/Q8wVMdwhlh4.md)**
+
 > **来源**: [The AI Agent Economy Is Here](https://www.youtube.com/watch?v=Q8wVMdwhlh4) · Y Combinator · 2026-02-21 · 时长 23:21
 > **讲者**: The Lightcone 播客四位 YC 合伙人 —— Garry Tan(SPEAKER_00)、Diana Hu(SPEAKER_01)、Harj Taggar(SPEAKER_02)、Jared Friedman(SPEAKER_03)
 > **一句话定位**: 当智能体(agent)本身成为选择、购买、使用开发者工具的"新用户",创业者要把 GTM、文档、基础设施全部改造成"面向 agent"——这决定了 AI Agent 创业公司能不能被 agent 选中。

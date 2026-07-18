@@ -1,5 +1,7 @@
 # 好消息:大厂做不好 AI —— 创业公司的机会窗 / Good News For Startups: Enterprise Is Bad At AI
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/DULfEcPR0Gc.md)**
+
 > **来源**: [Good News For Startups: Enterprise Is Bad At AI](https://www.youtube.com/watch?v=DULfEcPR0Gc) · Y Combinator · 2025-10-30 · 时长 21:43
 > **讲者**: The Lightcone 播客 —— Garry Tan(YC CEO,主持,SPEAKER_00)、Jared Friedman(SPEAKER_03)、Diana Hu(SPEAKER_01)、Harj Taggar(Triplebyte 创始人,SPEAKER_02)
 > **一句话定位**: 用 MIT "95% 企业 AI 项目失败" 报告的真相,论证大厂根本建不出能用的 AI —— 这正是 AI Agent 创业者切入企业市场、拿下大合同的历史性机会窗。

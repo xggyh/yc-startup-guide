@@ -1,5 +1,7 @@
 # 如何从零打造 AI 原生服务公司 / How to Build an AI-Native Services Company
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/gSNFJbgoaHI.md)**
+
 > **来源**: [How to Build an AI-Native Services Company](https://www.youtube.com/watch?v=gSNFJbgoaHI) · Y Combinator · 2026-06-03 · 时长 11:22
 > **讲者**: Charlie Warren（YC Visiting Partner,Startup School 单人讲授)
 > **一句话定位**: 讲清一种全新创业范式——不做 co-pilot 工具、而是用 AI 直接"交付结果"重做保险/税务/法律等万亿级服务行业;为想创业的 AI Agent 工程师提供选市场、组团队、做产品、定价、算 P&L 的完整 playbook。

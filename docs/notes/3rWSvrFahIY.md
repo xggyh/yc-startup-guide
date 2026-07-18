@@ -1,5 +1,7 @@
 # LLM 自博弈、AI×生物、形式化验证与「用 Agent 写代码=打即时战略」 / Self-Play for LLMs, AI for Biology, Formal Verification, and More
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/3rWSvrFahIY.md)**
+
 > **来源**: [Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club](https://www.youtube.com/watch?v=3rWSvrFahIY) · Y Combinator · 2026-06-12 · 时长 76:55
 > **讲者**: 主持/组织者 Francois Chaubard(SPEAKER_01);五位报告人 —— Yasa Baig(蛋白质生物学,SPEAKER_03)、Luke Bailey(LLM 自博弈,Tatsu 实验室,SPEAKER_02)、Arnab Maiti(Stream RAG,Giga 研究员,SPEAKER_04)、Robert George(Lean 形式化验证,Caltech,SPEAKER_05)、Lukens Orthwein(创始人 AI 工程实践,Channel AI CEO,SPEAKER_00)
 > **一句话定位**: YC Paper Club 的 5 篇论文速览,横跨「蛋白质世界模型 / LLM 自博弈 / 语音 Agent 的流式 RAG / Lean 形式化验证 / 用 Agent 写代码像打 RTS」;对 AI Agent 创始人最硬核的是最后一段把 agentic coding 当即时战略游戏来并行化的一整套工程方法论,以及贯穿全场的「生成器 + 验证器 / 奖励设计陷阱 / 语音延迟即产品」等落地心法。

@@ -1,5 +1,7 @@
 # AI 到底有多聪明?用 ARC-AGI 重新定义"智能" / How Intelligent Is AI, Really?
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/pBlIgs6w7Ss.md)**
+
 > **来源**: [How Intelligent Is AI, Really?](https://www.youtube.com/watch?v=pBlIgs6w7Ss) · Y Combinator · 2025-12-17 · 时长 11:59
 > **讲者**: 主持 Diana Hu(YC, SPEAKER_00);嘉宾 Greg Kamradt(ARC Prize Foundation 主席 / President, SPEAKER_01)。录制于 NeurIPS 2025(San Diego)。
 > **一句话定位**: 用 ARC-AGI 重新定义"智能 = 高效学习新事物的能力",提醒 AI Agent 创始人别追刷榜式的虚荣指标,要投资真正会泛化、可交互、样本与能耗高效的系统。

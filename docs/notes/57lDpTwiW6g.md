@@ -1,5 +1,7 @@
 # Tokenmaxxing:顶尖构建者如何用 AI 干 400 个工程师的活 / Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/57lDpTwiW6g.md)**
+
 > **来源**: [Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers](https://www.youtube.com/watch?v=57lDpTwiW6g) · Y Combinator · 2026-05-08 · 时长 41:29
 > **讲者**: Lightcone 播客。嘉宾/主角 **Garry Tan**(YC CEO,SPEAKER_00);主持为 Lightcone 团队(YC 合伙人,SPEAKER_01/02/03,transcript 未点名故保留编号)
 > **一句话定位**: 一个 13 年没写代码的 CEO,用 Claude Code / OpenClaw 在几个月里 shipped 数十万行代码——本期把"token maxing、boil the ocean、thin harness fat skills"这套单人 AI 工程范式讲透,是 AI Agent 创始人把"vibe coding 出 slop"升级为可交付产品工程的实操手册。

@@ -1,5 +1,7 @@
 # AI 时代创业者为何能赢:Box CEO Aaron Levie 的窗口期论 / Aaron Levie: Why Startups Win In The AI Era
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/uqc_vt95GJg.md)**
+
 > **来源**: [Aaron Levie: Why Startups Win In The AI Era](https://www.youtube.com/watch?v=uqc_vt95GJg) · Y Combinator · 2025-09-16 · 时长 40:27
 > **讲者**: Aaron Levie(Box 联合创始人兼 CEO,SPEAKER_05,嘉宾)· David Lieb(YC 合伙人、Bump 创始人、Google Photos 主导者,SPEAKER_06,主持)· 现场观众提问(SPEAKER_01–04)
 > **一句话定位**: 一位穿越了云、移动、AI 三次浪潮的企业级老兵,告诉 AI Agent 创始人:此刻是十到二十年一遇的"名词与动词重开"窗口,该去攻打那些"过去只能靠人力交付、没有软件在位者"的工作品类,并用"按工作量/成果计费"取代"按席位计费"。

@@ -1,5 +1,7 @@
 # 递归:AI 的下一条 Scaling Law / Recursion Is The Next Scaling Law In AI
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/DGtUUMNYLcc.md)**
+
 > **来源**: [Recursion Is The Next Scaling Law In AI](https://www.youtube.com/watch?v=DGtUUMNYLcc) · Y Combinator · 2026-05-01 · 时长 37:53
 > **讲者**: 主持 Ankit Gupta(YC,Decoded 节目主持人,SPEAKER_00);嘉宾 Francois Chaubard(YC visiting partner,SPEAKER_01)
 > **一句话定位**: 用 HRM / TRM 两篇论文拆解"推理时递归"如何让 700 万参数小模型在特定推理任务上碾压万亿参数 LLM;给 AI Agent 创始人指明"LLM 单次前向传播的硬性能力天花板"在哪,以及"递归 / 潜空间推理"作为效率与能力护城河的技术机会与选型判断。

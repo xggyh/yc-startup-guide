@@ -1,5 +1,7 @@
 # 我们都对 Claude Code 上瘾了:coding agent 时代的创业启示 / We're All Addicted To Claude Code
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/qwmmWzPnhog.md)**
+
 > **来源**: [We're All Addicted To Claude Code](https://www.youtube.com/watch?v=qwmmWzPnhog) · Y Combinator · 2026-02-06 · 时长 45:59
 > **讲者**: Lightcone 播客。嘉宾 Calvin French-Owen(Segment 联合创始人、前 OpenAI Codex 工程师,SPEAKER_02);主持 Garry Tan(SPEAKER_01)、Diana Hu(SPEAKER_00)、Harj Taggar(SPEAKER_03)、Jared Friedman(SPEAKER_04)
 > **一句话定位**: 从"造 Codex 的人"视角拆解 coding agent 为何突然变强(上下文工程 + CLI 分发),对准备做 AI Agent 创业的工程师给出选架构、抢分发、避坑的实操参考。

@@ -1,5 +1,7 @@
 # 为什么只靠 Scaling 造不出 AGI:François Chollet 谈符号程序合成、可验证奖励与创业机会 / François Chollet: Why Scaling Alone Isn't Enough for AGI
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/k2ZLQC8P7dc.md)**
+
 > **来源**: [François Chollet: Why Scaling Alone Isn't Enough for AGI](https://www.youtube.com/watch?v=k2ZLQC8P7dc) · Y Combinator · 2026-03-27 · 时长 57:24
 > **讲者**: 嘉宾 François Chollet(ARC Prize 创始人、Keras 作者、新 AGI 实验室 Ndea 创始人,即 SPEAKER_03);主持为 YC《Lightcone》播客团队(多位主持人,对应 SPEAKER_00/01/02/04,含 Diana Hu 等,转录未逐一点名故保留 SPEAKER 编号)
 > **一句话定位**: 一位顶级 AI 研究者拆解"为什么可验证奖励让 coding agent 突然爆发、纯 scaling 到不了 AGI、以及非共识技术路线该怎么押注",对判断 AI Agent 创业该做什么、护城河在哪、如何避免被下一层能力吞掉极具参考价值。

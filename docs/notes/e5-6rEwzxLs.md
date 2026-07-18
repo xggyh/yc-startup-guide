@@ -1,5 +1,7 @@
 # 点阵图:真正看清用户在做什么 / Dot Plots: How to Actually See What Your Users Are Doing
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/e5-6rEwzxLs.md)**
+
 > **来源**: [Dot Plots: How to Actually See What Your Users Are Doing](https://www.youtube.com/watch?v=e5-6rEwzxLs) · Y Combinator · 2026-07-09 · 时长 13:50
 > **讲者**: David Lieb(YC General Partner,Bump 创始人,前 Google Photos 负责人;视频中自称 "Dave")
 > **一句话定位**: 手把手教你用"点阵图"这一张纸/一块屏,看清每个用户逐日的真实使用行为,替代会骗人的 DAU/MAU 聚合曲线——对判断 AI Agent 产品是否真的被需要至关重要。

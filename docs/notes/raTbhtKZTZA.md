@@ -1,5 +1,7 @@
 # 开源大模型架构横评:GPT-OSS vs Qwen-3 vs DeepSeek / OpenAI vs. Deepseek vs. Qwen: Comparing Open Source LLM Architectures
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/raTbhtKZTZA.md)**
+
 > **来源**: [OpenAI vs. Deepseek vs. Qwen: Comparing Open Source LLM Architectures](https://www.youtube.com/watch?v=raTbhtKZTZA) · Y Combinator · 2025-08-29 · 时长 12:31
 > **讲者**: Ankit Gupta(YC,单人讲解 / SPEAKER_00)
 > **一句话定位**: 拆解 GPT-OSS、Qwen-3、DeepSeek V3 三大顶级开源权重模型的架构与训练差异,帮 AI Agent 创始人搞清"选哪个底座、看什么指标、护城河在哪",避免只盯 benchmark 选型。

@@ -1,5 +1,7 @@
 # 让客户「爱到不行或恨到咬牙」:Groww 创始人的消费级金融科技心法 / Groww: If Your Customers Don't Love It or Hate It, You've Already Lost
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/ObBAxL2dFzw.md)**
+
 > **来源**: [Groww: If Your Customers Don't Love It or Hate It, You've Already Lost](https://www.youtube.com/watch?v=ObBAxL2dFzw) · Y Combinator · 2026-06-15 · 时长 30:10
 > **讲者**: Lalit Keshre(Groww 联合创始人兼 CEO,W18)· 访谈主持 Jon Xu(YC General Partner)
 > **一句话定位**: 一位把印度最大零售投资平台从「四年零收入」做到上市的消费级 FinTech 创始人,拆解如何用透明化、极致贴近客户、「爱或恨」的产品标准做出被口碑疯传的产品——对要做 AI Agent、且直面 C 端用户的创始人尤其有参考价值。

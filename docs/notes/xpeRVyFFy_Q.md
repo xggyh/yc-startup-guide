@@ -1,5 +1,7 @@
 # 破解"空白画布"难题:Gusto 的 AI 联合创始人 / Solving the Blank Canvas Problem: Gusto's AI Co-Founder
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/xpeRVyFFy_Q.md)**
+
 > **来源**: [Solving the Blank Canvas Problem: Gusto's AI Co-Founder](https://www.youtube.com/watch?v=xpeRVyFFy_Q) · Y Combinator · 2026-07-08 · 时长 32:27
 > **讲者**: Eddie Kim(Gusto 联合创始人兼技术负责人,W12);主持 Harj Taggar(YC Managing Partner)
 > **一句话定位**: 一个已到 10 亿美元营收的 SaaS 老兵,讲他如何绕过"空白画布"陷阱、用已有数据 + 聊天界面把 agentic AI 真正落地到 50 万小企业,以及五人十周、无文档无 Jira 造出新产品的打法——对做垂直 AI Agent 的创始人是一份"落地手册"。

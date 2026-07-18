@@ -1,5 +1,7 @@
 # 从"转型地狱"到 14 亿美元独角兽 / From Pivot Hell To $1.4 Billion Unicorn
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/5WN8bfG06Hk.md)**
+
 > **来源**: [From Pivot Hell To $1.4 Billion Unicorn](https://www.youtube.com/watch?v=5WN8bfG06Hk) · Y Combinator · 2025-12-10 · 时长 38:46
 > **讲者**: James Hawkins(PostHog 联合创始人 & CEO,YC W20)；主持 Brad Flora(YC)
 > **一句话定位**: 一个靠"疯狂快速试错 + 极致品牌差异化"从连环转型走到独角兽的真实样本;对 AI Agent 创始人尤其有用的是后半段——PostHog 正把"有 PMF 的人类岗位(PM/客服/销售/工程)"逐个做成 AI 产品的思路。

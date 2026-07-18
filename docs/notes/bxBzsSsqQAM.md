@@ -1,5 +1,7 @@
 # AI 创业最强的 7 条护城河 / The 7 Most Powerful Moats For AI Startups
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/bxBzsSsqQAM.md)**
+
 > **来源**: [The 7 Most Powerful Moats For AI Startups](https://www.youtube.com/watch?v=bxBzsSsqQAM) · Y Combinator · 2025-10-03 · 时长 45:06
 > **讲者**: YC 播客《The Light Cone》四人对谈 —— Garry Tan(SPEAKER_00,YC CEO)、Diana Hu(SPEAKER_01,YC GP)、Jared Friedman(SPEAKER_02,YC GP)、Harj Taggar(SPEAKER_03,YC GP)。
 > **一句话定位**: 用 Hamilton Helmer《七种力量》框架逐条拆解"AI Agent 公司到底有没有护城河",回答大学生和早期创始人最焦虑的问题——ChatGPT 套壳会不会被大模型厂碾死;结论是护城河真实存在但来得晚,早期唯一的护城河是速度,先去解决一个真痛点。

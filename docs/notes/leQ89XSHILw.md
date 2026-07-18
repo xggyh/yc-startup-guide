@@ -1,5 +1,7 @@
 # 为什么你的创业官网不转化:Framer CEO 拆解 5 个 AI 创业站 / Why Your Startup Website Isn't Converting
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/leQ89XSHILw.md)**
+
 > **来源**: [Why Your Startup Website Isn't Converting](https://www.youtube.com/watch?v=leQ89XSHILw) · Y Combinator · 2026-01-29 · 时长 40:27
 > **讲者**: Jorn van Dijk(Framer 联合创始人兼 CEO,设计专家,主评人)· Aaron Epstein(YC 合伙人,主持人)。另有两段被评网站里的声音:SPEAKER_02(LeapingAI 的语音 Agent "Alex")、SPEAKER_00(The Hog 宣传片旁白)
 > **一句话定位**: 一位顶级设计师逐帧点评 5 个真实 AI 创业公司的落地页(Lumari/Alai/Juicebox/LeapingAI/The Hog),把"官网为什么留不住人、不转化"讲成一套可复用的清单——对靠一个落地页把陌生访客转成 Agent 试用者的 AI 创始人极其对症。

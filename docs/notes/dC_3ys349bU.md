@@ -1,5 +1,7 @@
 # 每个创始人都该懂的机器学习技术:扩散模型 / The ML Technique Every Founder Should Know
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/dC_3ys349bU.md)**
+
 > **来源**: [The ML Technique Every Founder Should Know](https://www.youtube.com/watch?v=dC_3ys349bU) · Y Combinator · 2026-01-22 · 时长 27:10
 > **讲者**: Ankit Gupta(YC General Partner,《Decoded》主持人,SPEAKER_00)对话 Francois Chaubard(YC Visiting Partner、前 Focal Systems 创始人、Stanford 在读博士,研究基于扩散的世界模型,SPEAKER_01)
 > **一句话定位**: 用 10 行代码讲清"扩散(diffusion)"这一底层框架为何正在吃掉除自回归 LLM 与棋类外的整个 AI——对被"一次一个 token"卡住动作空间的 AI Agent 创始人,这是判断技术押注方向的必修课。

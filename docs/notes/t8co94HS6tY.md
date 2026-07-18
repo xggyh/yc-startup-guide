@@ -1,5 +1,7 @@
 # Amplitude 从 AI 怀疑者到「全押 AI」:老牌 SaaS 的自我重造 / How Amplitude Went From Skeptics to "All In" on AI
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/t8co94HS6tY.md)**
+
 > **来源**: [How Amplitude Went From Skeptics to "All In" on AI](https://www.youtube.com/watch?v=t8co94HS6tY) · Y Combinator · 2025-12-03 · 时长 44:22
 > **讲者**: 嘉宾 Spencer Skates(Amplitude CEO / 联合创始人,YC W12);主持 The Lightcone 团队 —— Garry Tan、Harj Taggar,以及另两位 YC 合伙人(SPEAKER_00 / SPEAKER_03,推测为 Jared Friedman / Diana Hu)
 > **一句话定位**: 一家做了十年分析、原本对 AI 深度怀疑的 SaaS 公司,如何用「自下而上让全员先信、先用工具」的方式完成 AI 重造 —— 对想做 AI Agent 创业的人,既讲清了 incumbent 的软肋,也讲清了「AI 原生产品」和传统 SaaS 在方法论上的根本差别。

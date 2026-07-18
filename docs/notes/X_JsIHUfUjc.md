@@ -1,5 +1,7 @@
 # 如何用 AI 打造一家"自我改进"的公司 / How to Build a Self-Improving Company with AI
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/X_JsIHUfUjc.md)**
+
 > **来源**: [How to Build a Self-Improving Company with AI](https://www.youtube.com/watch?v=X_JsIHUfUjc) · Y Combinator · 2026-05-21 · 时长 13:28
 > **讲者**: Tom Blomfield(YC General Partner);现场引用/致谢 Diana Hu、Garry Tan、Jack Dorsey、Harj Taggar、Pete Koomen 的观点
 > **一句话定位**: 不要把 AI 当"副驾"贴在旧组织上,而是把整家公司重构成一组"感知→决策→工具→质量闸→学习"的递归自改进循环——对 AI Agent 创始人来说,这是从"做工具"升级到"设计会自我进化的公司大脑"的架构蓝图。

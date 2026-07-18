@@ -1,5 +1,7 @@
 # Zepto:两个 17 岁少年如何做成印度最大生鲜卖家 / Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/YKZCU0ynEbs.md)**
+
 > **来源**: [Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables](https://www.youtube.com/watch?v=YKZCU0ynEbs) · Y Combinator · 2026-05-19 · 时长 28:57
 > **讲者**: Adit Palicha(Zepto 联合创始人兼 CEO,受访);Jared Friedman(YC 合伙人,主持)。多次提及联合创始人 Kaivalya Vohra(KV)。
 > **一句话定位**: 一个从 WhatsApp 群聊迭代到十亿美金即时零售巨头的实操样本——讲清楚"先跑出 PMF 再 all in、从极致客户体验反推商业模式、用小团队+AI 把成本压到近零",对要做 AI Agent 创业的人极具参照价值。

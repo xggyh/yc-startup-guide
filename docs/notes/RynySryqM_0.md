@@ -1,5 +1,7 @@
 # Cursor 设计负责人吐槽创业公司官网:让用户 5 秒看懂你的产品 / Cursor Head of Design Roasts Startup Websites
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/RynySryqM_0.md)**
+
 > **来源**: [Cursor Head of Design Roasts Startup Websites](https://www.youtube.com/watch?v=RynySryqM_0) · Y Combinator · 2025-11-20 · 时长 35:35
 > **讲者**: 主持 Aaron Epstein(YC 合伙人,SPEAKER_04)· 嘉宾 Ryo Lu(Cursor 设计负责人,曾任 Notion 创始设计师、Stripe/Asana 产品设计,SPEAKER_03)。片中还出现产品 demo/宣传片配音(SPEAKER_00/01)与 YC 广告口播(SPEAKER_02)。
 > **一句话定位**: 用 8 个真实 YC 创业公司官网(全部或部分用 Cursor "vibe code" 而成)的现场点评,提炼出 landing page 必须在几秒内回答的四个问题——"这是什么、和我有关吗、能用吗、可信吗";对靠官网/demo 转化用户的 AI Agent 创始人极具落地价值。

@@ -1,5 +1,7 @@
 # AI 正在解锁数百万新一代"建造者" / AI Is Unlocking Millions Of New Builders
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/8SVocWnDHwE.md)**
+
 > **来源**: [AI Is Unlocking Millions Of New Builders](https://www.youtube.com/watch?v=8SVocWnDHwE) · Y Combinator · 2026-03-16 · 时长 39:32
 > **讲者**: The Lightcone 播客(YC 合伙人主持,Garry Tan 因陪审团缺席);嘉宾为 Emergent 联合创始人、双胞胎兄弟 **Mukund Jha(SPEAKER_03)** 与 **Madhav "Maddy" Jha(SPEAKER_02)**;另有主持人 SPEAKER_05 / SPEAKER_01 / SPEAKER_04
 > **一句话定位**: 一家从"编码 Agent 研究公司"起步、再打包给非技术用户的 YC 明星公司,讲透了 AI Agent 创业中"验证即护城河、为生产而建、第二名如何赢、精简团队"的实战心法,对做 Agent 工具/平台的创始人极具参考价值。

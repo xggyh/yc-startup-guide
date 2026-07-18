@@ -1,5 +1,7 @@
 # 把数据中心送上太空:一家硬科技创业公司的诞生逻辑 / Inside The Startup Launching AI Data Centers Into Space
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/hKw6cRKcqzY.md)**
+
 > **来源**: [Inside The Startup Launching AI Data Centers Into Space](https://www.youtube.com/watch?v=hKw6cRKcqzY) · Y Combinator · 2025-11-13 · 时长 12:56
 > **讲者**: Philip Johnston(StarCloud 联合创始人/CEO,SPEAKER_06)、另两位联合创始人 Ezra Feilden(CTO)/ Adi Oltean(对应 SPEAKER_04、SPEAKER_03,访谈中未逐一点名到人)、YC 主持/旁白 Aaron Epstein(SPEAKER_05)
 > **一句话定位**: 一支非航天背景的团队如何用"高技术风险、低市场风险"的选题逻辑、极致执行速度和敢讲大愿景的姿态,15 个月把 H100 送上轨道——给 AI Agent 创始人一套关于"选难题、组互补团队、把愿景讲满"的思维模板。

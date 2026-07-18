@@ -1,5 +1,7 @@
 # Vibe Coding 落地页的常见翻车点 / Common Mistakes With Vibe Coded Websites
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/DNSXlBmukck.md)**
+
 > **来源**: [Common Mistakes With Vibe Coded Websites](https://www.youtube.com/watch?v=DNSXlBmukck) · Y Combinator · 2026-03-06 · 时长 37:26
 > **讲者**: Aaron Epstein(YC 合伙人,主持,SPEAKER_00)· Raphael Schaad(YC Visiting Partner、Cron / Notion Calendar 创始人兼设计师,SPEAKER_01)
 > **一句话定位**: 一期 Design Review,现场拆解 6 个 YC 公司用 AI 一把梭出来的落地页,总结 vibe coding 最常见的设计翻车点——教 AI Agent 创始人把 AI 设计工具的"超能力"用在获客转化上,而不是把它变成一眼可辨的 "AI slop"。

@@ -1,5 +1,7 @@
 # 40 岁单人创始人的时代来了:经验 × AI 的护城河 / The Age Of The 40-Year-Old Solo Founder Is Here
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/8OOuCnZB-4o.md)**
+
 > **来源**: [The Age Of The 40-Year-Old Solo Founder Is Here](https://www.youtube.com/watch?v=8OOuCnZB-4o) · Y Combinator · 2026-06-19 · 时长 42:43
 > **讲者**: 嘉宾 Bryant Chou(Webflow 联合创始人/前 CTO,现做新公司 Ploy,在读 YC 批次);The Lightcone 主持人 Garry Tan、Jared Friedman、Harj Taggar、Diana Hu
 > **一句话定位**: 当模型把"能力"变成大宗商品,真正稀缺的是"知道拿这份无边界智能去做什么"的领域判断力——这期用 Ploy(AI 建站+营销大脑)的实战,讲清楚有经验的创始人如何用薄薄一层"harness"把通用模型变成 purpose-built 产品并建立护城河,对做 AI Agent 创业的你既是方法论也是竞品拆解。

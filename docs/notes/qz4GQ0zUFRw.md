@@ -1,5 +1,7 @@
 # 人脑真正独有、AI 正拼命追赶的那个东西:世界模型 / The Key Thing Human Brains Have That AI Is Trying To Learn
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/qz4GQ0zUFRw.md)**
+
 > **来源**: [The Key Thing Human Brains Have That AI Is Trying To Learn](https://www.youtube.com/watch?v=qz4GQ0zUFRw) · Y Combinator · 2026-07-17 · 时长 74:27
 > **讲者**: YC《Decoded》系列两位研究者对谈(transcript 未清晰自报姓名,结尾主持人称嘉宾为 "Francois")。SPEAKER_02 为主讲——在斯坦福讲授强化学习/"不确定性下的决策"课程、参与斯坦福机器人中心;SPEAKER_01 为提问方,经营一家用图卷积网络做药物设计的公司。为稳妥,金句仍按 SPEAKER_xx 标注。
 > **一句话定位**: 把"样本效率"这个通向 AGI 的核心难题,用 状态-动作-奖励-转移函数 的强化学习框架讲透,并说清 model-free vs model-based、合成数据护城河、世界模型到底怎么落地——帮做具身/Agent 的创始人判断该做哪种模型、护城河在哪、机会窗口何时到。

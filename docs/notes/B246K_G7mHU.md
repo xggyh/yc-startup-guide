@@ -1,5 +1,7 @@
 # YC 内部 AI 手册:把公司变成"超级智能组织" / Inside YC's AI Playbook
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/B246K_G7mHU.md)**
+
 > **来源**: [Inside YC's AI Playbook](https://www.youtube.com/watch?v=B246K_G7mHU) · Y Combinator · 2026-05-27 · 时长 46:30
 > **讲者**: 主持 Garry Tan(SPEAKER_00);嘉宾 Pete Koomen(SPEAKER_02,Optimizely 创始人、YC 内部 agent 基础设施主导者、《Horseless Carriages》作者);Jared Friedman(SPEAKER_03,亲手写了 SQL 只读工具);另有两位 Lightcone 主持 Diana Hu 与 Harj Taggar(对应 SPEAKER_01 / SPEAKER_05,字幕未明确逐一对应,故保留标签)。
 > **一句话定位**: 讲的不是"给产品加个 AI 功能",而是把 agent 变成整个组织运行的底层——对想做 AI Agent 创业的人,这是一份"如何用 agent + 共享上下文 + 自我改进 skill 把组织能力复利化"的一线实操蓝图。

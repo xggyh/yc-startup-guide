@@ -1,5 +1,7 @@
 # AI 正在压缩每一条护城河:Razorpay 创始人的十年创业课 / Harshil Mathur: AI Is Compressing Every Moat
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/X5bABLCuIHA.md)**
+
 > **来源**: [Harshil Mathur: AI Is Compressing Every Moat](https://www.youtube.com/watch?v=X5bABLCuIHA) · Y Combinator · 2026-05-06 · 时长 31:34
 > **讲者**: Harshil Mathur(Razorpay 联合创始人兼 CEO,YC W15,YC 投资的第一家印度公司)· 主持 Jon Xu(YC)
 > **一句话定位**: 一场关于"在受监管的 B2B 市场里如何从客户身上找到信念、用信任与速度建护城河"的炉边对话;其核心论点——AI 把"造东西"这件事压到接近于零、护城河只剩"多快能决定造什么"——对 AI Agent 创始人有直接的战略价值。

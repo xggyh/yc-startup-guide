@@ -1,5 +1,7 @@
 # 十亿分之一:用「分步走」战略把硬科技做成 40 亿美元公司 / BillionToOne Is Solving One of Biotech's Hardest Problems
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/kkv5rZhrLkc.md)**
+
 > **来源**: [BillionToOne Is Solving One of Biotech's Hardest Problems](https://www.youtube.com/watch?v=kkv5rZhrLkc) · Y Combinator · 2026-04-06 · 时长 20:49
 > **讲者**: 主持 Jared Friedman(YC 合伙人,SPEAKER_02);嘉宾 Oguzhan "Ozan" Atay(联合创始人/CEO,SPEAKER_01)、David Tsao(联合创始人,SPEAKER_00)
 > **一句话定位**: 一家生物科技公司如何用「先做最省钱、能变现的产品,再拿现金流去攻更大更贵的市场」的分步走策略,从半张实验台起步做到上市 40 亿美元——对任何想做「大愿景 AI Agent」但一上来就烧钱的创始人都是一堂反直觉的路径课。

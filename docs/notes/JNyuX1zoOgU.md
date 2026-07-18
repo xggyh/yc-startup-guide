@@ -1,5 +1,7 @@
 # 通往 AGI 还缺什么:Demis Hassabis 谈 Agent、深科技创业与下一场科学突破 / Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/JNyuX1zoOgU.md)**
+
 > **来源**: [Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough](https://www.youtube.com/watch?v=JNyuX1zoOgU) · Y Combinator · 2026-04-29 · 时长 40:57
 > **讲者**: Demis Hassabis(Google DeepMind CEO、2024 诺贝尔化学奖得主,SPEAKER_02) · 主持 Garry Tan(YC CEO,SPEAKER_01) · 现场 YC 广告播报(SPEAKER_00)
 > **一句话定位**: 从 DeepMind 一线视角讲清"AGI 还差哪一两块拼图、Agent 真实进度到哪、以及在 2030 AGI 时间线下深科技创业该怎么下注"——对 AI Agent 创始人,这是一份"护城河与时机"的实战地图。

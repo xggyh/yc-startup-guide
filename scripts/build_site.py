@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
-"""把 handbook/ + notes/ 组织成 MkDocs Material 站点(docs/ + mkdocs.yml)。
+"""把 handbook/ + notes/ + transcripts/ 组织成三部分 MkDocs Material 站点。
+  ① 逐视频精读 one-page(notes,顶部加"全文转录"跳转链接)
+  ② 创业手册(handbook)
+  ③ 全量转录(由说话人分离 json 生成带时间戳/说话人的可读全文)
 可反复运行:重建 docs/ 并生成导航。"""
 import glob, json, os, shutil, yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 
-SITE_URL = os.environ.get("SITE_URL", "")          # 例如 https://xggyh.github.io/yc-startup-guide/
-REPO_URL = os.environ.get("REPO_URL", "")          # 例如 https://github.com/xggyh/yc-startup-guide
+SITE_URL = os.environ.get("SITE_URL", "")
+REPO_URL = os.environ.get("REPO_URL", "")
 
 THEME_ORDER = ["mindset", "idea", "validation", "mvp_pmf", "growth",
                "fundraising", "team", "ai_agent", "pitfalls"]
@@ -32,15 +35,81 @@ def load_summaries():
             pass
     return s
 
+def mmss(sec):
+    sec = int(sec or 0)
+    return f"{sec // 60:02d}:{sec % 60:02d}"
+
+# ---------- ③ 全量转录页 ----------
+def build_transcripts(sums):
+    os.makedirs("docs/transcripts", exist_ok=True)
+    made = 0
+    for vid, s in sums.items():
+        jp = f"transcripts/{vid}.speaker.json"
+        if not os.path.exists(jp):
+            jp = f"transcripts/{vid}.json"
+        if not os.path.exists(jp):
+            continue
+        data = json.load(open(jp, encoding="utf-8"))
+        segs = data.get("segments", [])
+        n_spk = data.get("num_speakers", 1) or 1
+        multi = n_spk > 1
+        # 把 segments 合并成可读段落:说话人变化 或 累计 > ~480 字 时断段
+        paras, cur_spk, cur_start, buf, cur_chars = [], None, None, [], 0
+        for seg in segs:
+            spk = seg.get("speaker", "SPEAKER_00")
+            txt = (seg.get("text") or "").strip()
+            if not txt:
+                continue
+            if not buf:
+                cur_spk, cur_start, buf, cur_chars = spk, seg["start"], [txt], len(txt)
+            elif (multi and spk != cur_spk) or cur_chars > 480:
+                paras.append((cur_start, cur_spk, " ".join(buf)))
+                cur_spk, cur_start, buf, cur_chars = spk, seg["start"], [txt], len(txt)
+            else:
+                buf.append(txt); cur_chars += len(txt)
+        if buf:
+            paras.append((cur_start, cur_spk, " ".join(buf)))
+
+        zt, et = s.get("zh_title", vid), s.get("en_title", "")
+        out = [f"# 全文转录 · {zt}", "",
+               f"> ▶ [YouTube](https://www.youtube.com/watch?v={vid}) &nbsp;·&nbsp; "
+               f"← [返回精读 One-page](../notes/{vid}.md) &nbsp;·&nbsp; {et}"]
+        if multi:
+            out.append(f">\n> 🗣️ 说话人分离识别到 **{n_spk}** 位发言者(标注为 SPEAKER_00 …)。")
+        out.append("")
+        for start, spk, text in paras:
+            tag = f"`[{mmss(start)}]` **{spk}:** " if multi else f"`[{mmss(start)}]` "
+            out.append(tag + text + "\n")
+        open(f"docs/transcripts/{vid}.md", "w", encoding="utf-8").write("\n".join(out))
+        made += 1
+    return made
+
+# ---------- ① 精读 one-page(注入转录跳转链接)----------
+def build_notes():
+    os.makedirs("docs/notes", exist_ok=True)
+    for f in glob.glob("notes/*.md"):
+        vid = os.path.splitext(os.path.basename(f))[0]
+        lines = open(f, encoding="utf-8").read().split("\n")
+        out, inserted = [], False
+        for ln in lines:
+            out.append(ln)
+            if not inserted and ln.startswith("# "):
+                out.append("")
+                out.append(f"📄 **[点此查看全文转录 / Full transcript »](../transcripts/{vid}.md)**")
+                inserted = True
+        open(f"docs/notes/{vid}.md", "w", encoding="utf-8").write("\n".join(out))
+
 def build_docs(sums):
     if os.path.isdir("docs"):
         shutil.rmtree("docs")
-    os.makedirs("docs/handbook"); os.makedirs("docs/notes")
+    os.makedirs("docs/handbook")
     for f in glob.glob("handbook/*.md"):
         shutil.copy(f, "docs/handbook/" + os.path.basename(f))
-    for f in glob.glob("notes/*.md"):
-        shutil.copy(f, "docs/notes/" + os.path.basename(f))
+    build_notes()
+    n_trans = build_transcripts(sums)
     write_index(sums)
+    print(f"  notes: {len(glob.glob('docs/notes/*.md'))} | transcripts: {n_trans} | "
+          f"handbook: {len(glob.glob('docs/handbook/*.md'))}")
 
 def write_index(sums):
     n = len(sums)
@@ -55,35 +124,35 @@ def write_index(sums):
 > 从 **{n} 支 Y Combinator 近期(2026)视频**综合而成的**中英双语创业教程**,写给即将下场的 **AI Agent 工程师**。
 > A bilingual startup handbook synthesized from {n} recent Y Combinator talks — for AI-agent engineers about to build.
 
-<div class="grid" markdown>
+## 📚 三个部分怎么配合 / Three parts
 
-| 指标 Metric | 值 |
-|---|---|
-| 视频 Videos | **{n}** |
-| 音频时长 Audio | **~43.8 h** |
-| 转写词数 Words | **~530k** |
-| 手册章节 Chapters | **9 + 附录** |
-| 逐视频双语笔记 Notes | **{n}** |
+<div class="grid cards" markdown>
+
+-   __① 逐视频精读 · One-page__
+
+    每支视频一页,学完就知道它讲了什么:中文 TL;DR + 分段精读(英文金句 + 中文小结)+ 给 AI Agent 创始人的行动项。每页顶部可**一键跳到该视频的全文转录**。
+
+    [:octicons-arrow-right-24: 进入精读](notes/{sorted(sums)[0]}.md)
+
+-   __② 创业手册 · Handbook__
+
+    把 {n} 支视频的共识抽象成 9 章「核心原则 + 行动清单」,**跟着学、跟着做**。
+
+    [:octicons-arrow-right-24: 从导言开始](handbook/00-intro.md)
+
+-   __③ 全量转录 · Transcripts__
+
+    每支视频的**完整逐字转录**(带时间戳与说话人),从精读页跳转过来,想深挖细节时用。
+
+    [:octicons-arrow-right-24: 视频索引](handbook/10-appendix.md)
 
 </div>
 
-## 🚀 怎么读 / Reading paths
+**建议路径**:先在 ② 手册建立框架 → 用 ① 精读逐支吃透 → 需要原话/细节时点进 ③ 转录。
 
-- **想清楚要不要干** → [第 1 章 心态](handbook/01-mindset.md)
-- **找方向 / 选 idea** → [第 2 章 选题](handbook/02-idea.md) → [第 3 章 验证](handbook/03-validation.md)
-- **动手做产品** → [第 4 章 MVP/PMF](handbook/04-mvp_pmf.md) → [第 5 章 增长](handbook/05-growth.md)
-- **融资与团队** → [第 6 章 融资](handbook/06-fundraising.md) → [第 7 章 团队](handbook/07-team.md)
-- **本时代的核心题** → ⭐ [第 8 章 AI / Agent 专题](handbook/08-ai_agent.md) → [第 9 章 陷阱](handbook/09-pitfalls.md)
-
-## 📖 章节地图 / Chapters
+## 🗺️ 手册章节地图 / Chapters
 
 {cards_block}
-
-## 🧭 也可以直接看
-
-- [手册导言](handbook/00-intro.md) — 完整的使用说明
-- [视频索引附录](handbook/10-appendix.md) — {n} 支视频一览 + 对应笔记
-- **逐视频双语笔记** — 左侧「逐视频笔记 Notes」按主题浏览全部 {n} 篇
 
 ---
 
@@ -92,36 +161,42 @@ def write_index(sums):
 ```text
 {n} 支 YC YouTube 视频(只下音频)
    → 本地 Whisper large-v3 转写(RTX 4090)
-   → pyannote 说话人分离(谁在说)
-   → 逐视频双语笔记 notes/<id>.md
-   → 跨视频主题综合 → handbook/ 各章
+   → pyannote 说话人分离(谁在说)→ ③ 全量转录
+   → 逐视频双语笔记 → ① 精读 one-page
+   → 跨视频主题综合 → ② 手册
 ```
 
 全流程本地运行、脚本开源(见仓库 `scripts/`)。
 """
     open("docs/index.md", "w", encoding="utf-8").write(md)
 
-def build_nav(sums):
-    handbook_nav = [{CH_TITLES[k]: f"handbook/{k}.md"} for k in
-                    ["00-intro"] + [f"{i:02d}-{key}" for i, key in
-                                    enumerate(THEME_ORDER, 1)] + ["10-appendix"]]
-    # 笔记按主 theme 分组
+# ---------- 导航 ----------
+def group_by_theme(sums, subdir):
     groups = {t: [] for t in THEME_ORDER}
     other = []
     for vid, s in sums.items():
         themes = s.get("themes") or []
         prim = themes[0] if themes else None
         (groups[prim] if prim in groups else other).append((s.get("zh_title", vid), vid))
-    notes_nav = []
+    nav = []
     for t in THEME_ORDER:
         items = sorted(groups[t])
         if items:
-            notes_nav.append({THEME_ZH[t]: [{title: f"notes/{vid}.md"} for title, vid in items]})
+            nav.append({THEME_ZH[t]: [{title: f"{subdir}/{vid}.md"} for title, vid in items]})
     if other:
-        notes_nav.append({"其他 Other": [{title: f"notes/{vid}.md"} for title, vid in sorted(other)]})
-    return [{"首页 Home": "index.md"},
-            {"手册 Handbook": handbook_nav},
-            {"逐视频笔记 Notes": notes_nav}]
+        nav.append({"其他 Other": [{title: f"{subdir}/{vid}.md"} for title, vid in sorted(other)]})
+    return nav
+
+def build_nav(sums):
+    handbook_nav = [{CH_TITLES[k]: f"handbook/{k}.md"} for k in
+                    ["00-intro"] + [f"{i:02d}-{key}" for i, key in enumerate(THEME_ORDER, 1)]
+                    + ["10-appendix"]]
+    return [
+        {"首页 Home": "index.md"},
+        {"① 逐视频精读 · One-page": group_by_theme(sums, "notes")},
+        {"② 创业手册 · Handbook": handbook_nav},
+        {"③ 全量转录 · Transcripts": group_by_theme(sums, "transcripts")},
+    ]
 
 def write_mkdocs(sums):
     cfg = {

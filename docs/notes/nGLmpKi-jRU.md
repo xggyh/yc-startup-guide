@@ -1,5 +1,7 @@
 # YC 办公室答疑:AI 产品的进入市场、Pivot 与招人 / Startup Advice: AI GTM, Pivoting & How To Hire
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/nGLmpKi-jRU.md)**
+
 > **来源**: [Startup Advice: AI GTM, Pivoting & How To Hire](https://www.youtube.com/watch?v=nGLmpKi-jRU) · Y Combinator · 2025-10-21 · 时长 38:33
 > **讲者**: YC 合伙人 Brad Flora(主持,Perfect Audience 创始人)、Gustaf Alströmer(前 Airbnb 增长)、Pete Koomen(Optimizely 联合创始人)、Nico Dessaigne(Algolia 联合创始人)
 > **一句话定位**: 四位 YC 合伙人用真实公司案例回答"AI 产品怎么打进传统行业、什么时候该 pivot、AI 能不能替你招人、何时才该招人"——对想靠 Agent 创业的人来说,是一份把"别过早规模化、先学快"讲透的实操清单。

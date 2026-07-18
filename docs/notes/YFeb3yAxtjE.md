@@ -1,5 +1,7 @@
 # 前沿模型是怎么练出来的:Anthropic 预训练负责人谈扩展定律、算力与 AI 的未来 / Anthropic Head of Pretraining on Scaling Laws, Compute, and the Future of AI
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/YFeb3yAxtjE.md)**
+
 > **来源**: [Anthropic Head of Pretraining on Scaling Laws, Compute, and the Future of AI](https://www.youtube.com/watch?v=YFeb3yAxtjE) · Y Combinator · 2025-09-30 · 时长 64:04
 > **讲者**: Nick Joseph(Anthropic 预训练负责人 / Head of Pre-training,嘉宾,SPEAKER_01) × Ankit Gupta(YC 合伙人 / General Partner,主持,SPEAKER_00)
 > **一句话定位**: 一场关于"前沿大模型训练工程"的深聊——表面讲预训练与扩展定律,内核是给 AI Agent 创始人的方法论:算力飞轮、"效率即护城河"、经验主义决策、评测(eval)作为撬动大厂的杠杆,以及在模型每年变强的世界里怎么选赛道、避开脚手架陷阱。

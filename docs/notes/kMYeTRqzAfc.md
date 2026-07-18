@@ -1,5 +1,7 @@
 # 未来公司只剩两种岗位:Replit CEO 谈 AI 原生建造者时代 / Replit's CEO On The Only Two Jobs Left In The Company Of The Future
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/kMYeTRqzAfc.md)**
+
 > **来源**: [Replit's CEO On The Only Two Jobs Left In The Company Of The Future](https://www.youtube.com/watch?v=kMYeTRqzAfc) · Y Combinator · 2026-04-25 · 时长 39:11
 > **讲者**: Amjad Masad(Replit 联合创始人兼 CEO,SPEAKER_01)· 主持 Andrew Miklas(YC,SPEAKER_00)
 > **一句话定位**: 一个把"写代码"整层抽象掉、让离问题最近的非工程师也能造出真软件的 vibe-coding 平台创始人复盘,教 AI Agent 创始人如何选用户、做 GTM、按 AI 能力排产品路线图、并对 PMF 保持诚实。

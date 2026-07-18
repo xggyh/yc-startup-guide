@@ -1,5 +1,7 @@
 # 前沿论文速览:推理、扩散、世界模型与无限算力 / Inference, Diffusion, World Models, and More | YC Paper Club
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/wE1ZgJdt4uM.md)**
+
 > **来源**: [Inference, Diffusion, World Models, and More | YC Paper Club](https://www.youtube.com/watch?v=wE1ZgJdt4uM) · Y Combinator · 2026-05-28 · 时长 67:18
 > **讲者**: Francois Chaubard(YC Visiting Partner,主持);Tanishq Kumar(Stanford,与 Tri Dao、Avner May 合作);Guangyao "Stannis" Zhou(Google DeepMind staff research scientist);Isaac Ward(世界模型方向);Akshay Vegesna(QLabs 联合创始人/President);Konwoo Kim(Stanford,与 Suhas、Percy Liang、Tatsu 合作)
 > **一句话定位**: YC Paper Club 首场,五篇前沿论文的第一手讲解——把"推理速度=能力上限""世界模型 vs 无模型""数据受限但算力无限该怎么训"这些研究趋势翻译给要做 AI Agent 创业的工程师,帮你判断护城河与技术下注方向在哪里。

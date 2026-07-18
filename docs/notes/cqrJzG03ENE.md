@@ -1,5 +1,7 @@
 # AI 泡沫的真相:2025 年 YC 眼中最意外的事 / The Truth About The AI Bubble
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/cqrJzG03ENE.md)**
+
 > **来源**: [The Truth About The AI Bubble](https://www.youtube.com/watch?v=cqrJzG03ENE) · Y Combinator · 2025-12-22 · 时长 30:22
 > **讲者**: The Light Cone 播客四位 YC 合伙人 —— Garry Tan(SPEAKER_00)、Diana Hu(SPEAKER_01)、Jared Friedman(SPEAKER_02)、Harj Taggar(SPEAKER_03)
 > **一句话定位**: 从 YC 一线数据看 2025 年 AI 创业格局如何"稳定成型"——模型层商品化、价值回流应用层、泡沫其实是创业者的机会窗口,给想做 AI Agent 创业的人一份"现在该怎么打"的地图。

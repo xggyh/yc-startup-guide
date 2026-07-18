@@ -1,5 +1,7 @@
 # AI 创业公司的 FDE(前置部署工程师)实战手册 / The FDE Playbook for AI Startups with Bob McGrew
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/Zyw-YA0k3xo.md)**
+
 > **来源**: [The FDE Playbook for AI Startups with Bob McGrew](https://www.youtube.com/watch?v=Zyw-YA0k3xo) · Y Combinator · 2025-09-08 · 时长 50:42
 > **讲者**: 嘉宾 Bob McGrew(前 OpenAI 首席研究官,主导 ChatGPT / GPT-4 / o1;Palantir 早期高管、FDE 模式共建者;PayPal 早期工程师)；主持 Jared Friedman、Diana Hu、Harj Taggar(YC《The Lightcone》播客;Garry Tan 本期缺席)
 > **一句话定位**: 用 Palantir 发明的"前置部署工程师(FDE)"打法,系统讲清 AI Agent 创业为何要"把不可规模化的事规模化地做"——如何选问题、组团队、按结果定价、把单客户方案泛化成产品,并识别当下最大的创业机会。

@@ -1,5 +1,7 @@
 # 我们认识的最"AI 上头"的 CEO / The Most AI-Pilled CEO We Know
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/mPAHvz8kW24.md)**
+
 > **来源**: [The Most AI-Pilled CEO We Know](https://www.youtube.com/watch?v=mPAHvz8kW24) · Y Combinator · 2026-06-10 · 时长 54:07
 > **讲者**: Pedro Franceschi(Brex 联合创始人兼 CEO,嘉宾);主持为 Y Combinator《The Lightcone》partners —— SPEAKER_01(疑为 Garry Tan,反复谈自建 G-Brain/G-Stack),另有 SPEAKER_00、SPEAKER_05 等提问的合伙人
 > **一句话定位**: 一位把整个公司围绕 AI Agent 重建的 fintech CEO,示范如何用"Agent loop + tools + 网络层安全 + 自学习 eval"把公司从 day 0 重造 —— 对想做 AI Agent 创业的人,这是一份"如何以 LLM 为地基造公司"的实操心法。

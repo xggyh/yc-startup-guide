@@ -1,5 +1,7 @@
 # 为什么现在是加密建设的黄金时代 / Why Now Is The Best Time To Build In Crypto
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/Pdne9xaRLUc.md)**
+
 > **来源**: [Why Now Is The Best Time To Build In Crypto](https://www.youtube.com/watch?v=Pdne9xaRLUc) · Y Combinator · 2025-09-23 · 时长 42:01
 > **讲者**: Jesse Pollak(Base 创始人 / Coinbase)· Harj Taggar(YC 合伙人,主持)。这是 YC × Coinbase 联合发布 "build onchain" RFS 的对谈(Main Function 节目)。
 > **一句话定位**: 一份"链已成熟、成本骤降、监管清晰"后的 crypto 建设时机判断;对 AI Agent 创始人的最大价值是那条主线——**money as software 是 agent 天然的交易底座**,agent 直接调用智能合约结算,而不必绕行浏览器和信用卡遗留系统。

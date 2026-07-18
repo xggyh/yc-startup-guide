@@ -1,5 +1,7 @@
 # 印度能诞生全球最大的 AI 公司:YC 合伙人 × 印度创业者的收官圆桌 / India Can Create The Largest AI Companies
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/Ju8LVdvuxGM.md)**
+
 > **来源**: [India Can Create The Largest AI Companies](https://www.youtube.com/watch?v=Ju8LVdvuxGM) · Y Combinator · 2026-06-27 · 时长 32:10
 > **讲者**: Startup School India 收官圆桌。YC 方:Jared Friedman(SPEAKER_04,YC 董事总经理/主持)、John(SPEAKER_02,YC 合伙人)、Ankit Gupta(SPEAKER_03,YC 合伙人,前 Pulse 创始人)。嘉宾:Puneet(SPEAKER_00,Super Daily 创始人,YC W17,以 ~1 亿美元 ARR 卖给 Swiggy,前 Nexus 风投,现重新创业)、Arnav(SPEAKER_01,前 YC,现 Peak15 风投)。
 > **一句话定位**: 一场面向年轻技术创始人的「起飞前动员」——讲清楚为什么这波 AI 是全球性、meritocratic 的机会,以及如何用编码 agent「把 token 用到爆」去做项目、找点子、抢第二名优势,对想做 AI Agent 创业的工程师尤其对味。

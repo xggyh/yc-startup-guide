@@ -46,19 +46,7 @@ plugins:
 - search: {}
 nav:
 - 首页 Home: index.md
-- 手册 Handbook:
-  - 导言 Introduction: handbook/00-intro.md
-  - 第 1 章 · 创始人心态与素质: handbook/01-mindset.md
-  - 第 2 章 · 找方向与选 idea: handbook/02-idea.md
-  - 第 3 章 · 验证需求与用户对话: handbook/03-validation.md
-  - 第 4 章 · 做 MVP 与找到 PMF: handbook/04-mvp_pmf.md
-  - 第 5 章 · 增长与获客: handbook/05-growth.md
-  - 第 6 章 · 融资与申请 YC: handbook/06-fundraising.md
-  - 第 7 章 · 联合创始人与团队: handbook/07-team.md
-  - 第 8 章 · AI / Agent 时代专题: handbook/08-ai_agent.md
-  - 第 9 章 · 常见陷阱与反模式: handbook/09-pitfalls.md
-  - 附录 · 视频索引 Video Index: handbook/10-appendix.md
-- 逐视频笔记 Notes:
+- ① 逐视频精读 · One-page:
   - 心态 Mindset:
     - 20X 公司:用内部自动化打赢体量大你 20 倍的对手: notes/rWUWfj_PqmM.md
     - 24 岁做出 Cursor:在 GitHub Copilot 阴影下,靠"信念一致性"押注编程的未来: notes/TrXi3naD6Og.md
@@ -147,6 +135,107 @@ nav:
     - 递归:AI 的下一条 Scaling Law: notes/DGtUUMNYLcc.md
   - 陷阱 Pitfalls:
     - Vibe Coding 落地页的常见翻车点: notes/DNSXlBmukck.md
+- ② 创业手册 · Handbook:
+  - 导言 Introduction: handbook/00-intro.md
+  - 第 1 章 · 创始人心态与素质: handbook/01-mindset.md
+  - 第 2 章 · 找方向与选 idea: handbook/02-idea.md
+  - 第 3 章 · 验证需求与用户对话: handbook/03-validation.md
+  - 第 4 章 · 做 MVP 与找到 PMF: handbook/04-mvp_pmf.md
+  - 第 5 章 · 增长与获客: handbook/05-growth.md
+  - 第 6 章 · 融资与申请 YC: handbook/06-fundraising.md
+  - 第 7 章 · 联合创始人与团队: handbook/07-team.md
+  - 第 8 章 · AI / Agent 时代专题: handbook/08-ai_agent.md
+  - 第 9 章 · 常见陷阱与反模式: handbook/09-pitfalls.md
+  - 附录 · 视频索引 Video Index: handbook/10-appendix.md
+- ③ 全量转录 · Transcripts:
+  - 心态 Mindset:
+    - 20X 公司:用内部自动化打赢体量大你 20 倍的对手: transcripts/rWUWfj_PqmM.md
+    - 24 岁做出 Cursor:在 GitHub Copilot 阴影下,靠"信念一致性"押注编程的未来: transcripts/TrXi3naD6Og.md
+    - 25 岁、零法律背景,如何做成 6.75 亿美元法律 AI 公司(Legora 复盘): transcripts/pHuXCzM2ntU.md
+    - 40 岁单人创始人的时代来了:经验 × AI 的护城河: transcripts/8OOuCnZB-4o.md
+    - AI 创业最强的 7 条护城河: transcripts/bxBzsSsqQAM.md
+    - AI 时代创业者为何能赢:Box CEO Aaron Levie 的窗口期论: transcripts/uqc_vt95GJg.md
+    - AI 正在压缩每一条护城河:Razorpay 创始人的十年创业课: transcripts/X5bABLCuIHA.md
+    - AI 正在解锁数百万新一代"建造者": transcripts/8SVocWnDHwE.md
+    - AI 泡沫的真相:2025 年 YC 眼中最意外的事: transcripts/cqrJzG03ENE.md
+    - Amplitude 从 AI 怀疑者到「全押 AI」:老牌 SaaS 的自我重造: transcripts/t8co94HS6tY.md
+    - Anthropic 联创谈 Claude Code、GPT-3 与 AI 系统设计: transcripts/JdT78t1Offo.md
+    - Dylan Field 谈 Figma 的规模化与设计的未来: transcripts/-7Qz7tSTfUU.md
+    - Legora 如何在 18 个月内从 YC 干到 1 亿美金 ARR: transcripts/mjmswQurIU4.md
+    - Meesho 如何成为印度第一购物 App:问题不变、方案随时可换: transcripts/49L8lVe_PVo.md
+    - Stripe 如何重做官网:AI 时代的设计品味与质量底线: transcripts/ypzNhwpmOD4.md
+    - Transformer 简史:改变 AI 的那次发现: transcripts/JZLZQVmfGn8.md
+    - YC 办公室答疑:AI 产品的进入市场、Pivot 与招人: transcripts/nGLmpKi-jRU.md
+    - Zepto:两个 17 岁少年如何做成印度最大生鲜卖家: transcripts/YKZCU0ynEbs.md
+    - 两个 IIT 工程师为何拒绝 55 万美元工作去创业: transcripts/2Ap1dnv-GXA.md
+    - 为什么现在是加密建设的黄金时代: transcripts/Pdne9xaRLUc.md
+    - 从"转型地狱"到 14 亿美元独角兽: transcripts/5WN8bfG06Hk.md
+    - 从零开始用 AI 搭建一家公司: transcripts/EN7frwQIbKc.md
+    - 六个月折腾折出一家 $100M ARR 公司:Emergent 的打法: transcripts/yyXCQHX55N4.md
+    - 关于 AI 与就业,所有人都想错了: transcripts/IqwSb2hO1jE.md
+    - 创业前该问自己的问题:在 AGI 逼近时如何做 AI 创业: transcripts/DJjZzzPANBY.md
+    - 前沿模型是怎么练出来的:Anthropic 预训练负责人谈扩展定律、算力与 AI 的未来: transcripts/YFeb3yAxtjE.md
+    - 前沿论文速览:推理、扩散、世界模型与无限算力: transcripts/wE1ZgJdt4uM.md
+    - 印度能诞生全球最大的 AI 公司:YC 合伙人 × 印度创业者的收官圆桌: transcripts/Ju8LVdvuxGM.md
+    - 好消息:大厂做不好 AI —— 创业公司的机会窗: transcripts/DULfEcPR0Gc.md
+    - 如何让好公司不腐坏:创始人必须懂的公司治理与使命控制: transcripts/7VKliOQXQ9M.md
+    - 对话 Claude Code 之父 Boris Cherny:如何为「六个月后的模型」而造: transcripts/PQU9o_5rHC4.md
+    - 我们认识的最"AI 上头"的 CEO: transcripts/mPAHvz8kW24.md
+    - 我们都对 Claude Code 上瘾了:coding agent 时代的创业启示: transcripts/qwmmWzPnhog.md
+    - 打造可复用火箭的创业内幕:从车库到轨道的硬科技创业课: transcripts/2hgjgycOU_0.md
+    - 把 Claude Code 变成你的 AI 工程团队: transcripts/wkv2ifxPpF8.md
+    - 把数据中心送上太空:一家硬科技创业公司的诞生逻辑: transcripts/hKw6cRKcqzY.md
+    - 最好的消费级创业点子,过去做不了、现在能做了: transcripts/Z4L4ZqL1xqQ.md
+    - 最小可进化产品:如何拿到你的第一批用户: transcripts/0kARDVL2nZg.md
+    - 机器人的 GPT 时刻已到:一份垂直机器人创业 playbook: transcripts/4EsUaur0nsQ.md
+    - 用 7000 美元的 PVC 反应器,撬动 6 万亿美元的化工行业:Solugen 的从 0 到 10 亿: transcripts/PCypBUVhff8.md
+    - 用碳捕集删掉全美 29% 碳排放:一个门外汉如何啃下硬科技创业: transcripts/ENG_DQF5E60.md
+    - 脑机接口的未来: transcripts/5gspRJVp9dI.md
+    - 让客户「爱到不行或恨到咬牙」:Groww 创始人的消费级金融科技心法: transcripts/ObBAxL2dFzw.md
+    - 该不该去硅谷:大中心、机缘相遇与 YC 的复利: transcripts/QHJkUw31YX8.md
+    - 选一个想法,把它做深: transcripts/R56RJFZBasQ.md
+    - 通往 AGI 还缺什么:Demis Hassabis 谈 Agent、深科技创业与下一场科学突破: transcripts/JNyuX1zoOgU.md
+  - 选题 Ideas:
+    - AI Agent 经济已经到来:为"会挑工具的智能体"做产品: transcripts/Q8wVMdwhlh4.md
+    - 从想法到 6.5 亿美元退出:AI 创业的实战心法: transcripts/l0h3nAW13ao.md
+    - 十亿美元级的冷门点子:如何做"反共识且正确"的押注: transcripts/Hm-ZIiwiN1o.md
+    - 如何从零打造 AI 原生服务公司: transcripts/gSNFJbgoaHI.md
+    - 消费级现在"不可投",正因如此你才该做它: transcripts/oHwUD9b9_pg.md
+  - 验证 Validation:
+    - 点阵图:真正看清用户在做什么: transcripts/e5-6rEwzxLs.md
+  - MVP / PMF:
+    - 为什么你的创业官网不转化:Framer CEO 拆解 5 个 AI 创业站: transcripts/leQ89XSHILw.md
+    - 十亿分之一:用「分步走」战略把硬科技做成 40 亿美元公司: transcripts/kkv5rZhrLkc.md
+  - 增长 Growth:
+    - Cursor 设计负责人吐槽创业公司官网:让用户 5 秒看懂你的产品: transcripts/RynySryqM_0.md
+    - 创始人 B2B 销售手册:如何签下第一批经常性收入合同: transcripts/DH7REvnQ1y4.md
+    - 如何拿下你的前 10 个客户: transcripts/_FBivfgOvuE.md
+    - 我们如何重做官网:用“讲故事”代替“卖产品”,用 AI 直接做交互原型: transcripts/K5JoLAauzq4.md
+  - 团队 Team:
+    - 招聘你的第一批工程师和销售(AE)的创业实操手册: transcripts/i_PjjXKNpA4.md
+  - AI / Agent:
+    - AI 创业公司的 FDE(前置部署工程师)实战手册: transcripts/Zyw-YA0k3xo.md
+    - AI 到底有多聪明?用 ARC-AGI 重新定义"智能": transcripts/pBlIgs6w7Ss.md
+    - AI 正在吞噬物流:Flexport 的自动化实战: transcripts/KTmxaMdUbHA.md
+    - LLM 自博弈、AI×生物、形式化验证与「用 Agent 写代码=打即时战略」: transcripts/3rWSvrFahIY.md
+    - OpenClaw 之父:为什么 80% 的 App 都会消失: transcripts/4uzGDAoNOZc.md
+    - Tokenmaxxing:顶尖构建者如何用 AI 干 400 个工程师的活: transcripts/57lDpTwiW6g.md
+    - YC 内部 AI 手册:把公司变成"超级智能组织": transcripts/B246K_G7mHU.md
+    - YC 设计负责人:如何用 AI(编码 Agent)做设计: transcripts/VbqaL_eHhKY.md
+    - 为什么只靠 Scaling 造不出 AGI:François Chollet 谈符号程序合成、可验证奖励与创业机会: transcripts/k2ZLQC8P7dc.md
+    - 人脑真正独有、AI 正拼命追赶的那个东西:世界模型: transcripts/qz4GQ0zUFRw.md
+    - 像指挥家一样管理一群编程 Agent:Conductor CEO 的 AI 编码工作流: transcripts/fQmlML9Lay4.md
+    - 如何用 AI 打造一家自我改进的公司: transcripts/X_JsIHUfUjc.md
+    - 开源大模型架构横评:GPT-OSS vs Qwen-3 vs DeepSeek: transcripts/raTbhtKZTZA.md
+    - 微调的强力替代方案:给 LLM 装上"高跷"的递归自我改进: transcripts/UPGB-hsAoVY.md
+    - 未来公司只剩两种岗位:Replit CEO 谈 AI 原生建造者时代: transcripts/kMYeTRqzAfc.md
+    - 每个创始人都该懂的机器学习技术:扩散模型: transcripts/dC_3ys349bU.md
+    - 用 AI Agent 在规模上抓欺诈:Variance 的隐身创业实录: transcripts/JF6XIixstmQ.md
+    - 破解“空白画布”难题:Gusto 的 AI 联合创始人: transcripts/xpeRVyFFy_Q.md
+    - 软件创造的未来:Replit CEO 谈应用软件价值归零与 Agent 栖息地: transcripts/lWmDiDGsLK4.md
+    - 递归:AI 的下一条 Scaling Law: transcripts/DGtUUMNYLcc.md
+  - 陷阱 Pitfalls:
+    - Vibe Coding 落地页的常见翻车点: transcripts/DNSXlBmukck.md
 site_url: https://xggyh.github.io/yc-startup-guide/
 repo_url: https://github.com/xggyh/yc-startup-guide
 repo_name: yc-startup-guide

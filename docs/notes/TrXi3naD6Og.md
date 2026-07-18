@@ -1,5 +1,7 @@
 # 24 岁做出 Cursor:在 GitHub Copilot 阴影下,靠"信念一致性"押注编程的未来 / Building Cursor At 23, Taking On GitHub Copilot & Advice To Engineering Students
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/TrXi3naD6Og.md)**
+
 > **来源**: [Michael Truell: Building Cursor At 23, Taking On GitHub Copilot & Advice To Engineering Students](https://www.youtube.com/watch?v=TrXi3naD6Og) · Y Combinator · 2025-09-03 · 时长 27:56
 > **讲者**: Michael Truell(Cursor / Anysphere 联合创始人兼 CEO,SPEAKER_02) · 对谈主持:Diana Hu(YC General Partner,SPEAKER_00);SPEAKER_01 为 YC 广告口播
 > **一句话定位**: 一个 AI 编程公司如何在明知巨头(Copilot 已年入 $1 亿+)先行、且自己数次失败后,靠"如果我们对自己的信念保持一致,未来五年所有编程都会经由模型流动"这一判断,一年从 $1M 做到 $100M ARR——对 AI Agent 创始人是关于"选赛道、砍旧想法、务实自研、口碑增长"的实战样本。

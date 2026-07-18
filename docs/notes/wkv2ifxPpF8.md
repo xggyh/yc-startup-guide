@@ -1,5 +1,7 @@
 # 把 Claude Code 变成你的 AI 工程团队 / How to Make Claude Code Your AI Engineering Team
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/wkv2ifxPpF8.md)**
+
 > **来源**: [How to Make Claude Code Your AI Engineering Team](https://www.youtube.com/watch?v=wkv2ifxPpF8) · Y Combinator · 2026-04-23 · 时长 21:49
 > **讲者**: Garry Tan(YC 总裁兼 CEO,前 Palantir 10 号员工、Posterous 联合创始人;GStack 开源作者)
 > **一句话定位**: 用"薄骨架 + 厚技能"的方式,把编码 Agent 组织成一个有角色、有流程、有评审的工程团队;并把 YC 的 Office Hours 逼问法内化进 planning,帮 AI Agent 创始人在写第一行代码前就把点子想大、想清楚、想到可落地。

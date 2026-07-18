@@ -1,5 +1,7 @@
 # 六个月折腾折出一家 $100M ARR 公司:Emergent 的打法 / Emergent: How Six Months of Tinkering Led To A $100M ARR Company
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/yyXCQHX55N4.md)**
+
 > **来源**: [Emergent: How Six Months of Tinkering Led To A $100M ARR Company](https://www.youtube.com/watch?v=yyXCQHX55N4) · Y Combinator · 2026-06-06 · 时长 29:05
 > **讲者**: Mukund Jha(Emergent 联合创始人 & CEO,SPEAKER_00)· 对谈主持 Jared Friedman(YC 管理合伙人,SPEAKER_01)· 录于 Startup School India
 > **一句话定位**: 一位连续创业者(第五次创业、Dunzo → Emergent)手把手讲他如何靠"押注 AI 指数级进步、把最后一公里做到能用、用 benchmark 锚定团队"在九个月做到 8.5M 用户 / $100M ARR;对做 AI coding/agent、又是"第 N 个入场者"的创始人极对症。

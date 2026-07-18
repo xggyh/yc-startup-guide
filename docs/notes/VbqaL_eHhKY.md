@@ -1,5 +1,7 @@
 # YC 设计负责人:如何用 AI(编码 Agent)做设计 / YC's Head of Design Shows You How To Design With AI
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/VbqaL_eHhKY.md)**
+
 > **来源**: [YC's Head of Design Shows You How To Design With AI](https://www.youtube.com/watch?v=VbqaL_eHhKY) · Y Combinator · 2026-07-10 · 时长 30:54
 > **讲者**: Eve Bouffard(YC 设计负责人 / Head of Design,SPEAKER_02)· 主持 Aaron Epstein(YC General Partner,SPEAKER_01)· 片中含一段 YC 招募旁白(SPEAKER_00)
 > **一句话定位**: 一位顶尖设计师演示"编码 Agent 优先"的实际工作流——语音输入、自建一次性微工具、Soul.md 上下文、"发送给 Agent"的用户反馈闭环——对做 AI Agent 产品的创始人,这是一份"Agent 如何真正改变构建方式"的活样本。

@@ -1,5 +1,7 @@
 # 该不该去硅谷:大中心、机缘相遇与 YC 的复利 / Paul Graham on Going to Silicon Valley
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/QHJkUw31YX8.md)**
+
 > **来源**: [Paul Graham, Founder of Y Combinator, Live from Stockholm](https://www.youtube.com/watch?v=QHJkUw31YX8) · Y Combinator · 2026-05-13 · 时长 21:58
 > **讲者**: Paul Graham(YC 创始人;斯德哥尔摩 Waterfront Congress Centre 现场演讲,原录制于 2026-04-29)
 > **一句话定位**: 用两千年的"人才中心"规律回答一个创业地理决策题——该不该去硅谷、去多久、要不要回来;对 AI Agent 创始人而言,这是一份关于"把自己放进最强同侪密度里"的落点策略。

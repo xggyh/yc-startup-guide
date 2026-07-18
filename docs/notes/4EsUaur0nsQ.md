@@ -1,5 +1,7 @@
 # 机器人的 GPT 时刻已到:一份垂直机器人创业 playbook / The GPT Moment for Robotics Is Here
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/4EsUaur0nsQ.md)**
+
 > **来源**: [The GPT Moment for Robotics Is Here](https://www.youtube.com/watch?v=4EsUaur0nsQ) · Y Combinator · 2026-04-16 · 时长 49:27
 > **讲者**: 主持 Garry Tan、Jared Friedman、Diana Hu、Harj Taggar(YC《The Lightcone》);嘉宾 Quan Vuong(Physical Intelligence / Pi 联合创始人)
 > **一句话定位**: 机器人正迎来"GPT-1 时刻"——底层由一个跨本体基础模型托管在云端,创业者不必再垂直整合全栈。这套"识别工作流→省钱硬件→采数据→跑评测→混合自主→打平→再规模化"的 playbook,几乎可以直接照搬到 AI Agent 的垂直落地上。

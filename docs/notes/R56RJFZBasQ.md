@@ -1,5 +1,7 @@
 # 选一个想法,把它做深 / Pick One Idea and Go Deep
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/R56RJFZBasQ.md)**
+
 > **来源**: [Pick One Idea and Go Deep](https://www.youtube.com/watch?v=R56RJFZBasQ) · Y Combinator · 2026-06-17 · 时长 11:30
 > **讲者**: John(YC 合伙人 / Partner at YC)
 > **一句话定位**: 给纠结「到底做哪个点子」的创始人一套决策 rubric——别追求完美点子,砍掉其他船只只押一个方向、深到能替客户经营生意,再用 AI 时代的三条标准(踩在模型能力边缘、纵向卖结果、做最雄心的版本)判断值不值得继续;对手握一堆 Agent idea 却迟迟不 all-in 的 AI 创始人尤其对症。

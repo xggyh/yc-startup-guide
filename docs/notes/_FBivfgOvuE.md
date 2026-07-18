@@ -1,5 +1,7 @@
 # 如何拿下你的前 10 个客户 / How to Get Your First 10 Customers
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/_FBivfgOvuE.md)**
+
 > **来源**: [How to Get Your First 10 Customers](https://www.youtube.com/watch?v=_FBivfgOvuE) · Y Combinator · 2026-06-22 · 时长 13:46
 > **讲者**: Max Kolysh(YC 客座合伙人 / Visiting Partner,SPEAKER_00),内容汇编自数十位 YC 创始人在内网 Bookface 上分享的真实经历
 > **一句话定位**: 讲透"前 10 个客户"从哪来、用什么战术拿下——不是靠工具和自动化,而是靠创始人亲自做那些不可规模化的事;对刚有 demo、要冷启动的 AI Agent 创始人尤其对症。

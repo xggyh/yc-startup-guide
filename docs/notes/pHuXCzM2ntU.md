@@ -1,5 +1,7 @@
 # 25 岁、零法律背景,如何做成 6.75 亿美元法律 AI 公司(Legora 复盘) / How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/pHuXCzM2ntU.md)**
+
 > **来源**: [How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)](https://www.youtube.com/watch?v=pHuXCzM2ntU) · Y Combinator · 2025-08-26 · 时长 45:26
 > **讲者**: Gustaf Alströmer(YC 合伙人,主持)· Max Junestrand(Legora 联合创始人兼 CEO,YC W24)
 > **一句话定位**: 以 Legora 为样本,拆解一个 AI Agent 团队在最保守的垂直行业(法律)里,如何在零行业背景下切入、向 AI 怀疑者销售、把 agent 做成"可交付的生产力",并在模型飞速迭代中建立护城河——对做垂直 AI Agent 创业的人,这是一份可照抄的实战手册。

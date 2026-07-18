@@ -1,5 +1,7 @@
 # 脑机接口的未来 / The Future Of Brain-Computer Interfaces
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/5gspRJVp9dI.md)**
+
 > **来源**: [The Future Of Brain-Computer Interfaces](https://www.youtube.com/watch?v=5gspRJVp9dI) · Y Combinator · 2026-03-09 · 时长 53:20
 > **讲者**: Max Hodak(Neuralink 联合创始人、Science 创始人,受访嘉宾) × Garry Tan(YC CEO,《How to Build the Future》主持人)
 > **一句话定位**: 一位从纯软件工程师转型硬科技、做出"让盲人重见"视网膜芯片的连续创始人,讲他如何用第一性原理选赛道、把"大脑当计算机"来做 API,以及创业最该学会的元技能——这些"选楔子、找缺口、抄别人的红利、拜师而非单打"的方法论,对 AI Agent 创始人几乎条条可迁移;同时点破 AI 与神经科学正在大统一(潜空间、表征),对做 Agent 的技术人是极强的世界观校准。

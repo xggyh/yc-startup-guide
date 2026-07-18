@@ -1,5 +1,7 @@
 # 消费级现在"不可投",正因如此你才该做它 / Zynga Founder: Consumer Is Not Investible Right Now — That's Why You Should Build It
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/oHwUD9b9_pg.md)**
+
 > **来源**: [Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It](https://www.youtube.com/watch?v=oHwUD9b9_pg) · Y Combinator · 2026-06-25 · 时长 40:42
 > **讲者**: Mark Pincus(Zynga 创始人,新书《Life at the Speed of Play》作者,SPEAKER_00)× Garry Tan(YC 掌门,主持,SPEAKER_01)
 > **一句话定位**: 一位穿越三个计算时代的连续创始人告诉你:当投资人集体逃离消费级、都去追 enterprise 时,恰恰是造下一个"离不开的服务"(internet treasure)的最佳窗口——并给出 Proven/Better/New、Founder Mode、"智能如自来水"等可落地的产品与心法,对做消费级/prosumer AI-Agent 的创始人尤其对味。

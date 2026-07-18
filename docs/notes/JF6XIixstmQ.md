@@ -1,5 +1,7 @@
 # 用 AI Agent 在规模上抓欺诈:Variance 的隐身创业实录 / This Startup Catches Fraud at Scale
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/JF6XIixstmQ.md)**
+
 > **来源**: [This Startup Catches Fraud at Scale](https://www.youtube.com/watch?v=JF6XIixstmQ) · Y Combinator · 2026-03-31 · 时长 31:23
 > **讲者**: 主持 Jared Friedman(YC Managing Partner,SPEAKER_00);嘉宾 Karine Mellata(Variance 联合创始人 / CEO,W23,SPEAKER_01)
 > **一句话定位**: 一个把"合规/反欺诈"这类高价值、原本靠人工审核的枯燥流程,用 AI Agent 彻底自动化的真实案例——对想做垂直 Agent、卖给企业客户的创始人,示范了产品架构、"why now"、以及冷启动第一个企业客户的完整路径。

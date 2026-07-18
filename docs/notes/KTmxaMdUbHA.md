@@ -1,5 +1,7 @@
 # AI 正在吞噬物流:Flexport 的自动化实战 / AI Is Eating Logistics
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/KTmxaMdUbHA.md)**
+
 > **来源**: [AI Is Eating Logistics](https://www.youtube.com/watch?v=KTmxaMdUbHA) · Y Combinator · 2025-11-14 · 时长 33:40
 > **讲者**: Ryan Petersen(Flexport 创始人兼 CEO,嘉宾)· Garry Tan(YC CEO,The Lightcone 主持)· 以及 Lightcone 主持团(SPEAKER_01 / SPEAKER_03 / SPEAKER_04)
 > **一句话定位**: 一家 2014 年 YC、如今 20 亿美元营收的物流公司,如何用 LLM + Agent 把"藏在邮件、Excel、电话里"的人力工作系统性自动化——为 AI Agent 创始人示范了在真实的、非结构化、有物理世界约束的行业里落地 Agent 的完整路径与陷阱。

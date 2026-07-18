@@ -1,5 +1,7 @@
 # 招聘你的第一批工程师和销售(AE)的创业实操手册 / The Startup Playbook for Hiring Your First Engineers and AEs
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/i_PjjXKNpA4.md)**
+
 > **来源**: [The Startup Playbook for Hiring Your First Engineers and AEs](https://www.youtube.com/watch?v=i_PjjXKNpA4) · Y Combinator · 2025-11-07 · 时长 43:21
 > **讲者**: 主讲 David Paffenholz(Juicebox 联合创始人兼 CEO,AI 招聘 sourcing 平台,Sequoia 投资,客户含 Ramp / Cursor / Perplexity);对谈主持 Harj(YC,SPEAKER_01)。
 > **一句话定位**: 一套把"招前几名工程师/销售"当成 outbound sales 来做的完整打法——从判断候选人想要什么、如何 sourcing、如何写出高回复率的 cold outreach,到面试先卖后评、七天闪电 close。对技术出身、要组建第一支团队的 AI Agent 创始人尤其对症:你的第一批人定义文化与速度,而招人本质就是一次你已经会的销售。

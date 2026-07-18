@@ -1,5 +1,7 @@
 # OpenClaw 之父:为什么 80% 的 App 都会消失 / OpenClaw Creator: Why 80% Of Apps Will Disappear
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/4uzGDAoNOZc.md)**
+
 > **来源**: [OpenClaw Creator: Why 80% Of Apps Will Disappear](https://www.youtube.com/watch?v=4uzGDAoNOZc) · Y Combinator · 2026-02-07 · 时长 22:36
 > **讲者**: 主持 Raphael Schaad(YC,SPEAKER_01);嘉宾 Peter Steinberger(OpenClaw 作者,SPEAKER_02);中段有 YC 招募口播(SPEAKER_00)
 > **一句话定位**: 一个开源、本地优先的个人 AI agent 一夜爆红(GitHub 16 万+ star)背后的产品直觉与构建哲学——本地跑、当朋友聊、给灵魂、用人类爱用的 CLI 工具而非为 bot 发明协议;对做个人/本地 AI Agent 创业的工程师是一份极高信号的思路样本。

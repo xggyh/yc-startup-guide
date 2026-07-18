@@ -1,5 +1,7 @@
 # 微调的强力替代方案:给 LLM 装上"高跷"的递归自我改进 / The Powerful Alternative To Fine-Tuning
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/UPGB-hsAoVY.md)**
+
 > **来源**: [The Powerful Alternative To Fine-Tuning](https://www.youtube.com/watch?v=UPGB-hsAoVY) · Y Combinator · 2026-02-27 · 时长 19:46
 > **讲者**: Ian Fischer(Poetiq 联合创始人兼 co-CEO,前 Google DeepMind 研究员,曾在 YC 做过移动开发者工具创业并被 Google 收购)= SPEAKER_04;主持为 The Lightcone 团队(YC,含 Garry Tan / Diana Hu 等,以 SPEAKER_00–03 区分,身份无法逐一确证故保留标签)
 > **一句话定位**: 与其花几百万到几亿美元去微调、每出一个新前沿模型就被"清零"重来,不如在模型之上构建可自动优化、模型无关的 agent харness(harness),让你的 agent 永远"站在最新模型的肩膀上"——对做垂直 AI Agent 的创始人是一条更省钱、更抗淘汰的技术路线。

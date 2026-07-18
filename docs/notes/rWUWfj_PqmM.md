@@ -1,5 +1,7 @@
 # 20X 公司:用内部自动化打赢体量大你 20 倍的对手 / The New Way To Build A Startup
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/rWUWfj_PqmM.md)**
+
 > **来源**: [The New Way To Build A Startup](https://www.youtube.com/watch?v=rWUWfj_PqmM) · Y Combinator · 2026-02-14 · 时长 07:51
 > **讲者**: YC 主讲人(旁白,SPEAKER_02) · 嘉宾片段:Parker Conrad(Rippling/Zenefits 创始人,SPEAKER_04)、GigaML 创始人(Atlas,SPEAKER_00)、Legion Health 团队(SPEAKER_05/SPEAKER_01)、Phase Shift 创始人(SPEAKER_03)
 > **一句话定位**: 解释"20X 公司"这一新打法——用 AI Agent 把公司内部每个职能都自动化,让极小的团队(4-12 人)在增长和产品上打赢体量大 20-100 倍的老牌对手;对做 AI Agent 的创始人既是方法论,也是三条可直接落地的产品/组织路径。

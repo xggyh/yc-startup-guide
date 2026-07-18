@@ -1,5 +1,7 @@
 # 打造可复用火箭的创业内幕:从车库到轨道的硬科技创业课 / Inside The Startup Building Reusable Rockets
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/2hgjgycOU_0.md)**
+
 > **来源**: [Inside The Startup Building Reusable Rockets](https://www.youtube.com/watch?v=2hgjgycOU_0) · Y Combinator · 2026-01-08 · 时长 15:44
 > **讲者**: 主持 Aaron Epstein(YC,SPEAKER_01);嘉宾为 Stoke Space 两位联合创始人 Andy Lapsa(CEO,SPEAKER_02)与 Tom Feldman(SPEAKER_00)
 > **一句话定位**: 一家做"完全可复用火箭"的硬科技公司,如何用"复用优先架构 + 极速迭代 + 自建工具 + 最小可信 Demo 融资"从零起步——这套方法论对 AI Agent 创始人几乎逐条可迁移。

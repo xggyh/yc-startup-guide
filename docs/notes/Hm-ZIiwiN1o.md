@@ -1,5 +1,7 @@
 # 十亿美元级的冷门点子:如何做"反共识且正确"的押注 / Billion-Dollar Unpopular Startup Ideas
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/Hm-ZIiwiN1o.md)**
+
 > **来源**: [Billion-Dollar Unpopular Startup Ideas](https://www.youtube.com/watch?v=Hm-ZIiwiN1o) · Y Combinator · 2025-10-17 · 时长 37:43
 > **讲者**: YC 播客 The Light Cone 四人组——Garry Tan(SPEAKER_00)、Harj Taggar(SPEAKER_03)、Jared Friedman(SPEAKER_02)、Diana Hu(SPEAKER_01)
 > **一句话定位**: 当 AI 垂直赛道从"遍地绿地"变成"处处红海",这期从 Uber/Coinbase/DoorDash/Flock Safety 等案例拆解"如何找到别人不信、你却相信的秘密",教 AI Agent 创始人用第一性原理而非热点做反共识押注,避免成为"第 3 到 98 名"陪跑的死尸。

@@ -1,5 +1,7 @@
 # 从想法到 6.5 亿美元退出:AI 创业的实战心法 / From Idea to $650M Exit: Lessons in Building AI Startups
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/l0h3nAW13ao.md)**
+
 > **来源**: [From Idea to $650M Exit: Lessons in Building AI Startups](https://www.youtube.com/watch?v=l0h3nAW13ao) · Y Combinator · 2025-10-28 · 时长 39:25
 > **讲者**: Jake Heller(Casetext 联合创始人兼 CEO,AI 法律助手 CoCounsel;2023 年被 Thomson Reuters 以 6.5 亿美元现金收购;录制于 2025-06-17 AI Startup School)
 > **一句话定位**: 一位真正把 AI 应用做到大额退出的创始人,系统讲清"选什么想法 → 如何造出可靠(而非只是 demo)的 AI 产品 → 如何定价与卖出去"三件事;对要做 AI Agent 创业、正卡在"demo 很酷但不敢上生产"的工程师尤其对症。

@@ -1,5 +1,7 @@
 # Meesho 如何成为印度第一购物 App:问题不变、方案随时可换 / How Meesho Became India's Biggest Shopping App
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/49L8lVe_PVo.md)**
+
 > **来源**: [How Meesho Became India's Biggest Shopping App](https://www.youtube.com/watch?v=49L8lVe_PVo) · Y Combinator · 2026-06-11 · 时长 30:20
 > **讲者**: Vidit Aatrey(Meesho 联合创始人兼 CEO,YC S16)· 对谈主持 Ankit Gupta(YC General Partner)
 > **一句话定位**: 一个连续五次 pivot、最终靠"极度贴近消费者 + 死磕问题、灵活换方案"跑成印度最大购物 App 的实战复盘;对 AI Agent 创始人最大的价值,是示范如何用新技术把"原本用不了产品的人"变成用户。

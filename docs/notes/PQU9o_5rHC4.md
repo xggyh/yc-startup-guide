@@ -1,5 +1,7 @@
 # 对话 Claude Code 之父 Boris Cherny:如何为「六个月后的模型」而造 / Inside Claude Code With Its Creator Boris Cherny
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/PQU9o_5rHC4.md)**
+
 > **来源**: [Inside Claude Code With Its Creator Boris Cherny](https://www.youtube.com/watch?v=PQU9o_5rHC4) · Y Combinator · 2026-02-17 · 时长 50:10
 > **讲者**: Boris Cherny(Claude Code 创造者、Anthropic 工程师,即 SPEAKER_02)· The Lightcone 主持团(Garry Tan 等,SPEAKER_00/01/03/04,身份未在原片明确自报,保留 SPEAKER 编号)
 > **一句话定位**: 从 Claude Code 创造者的第一手经验,提炼 AI Agent 创始人最该内化的产品与心态原则——永远为下一代模型而造、押注「潜在需求」、把脚手架当技术债。

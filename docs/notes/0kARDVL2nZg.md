@@ -1,5 +1,7 @@
 # 最小可进化产品:如何拿到你的第一批用户 / How To Get Your First Users
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/0kARDVL2nZg.md)**
+
 > **来源**: [How To Get Your First Users](https://www.youtube.com/watch?v=0kARDVL2nZg) · Y Combinator · 2026-01-14 · 时长 05:41
 > **讲者**: Ankit Gupta(YC 合伙人 / General Partner,Main Function 系列)
 > **一句话定位**: 把经典 MVP 升级为"最小可进化产品(Minimum Evolvable Product)"——教你像跑搜索算法一样找到第一批"疯狂到愿意试你"的早期用户,并让他们反向塑造产品的进化方向;对纠结 to C 还是 to B、又要靠早期用户校准 Agent 形态的创始人尤其对症。

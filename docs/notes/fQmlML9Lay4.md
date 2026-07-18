@@ -1,5 +1,7 @@
 # 像指挥家一样管理一群编程 Agent:Conductor CEO 的 AI 编码工作流 / Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/fQmlML9Lay4.md)**
+
 > **来源**: [Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup](https://www.youtube.com/watch?v=fQmlML9Lay4) · Y Combinator · 2026-06-04 · 时长 16:35
 > **讲者**: Charlie Holtz —— Conductor 联合创始人 / CEO(YC S24);SPEAKER_00 为 YC《Full Stack》系列主持人(片中未点名,推测与文中提到的 Gary 相关)
 > **一句话定位**: 一位已经"几乎不再手写代码"的 YC 创始人,逐屏演示如何用语音同时指挥多个编程 Agent、把哪些决策留给人、哪些放手给 AI——给 AI Agent 创始人一套可直接照抄的"人在环上"工作流与产品哲学。

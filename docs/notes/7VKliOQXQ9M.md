@@ -1,5 +1,7 @@
 # 如何让好公司不腐坏:创始人必须懂的公司治理与使命控制 / How The Best Companies Defend Against Mediocrity And Rot
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/7VKliOQXQ9M.md)**
+
 > **来源**: [How The Best Companies Defend Against Mediocrity And Rot](https://www.youtube.com/watch?v=7VKliOQXQ9M) · Y Combinator · 2026-05-22 · 时长 50:04
 > **讲者**: 主持 Garry Tan(YC CEO,《Main Function》)· 嘉宾 Eric Ries(《精益创业 The Lean Startup》作者,新书《Incorruptible》)
 > **一句话定位**: 讲的不是产品或增长,而是"股权与治理结构"——如何在 seed 阶段就用 PBC、使命控制、工业基金会等结构,防止你亲手创造的东西日后被投资人/董事会夺走或腐化;对做高价值、有安全争议的 AI Agent 创始人尤其致命重要。

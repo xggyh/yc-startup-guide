@@ -3,27 +3,33 @@
 > 从 **80 支 Y Combinator 近期(2026)视频**综合而成的**中英双语创业教程**,写给即将下场的 **AI Agent 工程师**。
 > A bilingual startup handbook synthesized from 80 recent Y Combinator talks — for AI-agent engineers about to build.
 
-<div class="grid" markdown>
+## 📚 三个部分怎么配合 / Three parts
 
-| 指标 Metric | 值 |
-|---|---|
-| 视频 Videos | **80** |
-| 音频时长 Audio | **~43.8 h** |
-| 转写词数 Words | **~530k** |
-| 手册章节 Chapters | **9 + 附录** |
-| 逐视频双语笔记 Notes | **80** |
+<div class="grid cards" markdown>
+
+-   __① 逐视频精读 · One-page__
+
+    每支视频一页,学完就知道它讲了什么:中文 TL;DR + 分段精读(英文金句 + 中文小结)+ 给 AI Agent 创始人的行动项。每页顶部可**一键跳到该视频的全文转录**。
+
+    [:octicons-arrow-right-24: 进入精读](notes/-7Qz7tSTfUU.md)
+
+-   __② 创业手册 · Handbook__
+
+    把 80 支视频的共识抽象成 9 章「核心原则 + 行动清单」,**跟着学、跟着做**。
+
+    [:octicons-arrow-right-24: 从导言开始](handbook/00-intro.md)
+
+-   __③ 全量转录 · Transcripts__
+
+    每支视频的**完整逐字转录**(带时间戳与说话人),从精读页跳转过来,想深挖细节时用。
+
+    [:octicons-arrow-right-24: 视频索引](handbook/10-appendix.md)
 
 </div>
 
-## 🚀 怎么读 / Reading paths
+**建议路径**:先在 ② 手册建立框架 → 用 ① 精读逐支吃透 → 需要原话/细节时点进 ③ 转录。
 
-- **想清楚要不要干** → [第 1 章 心态](handbook/01-mindset.md)
-- **找方向 / 选 idea** → [第 2 章 选题](handbook/02-idea.md) → [第 3 章 验证](handbook/03-validation.md)
-- **动手做产品** → [第 4 章 MVP/PMF](handbook/04-mvp_pmf.md) → [第 5 章 增长](handbook/05-growth.md)
-- **融资与团队** → [第 6 章 融资](handbook/06-fundraising.md) → [第 7 章 团队](handbook/07-team.md)
-- **本时代的核心题** → ⭐ [第 8 章 AI / Agent 专题](handbook/08-ai_agent.md) → [第 9 章 陷阱](handbook/09-pitfalls.md)
-
-## 📖 章节地图 / Chapters
+## 🗺️ 手册章节地图 / Chapters
 
 <div class="grid cards" markdown>
 
@@ -65,12 +71,6 @@
 
 </div>
 
-## 🧭 也可以直接看
-
-- [手册导言](handbook/00-intro.md) — 完整的使用说明
-- [视频索引附录](handbook/10-appendix.md) — 80 支视频一览 + 对应笔记
-- **逐视频双语笔记** — 左侧「逐视频笔记 Notes」按主题浏览全部 80 篇
-
 ---
 
 ## 🛠️ 怎么来的 / How it was built
@@ -78,9 +78,9 @@
 ```text
 80 支 YC YouTube 视频(只下音频)
    → 本地 Whisper large-v3 转写(RTX 4090)
-   → pyannote 说话人分离(谁在说)
-   → 逐视频双语笔记 notes/<id>.md
-   → 跨视频主题综合 → handbook/ 各章
+   → pyannote 说话人分离(谁在说)→ ③ 全量转录
+   → 逐视频双语笔记 → ① 精读 one-page
+   → 跨视频主题综合 → ② 手册
 ```
 
 全流程本地运行、脚本开源(见仓库 `scripts/`)。

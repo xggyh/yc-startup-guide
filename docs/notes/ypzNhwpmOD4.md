@@ -1,5 +1,7 @@
 # Stripe 如何重做官网:AI 时代的设计品味与质量底线 / How Stripe Built Their New Website
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/ypzNhwpmOD4.md)**
+
 > **来源**: [How Stripe Built Their New Website](https://www.youtube.com/watch?v=ypzNhwpmOD4) · Y Combinator · 2026-04-22 · 时长 43:36
 > **讲者**: 主持 Aaron Epstein(YC,SPEAKER_00);嘉宾 Katie Dill(Stripe 设计负责人 / Head of Design,SPEAKER_02)。SPEAKER_01 为 YC Startup School 广告口播。
 > **一句话定位**: 一场关于"官网即公司宣言、AI 只抬高地板但替代不了品味"的设计复盘;对 AI Agent 创始人的价值在于:如何用 AI 提速却不产出 slop、如何守住质量底线、如何设计 agent 体验、如何用"最小可用质量产品(MVQP)"和"走店"验证真实用户体验。

@@ -1,5 +1,7 @@
 # Anthropic 联创谈 Claude Code、GPT-3 与 AI 系统设计 / Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/JdT78t1Offo.md)**
+
 > **来源**: [Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design](https://www.youtube.com/watch?v=JdT78t1Offo) · Y Combinator · 2025-08-19 · 时长 35:57
 > **讲者**: 嘉宾 Tom Brown(Anthropic 联合创始人,曾在 OpenAI 主导 GPT-3 基础设施)= SPEAKER_04;主持为 The Lightcone / YC 团队(Garry Tan、Jared Friedman、Diana Hu、Harj Taggar 等)= SPEAKER_00/01/02/03
 > **一句话定位**: 一位从"线性代数拿 B-"自学转型的工程师,如何一路做到共建 Anthropic —— 讲透了规模定律、"把 Claude 当用户"造 Claude Code 的产品直觉,以及 AI Agent 创业者可切入的巨大空白市场。

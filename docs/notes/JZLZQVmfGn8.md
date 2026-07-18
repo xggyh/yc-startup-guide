@@ -1,5 +1,7 @@
 # Transformer 简史:改变 AI 的那次发现 / Transformers Explained: The Discovery That Changed AI Forever
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/JZLZQVmfGn8.md)**
+
 > **来源**: [Transformers Explained: The Discovery That Changed AI Forever](https://www.youtube.com/watch?v=JZLZQVmfGn8) · Y Combinator · 2025-10-23 · 时长 09:19
 > **讲者**: Ankit Gupta(YC)——单人讲解(转录中标记为 SPEAKER_00)
 > **一句话定位**: 用 10 分钟把 LSTM → 注意力 → Transformer 的技术演进讲清楚,让 AI Agent 创始人真正理解自己每天调用的模型是怎么来的,以及"重大突破从来不是一夜之间"这条对创业同样成立的规律。

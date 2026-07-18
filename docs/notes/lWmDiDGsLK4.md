@@ -1,5 +1,7 @@
 # 软件创造的未来:Replit CEO 谈应用软件价值归零与 Agent 栖息地 / The Future of Software Creation with Replit CEO Amjad Masad
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/lWmDiDGsLK4.md)**
+
 > **来源**: [The Future of Software Creation with Replit CEO Amjad Masad](https://www.youtube.com/watch?v=lWmDiDGsLK4) · Y Combinator · 2025-09-12 · 时长 42:02
 > **讲者**: Amjad Masad(Replit 联合创始人兼 CEO);现场为 AI Startup School 演讲 + 观众 Q&A(提问者为 SPEAKER_02~11 等,身份多不可考)
 > **一句话定位**: 一位做了近 10 年"让人人都能编程"的 CEO 告诉你:写代码的 Agent 是易事,难的是 Agent 的"栖息地"(基础设施);应用软件价值终将归零,而做 Agent 创业最重要的护城河是领域知识。

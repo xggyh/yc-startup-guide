@@ -1,5 +1,7 @@
 # 最好的消费级创业点子,过去做不了、现在能做了 / The Best Consumer Startup Ideas Were Impossible Until Now
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/Z4L4ZqL1xqQ.md)**
+
 > **来源**: [The Best Consumer Startup Ideas Were Impossible Until Now](https://www.youtube.com/watch?v=Z4L4ZqL1xqQ) · Y Combinator · 2025-11-28 · 时长 39:35
 > **讲者**: Garry Tan(主持,YC CEO,SPEAKER_00)· Mike Mignano(嘉宾,Lightspeed 合伙人,Anchor 创始人/2019 被 Spotify 收购,近期联合创办 AI 学习产品 Oboe;投资过 Suno、Granola、xAI、Neuralink,SPEAKER_01)
 > **一句话定位**: 一位"创始人转投资人"的消费 AI 老兵,拆解为什么 AI 让一批"被判死刑"的品类重新可投,以及分发、taste、数据集、增长纪律这几件事对任何想做消费级 AI(含 Agent)产品的创始人意味着什么。

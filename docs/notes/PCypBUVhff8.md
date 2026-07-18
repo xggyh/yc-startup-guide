@@ -1,5 +1,7 @@
 # 用 7000 美元的 PVC 反应器,撬动 6 万亿美元的化工行业:Solugen 的从 0 到 10 亿 / Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/PCypBUVhff8.md)**
+
 > **来源**: [Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry](https://www.youtube.com/watch?v=PCypBUVhff8) · Y Combinator · 2026-03-20 · 时长 13:07
 > **讲者**: Gaurab Chakrabarti(Solugen 联合创始人 / CEO,SPEAKER_00)、Sean Hunt(联合创始人 / CTO,SPEAKER_01)、Jared Friedman(YC 合伙人,旁白 / 采访者,SPEAKER_02)。字幕把公司名误拼为 Soligen / Cyanogen / SolidGen,实为 **Solugen**。
 > **一句话定位**: 一个硬科技(化工)的从 0 到 10 亿案例,但对 AI Agent 创始人真正值钱的是它的"创业方法论":资本约束逼出创造力、先卖后建、把客户读成博士、用最小可用装置跑通单位经济、再原样放大——这套打法几乎可以整段搬到 Agent 创业上。

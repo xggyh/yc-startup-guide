@@ -1,5 +1,7 @@
 # 关于 AI 与就业,所有人都想错了 / What Everyone Is Getting Wrong About AI And Jobs
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/IqwSb2hO1jE.md)**
+
 > **来源**: [What Everyone Is Getting Wrong About AI And Jobs](https://www.youtube.com/watch?v=IqwSb2hO1jE) · Y Combinator · 2025-10-14 · 时长 08:01
 > **讲者**: Garry Tan(YC CEO,主旁白;开头穿插引用了 AI 末日派与怀疑派的片段,以及 Jeffrey Hinton、Aaron Levy、Andrej Karpathy 的观点)
 > **一句话定位**: 用"杰文斯悖论"重构 AI 与就业的关系——当 AI 把某项工作的成本压到极低时,需求往往暴涨而非归零;这告诉 AI Agent 创始人该去哪些"被压抑的需求"里找机会、以及为什么现在就该动手。

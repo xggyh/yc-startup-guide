@@ -1,5 +1,7 @@
 # 创业前该问自己的问题:在 AGI 逼近时如何做 AI 创业 / Ask These Questions Before Starting An AI Startup
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/DJjZzzPANBY.md)**
+
 > **来源**: [Ask These Questions Before Starting An AI Startup](https://www.youtube.com/watch?v=DJjZzzPANBY) · Y Combinator · 2025-10-07 · 时长 40:36
 > **讲者**: Jordan Fisher(Standard AI 联合创始人兼前 CEO,现于 Anthropic 领导一支 AI 对齐研究团队;YC 校友)。演讲录于 2025-06-17 的 AI Startup School。后半为现场观众问答。
 > **一句话定位**: 在"AGI 可能两三年内到来"的假设下,用一连串尖锐问题(而非答案)逼你重估产品、团队、护城河与信任——帮 AI Agent 创始人避免做出"六个月后就成为四舍五入误差"的东西。

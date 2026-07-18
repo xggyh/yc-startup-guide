@@ -1,5 +1,7 @@
 # 我们如何重做官网:用"讲故事"代替"卖产品",用 AI 直接做交互原型 / How We Redesigned Our Website
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/K5JoLAauzq4.md)**
+
 > **来源**: [How We Redesigned Our Website](https://www.youtube.com/watch?v=K5JoLAauzq4) · Y Combinator · 2026-01-30 · 时长 18:40
 > **讲者**: Aaron Epstein(YC General Partner,主持,SPEAKER_01)与 Eve Bouffard(YC 产品设计师,SPEAKER_02);另有一段官方申请广告口播(SPEAKER_00)
 > **一句话定位**: 一期"设计复盘"节目,拆解 YC 官网从"B2B SaaS 模板式推销页"改成"以创始人故事激发梦想"的落地页的全过程——对要给 AI Agent 产品做官网/落地页、并想用 Opus 4.5 + Cursor 把设计当协作者来做交互原型的创始人极其对症。

@@ -1,5 +1,7 @@
 # Dylan Field 谈 Figma 的规模化与设计的未来 / Dylan Field: Scaling Figma and the Future of Design
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/-7Qz7tSTfUU.md)**
+
 > **来源**: [Dylan Field: Scaling Figma and the Future of Design](https://www.youtube.com/watch?v=-7Qz7tSTfUU) · Y Combinator · 2025-08-08 · 时长 40:37
 > **讲者**: Dylan Field(Figma 联合创始人 & CEO,SPEAKER_02);YC 主持人(SPEAKER_04)现场对谈 + 观众 Q&A(录制于 2025-06-17 AI Startup School, San Francisco)
 > **一句话定位**: 一位工具型创始人用 13 年经验讲透"尽早发布/收费、识别 product-market pull、把约束当创造力",并给出 AI 时代最反直觉的判断——当写代码变廉价,设计/品味/eval 才是护城河,这对做 AI Agent 的创始人尤其致命关键。

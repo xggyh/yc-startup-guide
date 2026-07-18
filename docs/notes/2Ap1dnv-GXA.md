@@ -1,5 +1,7 @@
 # 两个 IIT 工程师为何拒绝 55 万美元工作去创业 / Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/2Ap1dnv-GXA.md)**
+
 > **来源**: [Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup](https://www.youtube.com/watch?v=2Ap1dnv-GXA) · Y Combinator · 2026-05-29 · 时长 24:29
 > **讲者**: 嘉宾 Varun Vummadi(Giga / GigaML 联合创始人,做客服 AI Agent);主持 Ankit Gupta(YC General Partner)。录制于 Startup School India。
 > **一句话定位**: 一位 AI 客服 Agent 创始人复盘从 EdTech → 微调 → 客服的多次 pivot,核心结论对做 AI Agent 创业者极有价值:不要纠结点子和市场,而要盯住"客户是否愿意为价值付真钱",并把 Agent 产品化为"可迭代的 markdown 策略 + KPI"。

@@ -1,5 +1,7 @@
 # 从零开始用 AI 搭建一家公司 / How To Build A Company With AI From The Ground Up
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/EN7frwQIbKc.md)**
+
 > **来源**: [How To Build A Company With AI From The Ground Up](https://www.youtube.com/watch?v=EN7frwQIbKc) · Y Combinator · 2026-04-24 · 时长 10:27
 > **讲者**: Diana Hu(YC 合伙人 / Partner at YC)
 > **一句话定位**: 讲的不是"用 AI 提效",而是把 AI 当成公司运行的操作系统——教 AI Agent 创始人如何从第一天起就把整家公司搭成"可被 AI 查询、自我改进的闭环",用最小团队跑出 10-1000 倍的速度。

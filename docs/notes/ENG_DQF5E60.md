@@ -1,5 +1,7 @@
 # 用碳捕集删掉全美 29% 碳排放:一个门外汉如何啃下硬科技创业 / This Startup Is Trying To Delete 29% Of All CO2 Emissions
 
+📄 **[点此查看全文转录 / Full transcript »](../transcripts/ENG_DQF5E60.md)**
+
 > **来源**: [This Startup Is Trying To Delete 29% Of All CO2 Emissions](https://www.youtube.com/watch?v=ENG_DQF5E60) · Y Combinator · 2025-10-09 · 时长 12:46
 > **讲者**: 主持 Gustaf Alströmer(YC 合伙人,Hard Tech 系列);嘉宾 Paul Gross(Remora 创始人兼 CEO)
 > **一句话定位**: 一个没有工程/科学背景的应届生,如何靠"先动手、搭专家团队、快迭代、拉高野心"把一个"不可能"的硬件难题变成融资 1.17 亿美金的公司——对 AI Agent 创始人而言,这是一份关于"如何在自己不是专家的领域启动、如何用仿真环境把迭代循环拉快"的实战教材。

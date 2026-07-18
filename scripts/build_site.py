@@ -44,6 +44,17 @@ def build_transcripts(sums):
     os.makedirs("docs/transcripts", exist_ok=True)
     made = 0
     for vid, s in sums.items():
+        zt, et = s.get("zh_title", vid), s.get("en_title", "")
+        header = (f"# 全文转录 · {zt}\n\n"
+                  f"> ▶ [YouTube](https://www.youtube.com/watch?v={vid}) &nbsp;·&nbsp; "
+                  f"← [返回精读 One-page](../notes/{vid}.md) &nbsp;·&nbsp; {et}\n\n"
+                  f"> 中英对照 · 每段英文原文下附中文翻译\n\n")
+        bil = f"transcripts/{vid}.bilingual.md"
+        if os.path.exists(bil) and os.path.getsize(bil) > 200:
+            body = open(bil, encoding="utf-8").read().strip()
+            open(f"docs/transcripts/{vid}.md", "w", encoding="utf-8").write(header + body + "\n")
+            made += 1
+            continue
         jp = f"transcripts/{vid}.speaker.json"
         if not os.path.exists(jp):
             jp = f"transcripts/{vid}.json"
@@ -103,6 +114,10 @@ def build_docs(sums):
     if os.path.isdir("docs"):
         shutil.rmtree("docs")
     os.makedirs("docs/handbook")
+    os.makedirs("docs/stylesheets", exist_ok=True)
+    os.makedirs("docs/assets", exist_ok=True)
+    shutil.copy("scripts/site_assets/extra.css", "docs/stylesheets/extra.css")
+    shutil.copy("scripts/site_assets/logo.svg", "docs/assets/logo.svg")
     for f in glob.glob("handbook/*.md"):
         shutil.copy(f, "docs/handbook/" + os.path.basename(f))
     build_notes()
@@ -113,62 +128,63 @@ def build_docs(sums):
 
 def write_index(sums):
     n = len(sums)
+    first_note = sorted(sums)[0]
     cards = []
     for key in THEME_ORDER:
         num = THEME_ORDER.index(key) + 1
         fn = f"{num:02d}-{key}"
-        cards.append(f"-   __{CH_TITLES[fn]}__\n\n    [:octicons-arrow-right-24: 阅读本章](handbook/{fn}.md)")
+        cards.append(f"-   __{CH_TITLES[fn]}__\n\n    [阅读本章 →](handbook/{fn}.md)")
     cards_block = "<div class=\"grid cards\" markdown>\n\n" + "\n\n".join(cards) + "\n\n</div>"
-    md = f"""# YC 创业手册 · AI Agent 创始人版
 
-> 从 **{n} 支 Y Combinator 近期(2026)视频**综合而成的**中英双语创业教程**,写给即将下场的 **AI Agent 工程师**。
-> A bilingual startup handbook synthesized from {n} recent Y Combinator talks — for AI-agent engineers about to build.
+    hero = f'''<div class="yc-hero">
+  <span class="yc-hero__eyebrow">YC × AI Agent Founders</span>
+  <h1>YC 创业手册</h1>
+  <p class="yc-hero__sub">从 {n} 支 Y Combinator 近期视频综合的 <strong>中英双语创业教程</strong> —— 写给即将下场的 AI Agent 工程师。学完就知道每支视频讲了什么,并把它落到你的下一个 commit。</p>
+  <div class="yc-hero__cta">
+    <a class="md-button md-button--primary" href="handbook/00-intro/">开始阅读 →</a>
+    <a class="md-button" href="handbook/08-ai_agent/">⭐ AI / Agent 专题</a>
+  </div>
+  <div class="yc-hero__stats">
+    <div class="yc-hero__stat"><b>{n}</b><span>YC 视频</span></div>
+    <div class="yc-hero__stat"><b>43.8h</b><span>音频转写</span></div>
+    <div class="yc-hero__stat"><b>9</b><span>手册章节</span></div>
+    <div class="yc-hero__stat"><b>{n}</b><span>逐视频精读</span></div>
+  </div>
+</div>
+'''
 
-## 📚 三个部分怎么配合 / Three parts
+    body = f'''
+## 三个部分怎么配合 / Three parts
 
 <div class="grid cards" markdown>
 
--   __① 逐视频精读 · One-page__
+-   <span class="yc-chip">① One-page</span> · __逐视频精读__
 
-    每支视频一页,学完就知道它讲了什么:中文 TL;DR + 分段精读(英文金句 + 中文小结)+ 给 AI Agent 创始人的行动项。每页顶部可**一键跳到该视频的全文转录**。
+    每支视频一页,学完就知道它讲了什么:中文 TL;DR + 分段精读(英文金句 + 中文小结)+ 给 AI Agent 创始人的行动项。顶部可一键跳到**全文转录**。
 
-    [:octicons-arrow-right-24: 进入精读](notes/{sorted(sums)[0]}.md)
+    [进入精读 →](notes/{first_note}.md)
 
--   __② 创业手册 · Handbook__
+-   <span class="yc-chip">② Handbook</span> · __创业手册__
 
     把 {n} 支视频的共识抽象成 9 章「核心原则 + 行动清单」,**跟着学、跟着做**。
 
-    [:octicons-arrow-right-24: 从导言开始](handbook/00-intro.md)
+    [从导言开始 →](handbook/00-intro.md)
 
--   __③ 全量转录 · Transcripts__
+-   <span class="yc-chip">③ Transcripts</span> · __全量转录__
 
-    每支视频的**完整逐字转录**(带时间戳与说话人),从精读页跳转过来,想深挖细节时用。
+    每支视频的**完整中英对照逐字稿**(带时间戳与说话人),想深挖原话细节时用。
 
-    [:octicons-arrow-right-24: 视频索引](handbook/10-appendix.md)
+    [视频索引 →](handbook/10-appendix.md)
 
 </div>
 
-**建议路径**:先在 ② 手册建立框架 → 用 ① 精读逐支吃透 → 需要原话/细节时点进 ③ 转录。
+**建议路径**:先在 ② 手册建立框架 → 用 ① 精读逐支吃透 → 需要原话细节时点进 ③ 转录。
 
-## 🗺️ 手册章节地图 / Chapters
+## 手册章节地图 / Chapters
 
 {cards_block}
-
----
-
-## 🛠️ 怎么来的 / How it was built
-
-```text
-{n} 支 YC YouTube 视频(只下音频)
-   → 本地 Whisper large-v3 转写(RTX 4090)
-   → pyannote 说话人分离(谁在说)→ ③ 全量转录
-   → 逐视频双语笔记 → ① 精读 one-page
-   → 跨视频主题综合 → ② 手册
-```
-
-全流程本地运行、脚本开源(见仓库 `scripts/`)。
-"""
-    open("docs/index.md", "w", encoding="utf-8").write(md)
+'''
+    open("docs/index.md", "w", encoding="utf-8").write(hero + body)
 
 # ---------- 导航 ----------
 def group_by_theme(sums, subdir):
@@ -204,19 +220,20 @@ def write_mkdocs(sums):
         "site_description": "从 80 支 Y Combinator 视频综合的中英双语创业教程(AI Agent 创始人向)",
         "theme": {
             "name": "material", "language": "zh",
+            "logo": "assets/logo.svg", "favicon": "assets/logo.svg",
+            "font": {"text": "Inter", "code": "JetBrains Mono"},
             "palette": [
-                {"media": "(prefers-color-scheme: light)", "scheme": "default",
-                 "primary": "deep orange", "accent": "orange",
+                {"media": "(prefers-color-scheme: light)", "scheme": "yc-light",
                  "toggle": {"icon": "material/weather-night", "name": "切换到深色模式"}},
-                {"media": "(prefers-color-scheme: dark)", "scheme": "slate",
-                 "primary": "deep orange", "accent": "orange",
+                {"media": "(prefers-color-scheme: dark)", "scheme": "yc-dark",
                  "toggle": {"icon": "material/weather-sunny", "name": "切换到浅色模式"}},
             ],
-            "features": ["navigation.instant", "navigation.tracking", "navigation.top",
-                         "navigation.indexes", "navigation.footer", "search.highlight",
-                         "search.suggest", "content.code.copy", "toc.follow"],
+            "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.top",
+                         "navigation.tracking", "navigation.indexes", "navigation.footer",
+                         "search.highlight", "search.suggest", "content.code.copy", "toc.follow"],
             "icon": {"repo": "fontawesome/brands/github"},
         },
+        "extra_css": ["stylesheets/extra.css"],
         "markdown_extensions": [
             "admonition", "attr_list", "md_in_html", "tables", "footnotes",
             {"toc": {"permalink": True}},

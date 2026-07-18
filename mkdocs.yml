@@ -3,25 +3,27 @@ site_description: 从 80 支 Y Combinator 视频综合的中英双语创业教�
 theme:
   name: material
   language: zh
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  font:
+    text: Inter
+    code: JetBrains Mono
   palette:
   - media: '(prefers-color-scheme: light)'
-    scheme: default
-    primary: deep orange
-    accent: orange
+    scheme: yc-light
     toggle:
       icon: material/weather-night
       name: 切换到深色模式
   - media: '(prefers-color-scheme: dark)'
-    scheme: slate
-    primary: deep orange
-    accent: orange
+    scheme: yc-dark
     toggle:
       icon: material/weather-sunny
       name: 切换到浅色模式
   features:
-  - navigation.instant
-  - navigation.tracking
+  - navigation.tabs
+  - navigation.tabs.sticky
   - navigation.top
+  - navigation.tracking
   - navigation.indexes
   - navigation.footer
   - search.highlight
@@ -30,6 +32,8 @@ theme:
   - toc.follow
   icon:
     repo: fontawesome/brands/github
+extra_css:
+- stylesheets/extra.css
 markdown_extensions:
 - admonition
 - attr_list

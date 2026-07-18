@@ -1,10 +1,10 @@
 # 机密:HF token 绝不入库
 scripts/.hf_token
 
-# 原始大文件 / 可由脚本重建的中间产物
-yc_video/
-transcripts/
-site/
+# 原始大文件 / 可由脚本重建的中间产物(锚定到仓库根,避免误伤 docs/transcripts 等)
+/yc_video/
+/transcripts/
+/site/
 *.wav
 __pycache__/
 *.pyc
